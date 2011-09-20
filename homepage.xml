@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/mobilepage.xsl"?>
+<page xmlns="http://gov.ns.ca/xmlns/page">
+  <title lang="en" abbr="Gov NS">Government of Nova Scotia</title>
+  <title lang="fr" abbr="NÉ Gov">Gouvernement de la Nouvelle-Écosse</title>
+  <content>
+    <contentlinks>
+      <link page="location"/>
+    </contentlinks>
+  </content>
+</page>
