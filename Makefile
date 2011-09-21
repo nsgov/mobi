@@ -23,12 +23,13 @@ $(FRENCH_HTML): $(XMLFILE) $(DEPS)
 
 all: $(DEFAULT_TARGETS) recursive
 	@for d in $(DIRS); do \
-		echo "$(H_CLR)$(URLPATH)$$d$(N_CLR):"; \
+		$(MAKE) -C $$d -q || echo "$(H_CLR)$(URLPATH)$$d$(N_CLR):"; \
 		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; \
 	done
 
 clean:
-	rm -f $(ENGLISH_HTML) $(FRENCH_HTML) .id.xml
+	rm -f $(ENGLISH_HTML) $(FRENCH_HTML)
+	@rm -f .id.xml
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
