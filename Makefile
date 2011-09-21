@@ -4,7 +4,7 @@ XMLFILE  = $(shell [ -f site.conf ] && echo homepage || echo $(CWD)).xml
 ENGLISH_HTML = index.html
 FRENCH_HTML = fr.html
 DEFAULT_TARGETS = $(ENGLISH_HTML) $(shell if grep -s lang=.fr. $(XMLFILE) > /dev/null; then echo $(FRENCH_HTML); fi)
-DIRS = $(shell for d in */; do [ -f $$d/$$d.xml ] && printf "%s " $$d; done)
+DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] && printf "%s " $$d; done)
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
@@ -47,7 +47,16 @@ stage:
 .id.xml: . $(RELROOT)/Makefile
 	@echo "<id>`basename $(XMLFILE) .xml`</id>" > $@
 
+Makefiles: recursive
+	@for d in $(DIRS); do \
+		$(MAKE) -C $$d --no-print-directory Makefiles; \
+	done
+
 recursive:
 	@for d in $(DIRS); do \
-		[ -f $$d/Makefile ] || echo "Include $(RELROOT)/Makefile" > $$d/Makefile; \
+		if [ ! -f $$d/Makefile ]; then \
+			echo "$(H_CLR) Making $(URLPATH)$$d/Makefile$(N_CLR) "; \
+			echo "Include $(RELROOT)/Makefile" > $$d/Makefile; \
+			git add $$d/Makefile && git commit -m "Generated Makefile" $$d/Makefile; \
+		fi; \
 	done
