@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="accessns.xsl"?>
+
+<page breadcrumb="../" xmlns="http://gov.ns.ca/xmlns/page"> 
+  <title>Contact Nova Scotia Government</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Online Contacts</h2>
+			<ol><li>Contact form</li></ol>
+
+		<h2>Phone Numbers</h2>
+			<ol>
+				<li>Emergency: <a href="tel:911">911</a></li>
+				<li>Access Nova Scotia: Toll free: <a href="tel:+18006704357">1-800-670-4357</a>,  TTY: <a href="tel:+18774040867">1-877-404-0867</a></li>
+				<li>Public Enquiries: Toll free: <a href="tel:+18006704357">1-800-670-4357</a>,  TTY: <a href="tel:+18774040867">1-877-404-0867</a></li>
+				<li>Poison Control Centre: Toll free: <a href="tel:+1-800-565-8161">1-800-565-8161</a>, (local) <a href="tel:+19024288161">(902) 428-8161</a></li>
+				<li>Ask a Nurse: <a href="tel:811">811</a>,  TTY <a href="tel:711">711</a></li>
+				<li>Road Conditions: <a href="tel:511">511</a></li>
+				<li>Report Environmental Spills Toll free: <a href="tel:+1-877-936-8476">1-877-9ENVIRO</a>, (<a href="tel:+1-877-936-8476">1-877-936-8476</a>). After 4:30 pm <a href="tel:+1-800-565-1633">1-800-565-1633</a></li>
+				<li>Report Fires, Poaching, or Wildlife Emergencies: <a href="tel:+1-800-565-2224">1-800-565-2224</a></li>
+				<li><a href="deptagency/">Department Reception</a></li>
+				<li>MSI (Have your Health Card number ready, if possible):
+Toll free: <a href="tel:+1-800-563-8880">1-800-563-8880</a>, <a href="tel:+19024967008">(902) 496-7008</a>
+Use the above numbers to report a lost, damaged, or stolen card,  or to report changes such as new address, birth, adoption, death, marriage, divorce, or legal separation. (There is a $10.00 fee to replace a lost or stolen card.)</li>
+			</ol>
+	</html>
+  </content>
+</page>
+
+
+
