@@ -7,7 +7,7 @@ DEFAULT_TARGETS = $(ENGLISH_HTML) $(shell if grep -s lang=.fr. $(XMLFILE) > /dev
 DIRS = $(shell for d in */; do [ -f $$d/Makefile ] && printf "%s " $$d; done)
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
-RELPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT):.:")
+URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
 DEPS = Makefile .id.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl 
 H_CLR = $(shell printf "%b" "\033[0;37;44m")
 E_CLR = $(shell printf "%b" "\033[1;37;41m")
@@ -23,8 +23,8 @@ $(FRENCH_HTML): $(XMLFILE) $(DEPS)
 
 all: $(DEFAULT_TARGETS) recursive
 	@for d in $(DIRS); do \
-		echo "$(H_CLR)$(RELPATH)/$$d$(N_CLR):"; \
-		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(RELPATH)/$$d\" * $(N_CLR)" 1>&2; \
+		echo "$(H_CLR)$(URLPATH)$$d$(N_CLR):"; \
+		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; \
 	done
 
 clean:
@@ -32,7 +32,7 @@ clean:
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
-		echo "$(H_CLR) - Cleaning \"$(RELPATH)/$$d\" - $(N_CLR)"; \
+		echo "$(H_CLR) - Cleaning \"$(URLPATH)$$d\" - $(N_CLR)"; \
 		$(MAKE) -C $$d  --no-print-directory allclean; \
 	done
 
