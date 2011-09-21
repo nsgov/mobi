@@ -24,7 +24,7 @@ $(FRENCH_HTML): $(XMLFILE) $(DEPS)
 all: $(DEFAULT_TARGETS) recursive
 	@for d in $(DIRS); do \
 		echo "$(H_CLR)$(RELPATH)/$$d$(N_CLR):"; \
-		$(MAKE) -C $$d all  || echo "$(E_CLR) * Make failed in \"$(RELPATH)/$$d\" * $(N_CLR)" 1>&2; \
+		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(RELPATH)/$$d\" * $(N_CLR)" 1>&2; \
 	done
 
 clean:
@@ -33,7 +33,7 @@ clean:
 allclean: clean recursive
 	@for d in $(DIRS); do \
 		echo "$(H_CLR) - Cleaning \"$(RELPATH)/$$d\" - $(N_CLR)"; \
-		$(MAKE) -C $$d allclean; \
+		$(MAKE) -C $$d  --no-print-directory allclean; \
 	done
 
 fresh: allclean all
