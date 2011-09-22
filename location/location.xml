@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../xsl/mobilepage.xsl"?>
-<page breadcrumb="../" xmlns="http://gov.ns.ca/xmlns/page">
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
   <title abbr="Locations">Locations &amp; Hours</title>
   <content for="main">
       <contentlinks>
