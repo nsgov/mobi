@@ -5,13 +5,16 @@
                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                xmlns:pg="http://gov.ns.ca/xmlns/page"
                exclude-result-prefixes="html pg">
-<xsl:output encoding="UTF-8" indent="yes" method="html" doctype-system="about:legacy-compat"/>
+<xsl:output encoding="utf-8" indent="yes" method="xml"
+            doctype-public="-//W3C//DTD XHTML+RDFa 1.0//EN"
+            doctype-system="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"
+            omit-xml-declaration="yes"/>
 
 <xsl:param name="lang"/>
 
 <xsl:template match="/pg:page">
 <!--xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text-->
-<html>
+<html version="XHTML+RDFa 1.0" xmlns="http://www.w3.org/1999/xhtml" lang="{$lang}" xml:lang="{$lang}">
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
     <title><xsl:apply-templates select="pg:title[@lang=$lang or not(@lang)]"/></title>
