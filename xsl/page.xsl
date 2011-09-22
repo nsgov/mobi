@@ -11,6 +11,7 @@
             omit-xml-declaration="yes"/>
 
 <xsl:param name="lang"/>
+<xsl:param name="SITEROOT" select="document('.path.xml',/)/path/@root"/>
 
 <xsl:template match="/pg:page">
 <!--xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text-->
@@ -42,21 +43,19 @@
 </xsl:template>
 
 <xsl:template name="breadcrumbs">
-  <xsl:if test="@breadcrumb">
 	  <span class="whereareyou">You are here:</span>
 	  <ol xmlns:v="http://rdf.data-vocabulary.org/#">
-      <li typeof="v:Breadcrumb"><a href="/" class="breadcrumblink" rel="v:url" property="v:title">Home</a></li>
+      <li typeof="v:Breadcrumb"><a href="{$SITEROOT}/" class="breadcrumblink" rel="v:url" property="v:title">Home</a></li>
 	    <xsl:apply-templates select="@breadcrumb"/>
 	  </ol>
-	</xsl:if>
 </xsl:template>
 <xsl:template match="@breadcrumb">
   <xsl:param name="href"/>
-  <xsl:variable name="parentid" select="concat(document(concat(., '.id.xml'),.)/id/text(), '')"/>
-  <xsl:variable name="parentxml" select="concat(., $parentid, '.xml')"/>
+  <xsl:variable name="parentid" select="string(document(concat(., '/.path.xml'),.)/path/@basename)"/>
+  <xsl:variable name="parentxml" select="concat(., '/', $parentid, '.xml')"/>
   <xsl:if test="$parentid and $parentid != ''">
     <xsl:apply-templates select="document($parentxml,.)/pg:page/@breadcrumb">
-      <xsl:with-param name="href" select="concat($href, .)"/>
+      <xsl:with-param name="href" select="concat($href, ., '/')"/>
     </xsl:apply-templates>
   </xsl:if>
   <xsl:choose>

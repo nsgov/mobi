@@ -13,7 +13,7 @@ DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
-DEPS = Makefile .id.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
+DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
 TIDY_CONF = $(PROJROOT)/tidy.conf
 TIDY_FLAGS = -config $(TIDY_CONF)
 D_CLR = [0;37;44m
@@ -42,7 +42,7 @@ all: main recursive
 
 clean:
 	rm -f $(ENGLISH_HTML) $(FRENCH_HTML) $(ENGLISH_XHTML) $(FRENCH_XHTML)
-	@rm -f .id.xml
+	@rm -f .id.xml .path.xml
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
@@ -58,8 +58,8 @@ site:
 stage:
 	ssh mobile@cnsdev.ca 'cd stage && git pull && make all'
 
-.id.xml: . $(RELROOT)/Makefile
-	@echo "<id>`basename $(XMLFILE) .xml`</id>" > $@
+.path.xml: . $(RELROOT)/Makefile
+	@echo "<path basename='`basename $(XMLFILE) .xml`' root='`echo $(RELROOT)|cut -c 3-`'>`dirname $(URLPATH)x`</path>" > $@
 
 Makefiles: recursive
 	@for d in $(DIRS); do \

@@ -13,7 +13,7 @@
 
 <xsl:template match="pg:page" mode="css">
   <xsl:apply-imports/>
-  <link rel="stylesheet" type="text/css" href="/css/mobile.css" />
+  <link rel="stylesheet" type="text/css" href="{$SITEROOT}/css/mobile.css" />
 </xsl:template>
 
 <xsl:template match="pg:page" mode="layout"><!-- default layout-->
@@ -26,8 +26,8 @@
 </xsl:template>
 
 <xsl:template name="header">
-		<img id="vip" src="/img/vip.svg" alt="Nova Scotia"/>
-		<ul id="touchstone-links"><li class="touchstone-link">Home</li><li class="touchstone-link">Français</li></ul>
+		<a href="{$SITEROOT}/"><img id="vip" src="{$SITEROOT}/img/vip.svg" alt="Nova Scotia"/></a>
+		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><li class="touchstone-link">Français</li></ul>
 </xsl:template>
 
 <xsl:template match="pg:contentlinks">
@@ -38,7 +38,7 @@
 
 <xsl:template name="footer">
 	<ul class="footer-nav">
-	<li class="footerLink"><a href="">Contact</a></li>
+	<li class="footerLink"><a href="{$SITEROOT}/contact/">Contact</a></li>
 	<li class="footerLink"><a href="">Privacy</a></li>
 	<li class="footerLink"><a href="">Terms of Use</a></li>
 	<li class="footerLink"><a href="">Full Site</a></li>
