@@ -1,34 +1,47 @@
+.SUFFIXES:
+.SUFFIXES: .xml .xhtml .html .svg .svgz
 XSLT = xsltproc
 CWD = $(shell basename $$PWD)
 XMLFILE  = $(shell [ -f site.conf ] && echo homepage || echo $(CWD)).xml
+ENGLISH_XHTML = index.xhtml
+FRENCH_XHTML = fr.xhtml
 ENGLISH_HTML = index.html
 FRENCH_HTML = fr.html
-DEFAULT_TARGETS = $(ENGLISH_HTML) $(shell if grep -s lang=.fr. $(XMLFILE) > /dev/null; then echo $(FRENCH_HTML); fi)
+HTML_TARGETS = $(ENGLISH_HTML) $(shell if grep -s lang=.fr. $(XMLFILE) > /dev/null; then echo $(FRENCH_HTML); fi)
+DEFAULT_TARGETS = $(HTML_TARGETS)
 DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/Makefile ] && printf "%s " $$d; done)
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
 DEPS = Makefile .id.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
+TIDY_CONF = $(PROJROOT)/tidy.conf
+TIDY_FLAGS = -config $(TIDY_CONF)
 D_CLR = [0;37;44m
+TIDY_CLR = [0;43m
 E_CLR = [1;37;41m
-N_CLR = [0;39;49m
+N_CLR = [0;39;49m[K
 
-pages: $(DEFAULT_TARGETS)
+main: $(DEFAULT_TARGETS) $(DEPS)
 
-$(ENGLISH_HTML): $(XMLFILE) $(DEPS)
+.xhtml.html: $(TIDY_CONF)
+	@printf "tidy $(TIDY_FLAGS) -o "$@" "$<"\n$(TIDY_CLR)"
+	@tidy $(TIDY_FLAGS) -o "$@" "$<"
+	@printf "$(N_CLR)"
+
+$(ENGLISH_XHTML): $(XMLFILE) $(DEPS)
 	$(XSLT) --stringparam lang en $< -o $@
 
-$(FRENCH_HTML): $(XMLFILE) $(DEPS)
+$(FRENCH_XHTML): $(XMLFILE) $(DEPS)
 	$(XSLT) --stringparam lang fr $< -o $@
 
-all: $(DEFAULT_TARGETS) recursive
+all: main recursive
 	@for d in $(DIRS); do \
 		$(MAKE) -C $$d -q || echo "$(D_CLR)$(URLPATH)$$d$(N_CLR):"; \
 		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; \
 	done
 
 clean:
-	rm -f $(ENGLISH_HTML) $(FRENCH_HTML)
+	rm -f $(ENGLISH_HTML) $(FRENCH_HTML) $(ENGLISH_XHTML) $(FRENCH_XHTML)
 	@rm -f .id.xml
 
 allclean: clean recursive
