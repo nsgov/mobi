@@ -125,7 +125,7 @@ body {
 	text-align: right;
 }
 
-.bucketHead, .boxList > *:first-child {
+.bucketHead, .box, .boxList > *:first-child {
 	-webkit-border-top-left-radius: 0.5em;
 	   -moz-border-top-left-radius: 0.5em;
 	        border-top-left-radius: 0.5em;
@@ -156,7 +156,7 @@ body {
 .boxList > *:nth-child(odd), .bucketList > *:nth-child(even) {
 	background: white;
 }
-.bucket, .boxList > *:last-child, .bucketList > *:last-child {
+.bucket, .box, .boxList > *:last-child, .bucketList > *:last-child {
 	-webkit-border-bottom-left-radius: 0.5em;
 	   -moz-border-bottom-left-radius: 0.5em;
 	        border-bottom-left-radius: 0.5em;
@@ -165,7 +165,7 @@ body {
 	        border-bottom-right-radius: 0.5em;
 }
 
-.bucket {
+.box, .bucket {
 	background: white;
 	background: -moz-linear-gradient(top, #d6dde0 0%, #ffffff 50%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d6dde0), color-stop(50%,#ffffff)); /* Chrome,Safari4+ */
