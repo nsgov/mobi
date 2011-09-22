@@ -8,10 +8,10 @@ DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] && printf "%
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
-DEPS = Makefile .id.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl 
-H_CLR = $(shell printf "%b" "\033[0;37;44m")
-E_CLR = $(shell printf "%b" "\033[1;37;41m")
-N_CLR = $(shell printf "%b" "\033[0;39;49m")
+DEPS = Makefile .id.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
+D_CLR = [0;37;44m
+E_CLR = [1;37;41m
+N_CLR = [0;39;49m
 
 pages: $(DEFAULT_TARGETS)
 
@@ -23,7 +23,7 @@ $(FRENCH_HTML): $(XMLFILE) $(DEPS)
 
 all: $(DEFAULT_TARGETS) recursive
 	@for d in $(DIRS); do \
-		$(MAKE) -C $$d -q || echo "$(H_CLR)$(URLPATH)$$d$(N_CLR):"; \
+		$(MAKE) -C $$d -q || echo "$(D_CLR)$(URLPATH)$$d$(N_CLR):"; \
 		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; \
 	done
 
@@ -33,7 +33,7 @@ clean:
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
-		echo "$(H_CLR) - Cleaning \"$(URLPATH)$$d\" - $(N_CLR)"; \
+		echo "$(D_CLR) - Cleaning \"$(URLPATH)$$d\" - $(N_CLR)"; \
 		$(MAKE) -C $$d  --no-print-directory allclean; \
 	done
 
@@ -56,7 +56,7 @@ Makefiles: recursive
 recursive:
 	@for d in $(DIRS); do \
 		if [ ! -f $$d/Makefile ]; then \
-			echo "$(H_CLR) Making $(URLPATH)$$d/Makefile$(N_CLR) "; \
+			echo "$(D_CLR) Making $(URLPATH)$$d/Makefile$(N_CLR) "; \
 			echo "Include $(RELROOT)/Makefile" > $$d/Makefile; \
 			git add $$d/Makefile && git commit -m "Generated Makefile" $$d/Makefile; \
 		fi; \
