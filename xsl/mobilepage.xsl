@@ -26,7 +26,7 @@
 </xsl:template>
 
 <xsl:template name="header">
-		<img id="vip" src="/img/vip.svg"/>
+		<img id="vip" src="/img/vip.svg" alt="Nova Scotia"/>
 		<ul id="touchstone-links"><li class="touchstone-link">Home</li><li class="touchstone-link">Français</li></ul>
 </xsl:template>
 
