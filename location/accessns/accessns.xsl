@@ -7,7 +7,7 @@
 <xsl:import href="../../xsl/mobilepage.xsl"/>
 
 <xsl:template match="pg:contentlinks">
-  <h1 class="bucketHead"><img src="/location/accessns/accessns-logo.png" alt="Access Nova Scotia"/></h1>
+  <h1 class="bucketHead"><img src="{$SITEROOT}/location/accessns/accessns-logo.png" alt="Access Nova Scotia"/></h1>
   <ul class="bucketList">
     <xsl:apply-templates/>
   </ul>
