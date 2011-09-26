@@ -1,0 +1,41 @@
+#container {
+	background: #7b9caf url(img/mbg-hfx-skyline-240.jpg) no-repeat;
+	background-size: 100%;
+	background-origin: content-box;
+	height:auto;
+	min-height: 100%;
+	position: relative;
+}
+
+#header {
+	background: transparent;
+	border-width: 0;
+}
+
+#breadcrumbs { display: none; }
+
+#nav {
+	margin-top: 14%;
+	padding-bottom: 4em;
+}
+
+.content-link {
+	font-size: 0.9em;
+	color:#015CA9;
+	display: block;
+	padding: 0.5em;
+	margin: 2% 0.5em;
+	background: #eee; /* Old browsers */
+	background: -moz-linear-gradient(bottom, #edf3f5 0%, #d9e4ea 50%, #f9fbfb 53%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#edf3f5), color-stop(50%,#d9e4ea), color-stop(53%,#f9fbfb)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(bottom, #edf3f5 0%,#d9e4ea 50%,#f9fbfb 53%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(bottom, #edf3f5 0%,#d9e4ea 50%,#fbf9f9 53%); /* Opera11.10+ */
+	background: -ms-linear-gradient(bottom, #edf3f5 0%,#d9e4ea 50%,#fbf9f9 53%); /* IE10+ */
+	background: linear-gradient(bottom, #edf3f5 0%,#d9e4ea 50%,#fbf9f9 53%); /* W3C */
+	-webkit-background-clip: padding-box;
+	   -moz-background-clip: padding;
+	        background-clip: padding-box;
+	-webkit-border-radius: 0.5em;
+	   -moz-border-radius: 0.5em;
+	        border-radius: 0.5em;
+}

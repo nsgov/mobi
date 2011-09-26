@@ -13,7 +13,7 @@ DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
-DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
+DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl *.xsl
 TIDY_CONF = $(PROJROOT)/tidy.conf
 TIDY_FLAGS = -config $(TIDY_CONF)
 D_CLR = [0;37;44m

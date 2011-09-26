@@ -21,6 +21,7 @@
     <title><xsl:apply-templates select="pg:title[@lang=$lang or not(@lang)]"/></title>
     <xsl:apply-templates select="." mode="meta"/>
     <xsl:apply-templates select="." mode="css"/>
+    <xsl:apply-templates select="pg:css"/>
   </head>
   <body>
     <xsl:apply-templates select="." mode="layout"/>
@@ -79,13 +80,19 @@
 <xsl:template match="pg:link[@page]">
   <xsl:variable name="file"><xsl:value-of select="@page"/>/<xsl:value-of select="@page"/>.xml</xsl:variable>
   <xsl:variable name="href"><xsl:choose><xsl:when test="$lang=''"><xsl:value-of select="$file"/></xsl:when><xsl:otherwise><xsl:value-of select="@page"/>/</xsl:otherwise></xsl:choose></xsl:variable>
-  <xsl:variable name="doctitle"><xsl:value-of select="document($file,.)/pg:page/pg:title"/></xsl:variable>
+  <xsl:variable name="doctitle"><xsl:value-of select="document($file,.)/pg:page/pg:title[@lang=$lang or not(@lang)]"/></xsl:variable>
   <xsl:variable name="title"><xsl:choose><xsl:when test="string-length($doctitle)"><xsl:value-of select="$doctitle"/></xsl:when><xsl:otherwise><xsl:value-of select="@page"/></xsl:otherwise></xsl:choose></xsl:variable>
   <li><a href="{$href}" class="content-link"><xsl:value-of select="$title"/></a></li>
 </xsl:template>
 
 <xsl:template match="html:html">
   <xsl:copy-of select="node()"/>
+</xsl:template>
+
+<xsl:template match="pg:css">
+  <link rel="stylesheet" href="{@href}" type="text/css">
+    <xsl:if test="@media"><xsl:attribute name="media"><xsl:value-of select="@media"/></xsl:attribute></xsl:if>
+  </link>
 </xsl:template>
 
 <xsl:template match="pg:script">
