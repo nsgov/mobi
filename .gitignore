@@ -4,6 +4,7 @@ index.html
 fr.html
 index.xhtml
 fr.xhtml
+*.doc
 
 # OS generated files #
 ######################
@@ -11,3 +12,15 @@ fr.xhtml
 ehthumbs.db
 Icon?
 Thumbs.db
+
+location/walkin/museums/.DS_Store
+
+location/walkin/.DS_Store
+
+location/healthcare/.DS_Store
+
+location/courts/familycourt/.DS_Store
+
+location/courts/.DS_Store
+
+.DS_Store
