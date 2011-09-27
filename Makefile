@@ -13,10 +13,9 @@ DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
-DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
+DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl *.xsl
 TIDY_CONF = $(PROJROOT)/tidy.conf
 TIDY_FLAGS = -config $(TIDY_CONF)
-LASTMOD = $(shell stat -t "%Y-%m-%d" -f "%Sm" $(XMLFILE))
 D_CLR = [0;37;44m
 TIDY_CLR = [0;43m
 E_CLR = [1;37;41m
@@ -30,10 +29,10 @@ main: $(DEFAULT_TARGETS) $(DEPS)
 	@printf "$(N_CLR)"
 
 $(ENGLISH_XHTML): $(XMLFILE) $(DEPS)
-	$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@
+	$(XSLT) --stringparam lang en $< -o $@
 
 $(FRENCH_XHTML): $(XMLFILE) $(DEPS)
-	$(XSLT) --stringparam lang fr --stringparam lastmod $(LASTMOD) $< -o $@
+	$(XSLT) --stringparam lang fr $< -o $@
 
 all: main recursive
 	@for d in $(DIRS); do \

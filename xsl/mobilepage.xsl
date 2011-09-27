@@ -6,8 +6,6 @@
                exclude-result-prefixes="pg">
 <xsl:import href="page.xsl"/>
 
-<xsl:param name="lastmod" select="'20X6'"/>
-
 <xsl:template match="pg:page" mode="meta">
   <xsl:apply-imports/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
@@ -46,7 +44,7 @@
 	<li class="footerLink"><a href="">Full Site</a></li>
 	</ul>
 	<p class="site-meta">
-		Copyright <xsl:value-of select="substring($lastmod, 1, 4)"/>, Province of Nova Scotia
+		Copyright 2011, Province of Nova Scotia
 	</p>
 </xsl:template>
 
