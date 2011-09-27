@@ -13,10 +13,11 @@ DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/
 RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
 PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
 URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
+BIN = $(PROJROOT)/bin
 DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
 TIDY_CONF = $(PROJROOT)/tidy.conf
 TIDY_FLAGS = -config $(TIDY_CONF)
-LASTMOD = $(shell stat -t "%Y-%m-%d" -f "%Sm" $(XMLFILE))
+LASTMOD = $(shell python $(BIN)/lastmod.py $(XMLFILE))
 D_CLR = [0;37;44m
 TIDY_CLR = [0;43m
 E_CLR = [1;37;41m
