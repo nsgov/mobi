@@ -16,8 +16,8 @@ URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
 BIN = $(PROJROOT)/bin
 DEPS = Makefile .path.xml $(RELROOT)/Makefile $(RELROOT)/xsl/*.xsl
 TIDY_CONF = $(PROJROOT)/tidy.conf
-TIDY_FLAGS = -config $(TIDY_CONF)
-LASTMOD = $(shell python $(BIN)/lastmod.py $(XMLFILE))
+TIDY_FLAGS = -config "$(TIDY_CONF)"
+LASTMOD = $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
 D_CLR = [0;37;44m
 TIDY_CLR = [0;43m
 E_CLR = [1;37;41m
@@ -26,7 +26,7 @@ N_CLR = [0;39;49m[K
 main: $(DEFAULT_TARGETS) $(DEPS)
 
 .xhtml.html: $(TIDY_CONF)
-	@printf "tidy $(TIDY_FLAGS) -o "$@" "$<"\n$(TIDY_CLR)"
+	@printf 'tidy $(TIDY_FLAGS) -o "$@" "$<"'"\n$(TIDY_CLR)"
 	@tidy $(TIDY_FLAGS) -o "$@" "$<"
 	@printf "$(N_CLR)"
 
@@ -72,7 +72,6 @@ recursive:
 	@for d in $(DIRS); do \
 		if [ ! -f $$d/Makefile ]; then \
 			echo "$(D_CLR) Making $(URLPATH)$$d/Makefile$(N_CLR) "; \
-			echo "Include $(RELROOT)/Makefile" > $$d/Makefile; \
-			git add $$d/Makefile && git commit -m "Generated Makefile" $$d/Makefile; \
+			echo "include .$(RELROOT)/Makefile" > $$d/Makefile; \
 		fi; \
 	done
