@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Amherst and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>The Nova Scotia Bankruptcy Court is located in the Law Courts Building at 1815 Upper Water Street in Halifax Nova Scotia, B3J 1S7.</p>
+		<h3>CONTACT INFORMATION:</h3>
+		<strong>Richard W. Cregan, Q.C.</strong>
+		<p>Registrar in Bankruptcy</p>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024240259">(902) 424-0259</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:creganrw@gov.ns.ca">creganrw@gov.ns.ca</a></dd>
+			</dl>
+		<strong>Sally LeRue</strong>
+		<p>Deputy Registrar in Bankruptcy</p>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024246908">(902) 424-6908</a></dd>
+				<dt>Fax:</dt>
+				<dd><a href="tel:+19024240524">(902) 424-0524</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:leruesi@gov.ns.ca">leruesi@gov.ns.ca</a></dd>
+			</dl>
+	</html>
+  </content>
+</page>

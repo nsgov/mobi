@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="NS Small Claims Courts">Nova Scotia Small Claims Courts</title>
+  <content for="main">
+    <contentlinks>
+      <link page="annapolis"/>
+      <link page="antigonish-guys"/>
+      <link page="cb-vic"/>
+      <link page="colchester-hantseast"/>
+      <link page="cumberland"/>
+      <link page="digby"/>
+      <link page="hrm"/>
+      <link page="inverness-rich"/>
+      <link page="kings-hantswest"/>
+      <link page="lunenburg-queens"/>
+      <link page="pictou"/>
+      <link page="yarmouth"/>
+    </contentlinks>
+  </content>
+</page>

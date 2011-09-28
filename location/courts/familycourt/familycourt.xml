@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="NS Family Courts">Nova Scotia Family Courts</title>
+  <content for="main">
+    <contentlinks>
+      <link page="amherst"/>
+      <link page="antigonish"/>
+      <link page="bridgewater"/>
+      <link page="digbyannapolis"/>
+      <link page="kentville"/>
+      <link page="pictou"/>
+      <link page="truro"/>
+      <link page="yarmouth"/>
+    </contentlinks>
+  </content>
+</page>
