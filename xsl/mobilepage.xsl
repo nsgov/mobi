@@ -29,7 +29,7 @@
 
 <xsl:template name="header">
 		<a href="{$SITEROOT}/"><img id="vip" src="{$SITEROOT}/img/vip.svg" alt="Nova Scotia"/></a>
-		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><li class="touchstone-link">Français</li></ul>
+		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><li class="touchstone-item"><a href="fr" hreflang="fr" lang="fr" class="touchstone-link">Français</a></li></ul>
 </xsl:template>
 
 <xsl:template match="pg:contentlinks">
