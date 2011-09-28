@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:transform version="1.0"
                xmlns="http://www.w3.org/1999/xhtml"
+               xmlns:html="http://www.w3.org/1999/xhtml"
                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                xmlns:pg="http://gov.ns.ca/xmlns/page"
                exclude-result-prefixes="pg">
@@ -30,6 +31,12 @@
 <xsl:template name="header">
 		<a href="{$SITEROOT}/"><img id="vip" src="{$SITEROOT}/img/vip.svg" alt="Nova Scotia"/></a>
 		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><li class="touchstone-item"><a href="fr" hreflang="fr" lang="fr" class="touchstone-link">Français</a></li></ul>
+</xsl:template>
+
+<xsl:template match="html:html">
+  <div class="box">
+    <xsl:apply-templates/>
+  </div>
 </xsl:template>
 
 <xsl:template match="pg:contentlinks">

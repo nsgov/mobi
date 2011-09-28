@@ -86,7 +86,14 @@
 </xsl:template>
 
 <xsl:template match="html:html">
-  <xsl:copy-of select="node()"/>
+  <!--xsl:copy-of select="node()"/-->
+  <xsl:apply-templates/>
+</xsl:template>
+
+<xsl:template match="html:*|@*">
+  <xsl:copy>
+    <xsl:apply-templates select="@*|node()"/>
+  </xsl:copy>
 </xsl:template>
 
 <xsl:template match="pg:css">
