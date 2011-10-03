@@ -24,9 +24,8 @@
         <xsl:with-param name="src" select="$path"/>
         <xsl:with-param name="dest" select="$href"/>
       </xsl:call-template></xsl:variable>
-      <xsl:text> </xsl:text><xsl:value-of select="concat($q, $resolvedpath, $q)"/>
+      <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
       <xsl:apply-templates select="document($href,.)/*"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
-      <xsl:text>&#10;</xsl:text>
   </xsl:template>
   
   <xsl:template match="/xsl:transform|/xsl:stylesheet">
@@ -43,7 +42,7 @@
 	    <xsl:with-param name="src" select="$path"/>
 	    <xsl:with-param name="dest" select="@href"/>
 	  </xsl:call-template></xsl:variable>
-	  <xsl:text> </xsl:text><xsl:value-of select="concat($q, $resolvedpath, $q)"/>
+	  <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
 	  <xsl:apply-templates select="document(@href,.)/*"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
 	</xsl:template>
 
