@@ -20,22 +20,26 @@ TIDY_CONF = $(PROJROOT)/tidy.conf
 TIDY_FLAGS = -config "$(TIDY_CONF)"
 LASTMOD = $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
 D_CLR = [0;37;44m
-TIDY_CLR = [0;43m
+W_CLR = [0;43m
 E_CLR = [1;37;41m
 N_CLR = [0;39;49m[K
 
 main: $(DEFAULT_TARGETS) $(DEPS)
 
 .xhtml.html: $(TIDY_CONF)
-	@printf 'tidy $(TIDY_FLAGS) -o "$@" "$<"'"\n$(TIDY_CLR)"
+	@printf 'tidy $(TIDY_FLAGS) -o "$@" "$<"'"\n$(W_CLR)"
 	@tidy $(TIDY_FLAGS) -o "$@" "$<"
 	@printf "$(N_CLR)"
 
 $(ENGLISH_XHTML): $(XMLFILE) $(DEPS)
-	$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@
+	@printf '$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@'"\n$(W_CLR)"
+	@$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@
+	@printf "$(N_CLR)"
 
 $(FRENCH_XHTML): $(XMLFILE) $(DEPS)
-	$(XSLT) --stringparam lang fr --stringparam lastmod $(LASTMOD) $< -o $@
+	@printf '$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@'"\n$(W_CLR)"
+	@$(XSLT) --stringparam lang fr --stringparam lastmod $(LASTMOD) $< -o $@
+	@printf "$(N_CLR)"
 
 all: main recursive
 	@for d in $(DIRS); do \
