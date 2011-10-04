@@ -25,7 +25,7 @@
         <xsl:with-param name="dest" select="$href"/>
       </xsl:call-template></xsl:variable>
       <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
-      <xsl:apply-templates select="document($href,.)/*"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
+      <xsl:apply-templates select="document($href,.)"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
   </xsl:template>
   
   <xsl:template match="/xsl:transform|/xsl:stylesheet">
@@ -37,23 +37,13 @@
 
 	<xsl:template match="xsl:import|xsl:include">
 	  <xsl:param name="path" select="'.'"/>
-	  <xsl:variable name="q">"</xsl:variable>
 	  <xsl:variable name="resolvedpath"><xsl:call-template name="resolve-path">
 	    <xsl:with-param name="src" select="$path"/>
 	    <xsl:with-param name="dest" select="@href"/>
 	  </xsl:call-template></xsl:variable>
 	  <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
-	  <xsl:apply-templates select="document(@href,.)/*"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
+	  <xsl:apply-templates select="document(@href,.)"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
 	</xsl:template>
-
-  <xsl:template name="dirname-container">
-    <xsl:param name="path"/>
-    <xsl:variable name="d"><xsl:call-template name="dirname-recursive"><xsl:with-param name="path" select="$path"/></xsl:call-template></xsl:variable>
-    <xsl:choose>
-      <xsl:when test="string-length($d)"><xsl:value-of select="$d"/></xsl:when>
-      <xsl:otherwise>.</xsl:otherwise>
-    </xsl:choose>
-  </xsl:template>
 
 	<xsl:template name="dirname">
 	  <xsl:param name="path"/>
