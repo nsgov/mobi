@@ -11,45 +11,42 @@
 	<xsl:output encoding="UTF-8" indent="no" method="text" />
 
   <xsl:param name="root"/>
-  <xsl:param name="path" select="'.'"/>
-
-  <xsl:template match="text()"/>
+  <xsl:param name="path"/>
 
   <xsl:template match="processing-instruction('xml-stylesheet')">
       <xsl:variable name="cut1" select="substring-after(string(.), 'href=')"/>
-      <xsl:variable name="q" select="substring($cut1, 1, 1)"/>
       <xsl:variable name="cut2" select="substring($cut1, 2)"/>
-      <xsl:variable name="href" select="substring-before($cut2, $q)"/>
-      <xsl:variable name="resolvedpath"><xsl:call-template name="resolve-path">
-        <xsl:with-param name="src" select="$path"/>
-        <xsl:with-param name="dest" select="$href"/>
-      </xsl:call-template></xsl:variable>
-      <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
-      <xsl:apply-templates select="document($href,.)"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
-  </xsl:template>
-  
-  <xsl:template match="/xsl:transform|/xsl:stylesheet">
-    <xsl:param name="path"/>
-    <xsl:apply-templates select="xsl:import|xsl:include">
-      <xsl:with-param name="path" select="$path"/>
-    </xsl:apply-templates>
+      <xsl:variable name="q" select="substring($cut1, 1, 1)"/>
+      <xsl:call-template name="dependency">
+        <xsl:with-param name="path" select="$path"/>
+        <xsl:with-param name="href" select="substring-before($cut2, $q)"/>
+      </xsl:call-template>
   </xsl:template>
 
 	<xsl:template match="xsl:import|xsl:include">
-	  <xsl:param name="path" select="'.'"/>
+	  <xsl:param name="path"/>
+    <xsl:call-template name="dependency">
+      <xsl:with-param name="path" select="$path"/>
+      <xsl:with-param name="href" select="@href"/>
+    </xsl:call-template>
+	</xsl:template>
+
+  <xsl:template name="dependency">
+    <xsl:param name="path"/>
+    <xsl:param name="href"/>
 	  <xsl:variable name="resolvedpath"><xsl:call-template name="resolve-path">
 	    <xsl:with-param name="src" select="$path"/>
-	    <xsl:with-param name="dest" select="@href"/>
+	    <xsl:with-param name="dest" select="$href"/>
 	  </xsl:call-template></xsl:variable>
 	  <xsl:value-of select="$resolvedpath"/><xsl:text>&#10;</xsl:text>
-	  <xsl:apply-templates select="document(@href,.)"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
-	</xsl:template>
+	  <xsl:apply-templates select="document($href,.)"><xsl:with-param name="path" select="$resolvedpath"/></xsl:apply-templates>
+  </xsl:template>
 
 	<xsl:template name="dirname">
 	  <xsl:param name="path"/>
-	  <xsl:if test="contains($path, '/')"><xsl:value-of select="substring-before($path,'/')"/>/<xsl:call-template name="dirname">
-	    <xsl:with-param name="path"><xsl:value-of select="substring-after($path, '/')"/>
-	  </xsl:with-param></xsl:call-template></xsl:if>
+	  <xsl:if test="contains($path, '/')">
+	    <xsl:value-of select="substring-before($path,'/')"/>/<xsl:call-template name="dirname"><xsl:with-param name="path" select="substring-after($path, '/')"/></xsl:call-template>
+	  </xsl:if>
 	</xsl:template>
 	
 	<xsl:template name="resolve-path">
@@ -62,4 +59,6 @@
 	  </xsl:choose><xsl:value-of select="$dest"/>
 	</xsl:template>
 	  
+  <xsl:template match="text()"/>
+
 </xsl:transform>
