@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Halifax Regional Municipality</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<p>In HRM, the Supreme Court consists of a General Division and a Family Division</p>
+		<h3>Supreme Court (General Division)</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>The Law Courts Building<br />1815 Upper Water St.<br />Halifax, NS B3J 1S7</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024244900">(902) 424-4900</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19024240524">(902) 424-0524</a></dd>
+				</dl>
+		<h3>Supreme Court (Family Division)</h3>
+			<dl>
+				<dt>Street Address:</dt>
+				<dd>3380 Devonshire Ave.<br />Halifax, NS B3K 5R5</dd> 
+				<dt>Milling Address:</dt>
+				<dd>P.O. Box 8988, Station "A" <br />Halifax, NS B3K 5M6</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024243990">(902) 424-3990</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19024240562">(902) 424-0562</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

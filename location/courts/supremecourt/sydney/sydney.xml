@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sydney and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<p>The Sydney Justice Centre serves the Cape Breton Regional Municipality and Victoria County</p>
+		<h3>Sydney Justice Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>6 - 136 Charlotte St.<br />Suite 201<br />Sydney, NS B1P 1C3</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025633550">(902)563-3550</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19025632224">(902)563-2224</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

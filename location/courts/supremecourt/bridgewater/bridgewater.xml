@@ -2,18 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Amherst and Surrounding Areas</title>
+  <title>Bridgewater and Surrounding Areas</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Amherst Justice Centre serves Cumberland County</p>
-		<h3>Amherst Justice Centre</h3>
+		<p>The Bridgewater Justice Centre serves Lunenburg and Queens Counties</p>
+		<h3>Supreme Court</h3>
 			<dl>
 				<dt>Address:</dt>
-				<dd>16 Church St., 3rd Floor<br />Amherst, NS B4H 3A6</dd> 
+				<dd>141 High Street<br />Bridgewater, NS B4V 1W2</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19026672256">(902)667-2256</a></dd>
+					<dd><a href="tel:+19025434679">(902) 543-4679</a></dd>
 					<dt>Fax:</dt>
-					<dd><a href="tel:+19026671108">(902)667-1108</a></dd>
+					<dd><a href="tel:+19025430678">(902) 543-0678</a></dd>
 				</dl>
 	</html>
   </content>

@@ -2,18 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Amherst and Surrounding Areas</title>
+  <title>Yarmouth and Surrounding Areas</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Amherst Justice Centre serves Cumberland County</p>
-		<h3>Amherst Justice Centre</h3>
+		<p>The Yarmouth Justice Centreserves Yarmouth and Shelburne Counties</p>
+		<h3>Yarmouth Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>
-				<dd>16 Church St., 3rd Floor<br />Amherst, NS B4H 3A6</dd> 
+				<dd>164 Main St.<br />Yarmouth, NS B5A 1C2</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19026672256">(902)667-2256</a></dd>
+					<dd><a href="tel:+19027420500">(902)742-0500</a></dd>
 					<dt>Fax:</dt>
-					<dd><a href="tel:+19026671108">(902)667-1108</a></dd>
+					<dd><a href="tel:+19027420678">(902)742-0678 </a></dd>
 				</dl>
 	</html>
   </content>

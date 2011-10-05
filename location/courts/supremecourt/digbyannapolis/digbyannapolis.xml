@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Digby, Annapolis, and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Digby Justice Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>119 Queen St.<br /> Digby, NS B0V 1A0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022457134">(902) 245-7134</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19022456722">(902) 245-6722</a></dd>
+				</dl>
+		<h3>Annapolis Royal Justice Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>377 Saint George St.<br />Annapolis Royal NS B0S 1A0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025325462">(902) 532-5462</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19025327225">(902) 532-7225</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>
