@@ -1,10 +1,12 @@
 .id.xml
 .path.xml
-index.html
-fr.html
-index.xhtml
-fr.xhtml
+index.*html
+en.*html
+fr.*html
 *.doc
+
+# Don't track the automatically generated Makefiles
+Makefile
 
 # OS generated files #
 ######################
