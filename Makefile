@@ -1,60 +1,68 @@
-.SUFFIXES:
-.SUFFIXES: .xml .xhtml .html .svg .svgz
-XSLT = xsltproc
-CWD = $(shell basename $$PWD)
-XMLFILE  = $(shell [ -f site.conf ] && echo homepage || echo $(CWD)).xml
-ENGLISH_XHTML = index.xhtml
-FRENCH_XHTML = fr.xhtml
-ENGLISH_HTML = index.html
-FRENCH_HTML = fr.html
-HTML_TARGETS = $(ENGLISH_HTML) $(shell if grep -s lang=.fr. $(XMLFILE) > /dev/null; then echo $(FRENCH_HTML); fi)
-DEFAULT_TARGETS = $(HTML_TARGETS)
-DIRS = $(shell for d in */; do d=`basename $$d`; [ -f $$d/$$d.xml ] || [ -f $$d/Makefile ] && printf "%s " $$d; done)
-RELROOT = $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
-PROJROOT = $(shell cd $(RELROOT); echo $$PWD)
-URLPATH = $(shell echo $$PWD | sed -e "s:^$(PROJROOT)::")/
-BIN = $(PROJROOT)/bin
-XSLDEPS = $(shell $(XSLT) $(RELROOT)/xsl/xsldeps.xsl $(XMLFILE))
-DEPS = .path.xml $(XSLDEPS) Makefile $(RELROOT)/Makefile
-TIDY_CONF = $(PROJROOT)/tidy.conf
-TIDY_FLAGS = -config "$(TIDY_CONF)"
-LASTMOD = $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
-D_CLR = [0;37;44m
-W_CLR = [0;43m
-E_CLR = [1;37;41m
-N_CLR = [0;39;49m[K
+# This Makefile is used in all directories of the project, so calculate where in the project tree we are
+RELROOT  := $(shell printf .; while [ ! -f site.conf ]; do cd ..; printf /..; done)
+PROJROOT := $(realpath $(RELROOT))
+URLPATH  := $(patsubst $(PROJROOT)%,%,$(realpath .))/
+XMLFILE  := $(notdir homepage$(URLPATH:%/=%)).xml
 
-main: $(DEFAULT_TARGETS) $(DEPS)
+# Generate pages for different languages
+LANGS        := en fr
+DEFAULT_LANG := $(firstword $(LANGS))
+XHTML_FILES  := $(addsuffix .xhtml,$(LANGS:$(DEFAULT_LANG)=index))
+HTML_FILES   := $(XHTML_FILES:.xhtml=.html)
 
-.xhtml.html: $(TIDY_CONF)
-	@printf 'tidy $(TIDY_FLAGS) -o "$@" "$<"'"\n$(W_CLR)"
-	@tidy $(TIDY_FLAGS) -o "$@" "$<"
+# Figure out the directories in which to invoke make (those with dir/Makefile or dir/dir.xml)
+ALL_DIRS            := $(wildcard */)
+DIRS_WITH_MAKEFILES := $(dir $(wildcard */Makefile))
+DIRS_WITH_XML       := $(dir $(wildcard $(join $(ALL_DIRS),$(ALL_DIRS:%/=%.xml))))
+DIRS                := $(sort $(DIRS_WITH_MAKEFILES) $(DIRS_WITH_XML))
+
+# Misc variables
+XSLT := xsltproc
+DEFAULT_TARGETS := $(HTML_FILES)
+BIN := $(PROJROOT)/bin
+XSLDEPS := $(shell $(XSLT) $(RELROOT)/xsl/xsldeps.xsl $(XMLFILE))
+DEPS := .path.xml $(XSLDEPS) Makefile $(RELROOT)/Makefile
+TIDY_CONF := $(PROJROOT)/tidy.conf
+TIDY_FLAGS := -config "$(TIDY_CONF)"
+LASTMOD := $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
+
+# 1 Rainbow was harmed in the making of this Makefile, in order to add color to errors, warnings, etc.
+W_CLR := [0;43m
+E_CLR := [1;37;41m
+B_CLR := [1m
+D_CLR := [0;37;44m
+N_CLR := [0;39;49m[K
+
+.PHONY: main xhtml all clean allclean fresh site stage Makefiles recursive
+#.INTERMEDIATE: $(XHTML_FILES)
+
+main: $(DEFAULT_TARGETS)
+
+%.html: %.xhtml $(TIDY_CONF)
+	@printf '$(B_CLR)tidy$(N_CLR) $(TIDY_FLAGS) -o $(B_CLR)$@$(N_CLR) $<'"\n$(W_CLR)"
+	@tidy $(TIDY_FLAGS) -o "$@" "$<" || (printf "$(N_CLR)"; false)
 	@printf "$(N_CLR)"
 
-$(ENGLISH_XHTML): $(XMLFILE) $(DEPS)
-	@printf '$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@'"\n$(W_CLR)"
-	@$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@
+%.xhtml: $(XMLFILE) $(DEPS)
+	@printf '$(B_CLR)$(XSLT)$(N_CLR) --stringparam lang $(*:index=$(DEFAULT_LANG)) --stringparam lastmod $(LASTMOD) $< -o $(B_CLR)$@'"\n$(W_CLR)"
+	@$(XSLT) --stringparam lang $(*:index=$(DEFAULT_LANG)) --stringparam lastmod $(LASTMOD) $< -o $@ || (printf "$(N_CLR)"; exit 1)
 	@printf "$(N_CLR)"
 
-$(FRENCH_XHTML): $(XMLFILE) $(DEPS)
-	@printf '$(XSLT) --stringparam lang en --stringparam lastmod $(LASTMOD) $< -o $@'"\n$(W_CLR)"
-	@$(XSLT) --stringparam lang fr --stringparam lastmod $(LASTMOD) $< -o $@
-	@printf "$(N_CLR)"
+xhtml: $(XHTML_FILES)
 
 all: main recursive
 	@for d in $(DIRS); do \
 		$(MAKE) -C $$d -q || echo "$(D_CLR)$(URLPATH)$$d$(N_CLR):"; \
-		$(MAKE) -C $$d --no-print-directory all  || echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; \
+		$(MAKE) -C $$d --no-print-directory all  || (echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; exit 1); \
 	done
 
 clean:
-	rm -f $(ENGLISH_HTML) $(FRENCH_HTML) $(ENGLISH_XHTML) $(FRENCH_XHTML)
-	@rm -f .id.xml .path.xml
+	rm -f $(DEFAULT_TARGETS) $(XHTML_FILES)
+	@rm -f .id.xml .path.xml index.*html fr.*html
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
-		echo "$(D_CLR) - Cleaning \"$(URLPATH)$$d\" - $(N_CLR)"; \
-		$(MAKE) -C $$d  --no-print-directory allclean; \
+		$(MAKE) -f "$(PROJROOT)/Makefile" -C $$d -s allclean; \
 	done
 
 fresh: allclean all
@@ -66,7 +74,7 @@ stage:
 	ssh mobile@cnsdev.ca 'cd stage && git pull && make all'
 
 .path.xml: . $(RELROOT)/Makefile
-	@echo "<path basename='`basename $(XMLFILE) .xml`' root='`echo $(RELROOT)|cut -c 3-`'>`dirname $(URLPATH)x`</path>" > $@
+	@echo "<path basename='$(basename $(XMLFILE))' root='$(RELROOT:./%=%)'>$(URLPATH:%/=%)</path>" > $@
 
 Makefiles: recursive
 	@for d in $(DIRS); do \
@@ -74,9 +82,20 @@ Makefiles: recursive
 	done
 
 recursive:
-	@for d in $(DIRS); do \
+	@for d in $(DIRS_WITH_XML:%/=%); do \
 		if [ ! -f $$d/Makefile ]; then \
 			echo "$(D_CLR) Making $(URLPATH)$$d/Makefile$(N_CLR) "; \
 			echo "include .$(RELROOT)/Makefile" > $$d/Makefile; \
 		fi; \
 	done
+
+apparent: .path.xml
+	@echo xml: $(XMLFILE)
+	@echo xsl: $(XSLDEPS)
+	@echo xhtml: $(XHTML_FILES)
+	@echo html: $(HTML_FILES)
+	@echo dirs: $(DIRS)
+	@echo url: $(URLPATH)
+	@echo proj: $(PROJROOT)
+	@cat .path.xml
+
