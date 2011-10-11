@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Antigonish and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<p>The Antigonish Justice Centre serves Antigonish and Guysborough Counties</p>
+		<h3>Antigonish Justice Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>11 James St.<br />Antigonish, NS B2G 1R6</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028637300">(902) 863-7300</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19028637479">(902) 863-7479</a></dd>
+				</dl>
+			<h4>Family Court Office</h4>
+			<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028637312">(902)863-7312</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19028637479">(902)863-7479</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

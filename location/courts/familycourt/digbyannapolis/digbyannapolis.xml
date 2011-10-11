@@ -2,18 +2,17 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Truro and Surrounding Areas</title>
+  <title>Digby, Annapolis, and Surrounding Areas</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Truro Justice Centre serves Colchester County</p>
-		<h3>Truro Justice Centre</h3>
+		<h3>Digby/Annapolis Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>
-				<dd>1 Church St.<br />Suite 201<br />Truro, NS B2N 3Z5</dd> 
+				<dd>119 Queen St.<br />P.O. Box 1089<br />Digby, NS B0V 1A0</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19028933953">(902)893-3953</a></dd>
+					<dd><a href="tel:+19022454567">(902) 245-4567</a></dd>
 					<dt>Fax:</dt>
-					<dd><a href="tel:+19028936114">(902)893-6114</a></dd>
+					<dd><a href="tel:+19022456722">(902) 245-6722</a></dd>
 				</dl>
 	</html>
   </content>
