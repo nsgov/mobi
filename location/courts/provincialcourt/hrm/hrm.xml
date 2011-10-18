@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Halifax Regional Municipality</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Halifax Provincial Court</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5250 Spring Garden Road<br />Halifax, NS B3J 1E7</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024248718">(902) 424-8718</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 424-0551</dd>
+				</dl>
+		<h3>Dartmouth Provincial Court</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>277 Pleasant Street<br />Suite 200<br />Dartmouth, NS B2Y 3S2</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024242390">(902) 424-2390</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 424-0677</dd>
+				</dl>
+	</html>
+  </content>
+</page>

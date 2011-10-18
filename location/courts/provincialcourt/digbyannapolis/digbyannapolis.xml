@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Digby, Annapolis, and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>Also serving courthouses in Comeauville and Annapolis Royal</p>
+		<h3>Digby Justice Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>119 Queen St.<br />P.O. Box 1089<br /> Digby, NS B0V 1A0</dd> 
+				</dl>
+			<h4>Court Administrator</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022454567">(902) 245-4567</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 245-6722</dd>
+				</dl>
+			<h4>Provincial Court Office</h4>
+				<dl>
+				<dt>Address:</dt>
+				<dd>119 Queen St.<br />P.O. Box 1089<br /> Digby, NS B0V 1A0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022454567">(902) 245-4567</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 245-6722</dd>
+				</dl>
+			<h4>Annapolis Royal Satellite Court</h4>
+				<dl>
+				<dt>Address:</dt>
+				<dd>377 St. George Street<br />Annapolis Royal, NS B0S 1A0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022454567">(902) 245-4567</a></dd>
+				</dl>
+			<h4>Comeauville Satellite Court</h4>
+				<dl>
+				<dt>Address:</dt>
+				<dd>#795, Route #1<br />Church Point, Dibgy County, NS B0W 1M0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022454567">(902) 245-4567</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>
