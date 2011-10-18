@@ -2,24 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Bridgewater and Surrounding Areas</title>
+  <title>Lunenburg and Surrounding Areas</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
 		<h3>Bridgewater Justice Centre</h3>
-		<p>The Bridgewater Justice Centre serves Lunenburg and Queens Counties<br />Also serving courthouses in Lunenburg and Liverpool</p>
+		<p>The Bridgewater Justice Centre is serving courthouses in Lunenburg and Liverpool</p>
 			<h4>Provincial Court Office</h4>
 			<dl>
 				<dt>Address:</dt>
 				<dd>141 High Street<br />Bridgewater, NS B4V 1W2</dd> 
-					<dt>Tel:</dt>
-					<dd><a href="tel:+19025434679">(902) 543-4679</a></dd>
-					<dt>Fax:</dt>
-					<dd>(902) 543-0678</dd>
-				</dl>
-			<h3>Liverpool Satellite Court</h3>
-			<dl>
-				<dt>Address:</dt>
-				<dd>137 Church Street<br />Liverpool, NS</dd> 
 					<dt>Tel:</dt>
 					<dd><a href="tel:+19025434679">(902) 543-4679</a></dd>
 					<dt>Fax:</dt>

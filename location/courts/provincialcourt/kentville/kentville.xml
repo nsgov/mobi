@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Kentville and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Kentville Justice Centre</h3>
+		<p>The Kentville Justice Centre serves Kings, West Hants, and East Hants Counties<br />Also serving courthouse in Windsor</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>87 Cornwallis St.<br />Kentville, NS B4N 2E5</dd> 
+				</dl>
+			<h4>Court Administrator</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026796070">(902)679-6070</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)679-6178</dd>
+				</dl>
+			<h4>Provincial Court Office</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026796070">(902)679-6070</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)679-6190</dd>
+				</dl>
+			<h3>Windsor Satellite Court</h3>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026796070">(902)679-6070</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)679-6190</dd>
+				</dl>
+				
+	</html>
+  </content>
+</page>

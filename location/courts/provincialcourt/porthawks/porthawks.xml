@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Port Hawkesbury and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Port Hawkesbury Justice Centre</h3>
+		<p>The Port Hawkesbury Justice Centre serves Inverness and Richmond Counties<br />Also serving courthouses in Guysborough and Port Hood</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>15 Kennedy Street<br />Suite 201<br />Port Hawkesbury, NS B9A 2Y1</dd> 
+				</dl>
+		<h3>Port Hood Satellite Court</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>375 Main St.,<br />Port Hood, NS B0E 2W0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026252665">(902)625-2665</a></dd>
+				</dl>
+		<h3>Guysborough Satellite Court</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>33 Pleasant St.<br />Guysborough, NS B0H 1N0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026252665">(902)625-2665</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

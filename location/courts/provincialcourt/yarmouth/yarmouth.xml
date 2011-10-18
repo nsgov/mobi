@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Yarmouth and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Yarmouth Justice Centre</h3>
+		<p>The Yarmouth Justice Centreserves Yarmouth and Shelburne Counties<br/>Also serving courthouses in Shelburne and Barrington</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>164 Main St.<br />Yarmouth, NS B5A 1C2</dd> 
+				</dl>
+			<h4>Court Administrator</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027420500">(902)742-0500</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)742-0678</dd>
+				</dl>
+			<h4>Provincial Court Office</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027420500">(902)742-0500</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)742-0678</dd>
+				</dl>
+			<h3>Shelburne Satellite Court</h3>
+				<dl>
+				<dt>Address:</dt>
+				<dd>136 Hammond Street<br />Shelburne, NS B0T 1W0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027420500">(902)742-0500</a></dd>
+				</dl>
+			<h3>Barrington Satellite Court</h3>
+				<dl>
+				<dt>Address:</dt>
+				<dd>2447 Highway #3<br />Barrington, NS B0W 1E0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027420500">(902)742-0500</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

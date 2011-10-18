@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Truro and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Truro Justice Centre</h3>
+		<p>The Truro Justice Centre serves Colchester County<br />Also serving courthouse in Shubenacadie</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>540 Prince Street<br />Suite 201<br />Truro, NS B2N 1G1</dd> 
+				</dl>
+			<h4>Court Administrator</h4>
+				<dl>
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028935840">(902)893-5840</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)893-6261</dd>
+				</dl>
+			<h3>Shubenacadie Satellite Court</h3>
+				<dl>
+				<dt>Address:</dt>
+				<dd>540 Prince Street<br />5 Mill Village Road<br />Shubenacadie, NS B0N 2H0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027582871">(902)758-2871</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>
