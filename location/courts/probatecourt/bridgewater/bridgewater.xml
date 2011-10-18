@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Bridgewater and Surrounding Areas</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<p>The Bridgewater Justice Centre serves Lunenburg and Queens Counties</p>
+		<h3>Bridgewater Justice Centre</h3>
+		<h4>Probate Office</h4>
+		<p>Registrar<br />Claire Feener</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>141 High Street<br />Bridgewater, NS B4V 1W2</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025430816">(902) 543-0816</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19025430678">(902) 543-0678</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

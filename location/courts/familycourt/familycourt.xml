@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="NS Family Courts">Nova Scotia Family Courts</title>
+  <title abbr="Family Courts">Nova Scotia Family Courts</title>
   <content for="main">
     <contentlinks>
       <link page="amherst"/>

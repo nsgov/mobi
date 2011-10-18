@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Halifax Regional Municipality</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<p>Halifax Regional Municipality</p>
+		<h4>Probate Office</h4>
+		<p>Registrar<br />Sharron Atton</p>
+			<dl>
+				<dt>Address:</dt>
+				<dd>1815 Upper Water St.<br />Halifax, NS B3J 1S7</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024247422">(902) 424-7422</a></dd>
+					<dt>Fax:</dt>
+					<dd><a href="tel:+19024240524">(902) 424-0524</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>
