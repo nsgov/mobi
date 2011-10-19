@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Halifax Regional Municipality</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<h3>Small Claims Court</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5250 Spring Garden Road<br />Halifax, NS B3J 1E7</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19024248722">(902)424-8722</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0551</dd>
+				</dl>
+	</html>
+  </content>
+</page>
