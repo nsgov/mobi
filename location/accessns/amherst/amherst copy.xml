@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../accessns.xsl"?>
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Antigonish</title>
+  <title>Amherst</title>
   <content>
     <html xmlns="http://www.w3.org/1999/xhtml">
-    
+    	<h3>Access Nova Scotia Centre</h3>
 		<dl>
 			<dt>Address:</dt>
-			<dd>Antigonish Mall Annex, Suite 3<br />149 Church Street<br />Antigonish, NS B2G 2E2</dd> 
-			<dt>Note:</dt>
-			<dd>This office accepts applications and payments only.<br />The Hollis St. office issues documents at the counter.</dd>
+			<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
+			<dt>Directions:</dt>
+			<dd>Turn right at Exit #4, continue past the Amherst Shopping Centre then past Kent Building Supplies, both on your right. RMV is on your right at the Superstore (directly across the street from the Cumberland Mall).</dd>
 			<dt>Toll-Free:</dt>
 			<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
 			<dt>Hours:</dt>
 			<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
+			<dt>Note:</dt>
+			<dd>Only Motor Vehicle Registration and Driver Licensing Services available after 4:30 p.m.</dd>
 		</dl>
 		
 		<h2>Services</h2>
 		<ul>
 			<li>
-				<h3>Access Nova Scotia</h3>
+				<h3>Access Canada</h3>
 				<dl>
 					<dt>Address:</dt>
 					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
