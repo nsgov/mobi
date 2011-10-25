@@ -14,7 +14,7 @@ HTML_FILES   := $(XHTML_FILES:.xhtml=.html)
 ALL_DIRS            := $(wildcard */)
 DIRS_WITH_MAKEFILES := $(dir $(wildcard */Makefile))
 DIRS_XML            := $(wildcard $(join $(ALL_DIRS),$(ALL_DIRS:%/=%.xml)))
-DIRS_WITH_XML       := $(dir $(SUBPAGES))
+DIRS_WITH_XML       := $(dir $(DIRS_XML))
 DIRS                := $(sort $(DIRS_WITH_MAKEFILES) $(DIRS_WITH_XML))
 
 # Misc variables
