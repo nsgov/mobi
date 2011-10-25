@@ -34,7 +34,7 @@ B_CLR := [1m
 D_CLR := [0;37;44m
 N_CLR := [0;39;49m[K
 
-.PHONY: main xhtml all clean allclean fresh site stage Makefiles recursive
+.PHONY: main xhtml all clean allclean fresh site stage Makefiles recursive tally apparent
 #.INTERMEDIATE: $(XHTML_FILES)
 
 main: $(DEFAULT_TARGETS)
@@ -89,6 +89,13 @@ recursive:
 			echo "include .$(RELROOT)/Makefile" > $$d/Makefile; \
 		fi; \
 	done
+
+tally: recursive
+	@for d in . $(DIRS); do \
+		if [ $$d != . ]; then c=`find $$d -name '*.html'|wc -l`; else c=`/bin/ls -1 *.html 2>/dev/null|wc -l`; fi;\
+		printf "$(B_CLR)%8d$(N_CLR) pages in $(D_CLR)%s$(N_CLR)\n" $$c "$$d" &&\
+		total=`expr $${total=0} + $$c`;\
+	done; [ -t 1 ] && echo "========"; printf "$(B_CLR)%8d$(N_CLR) pages in Total\n" $$total
 
 apparent: .path.xml
 	@echo xml: $(XMLFILE)
