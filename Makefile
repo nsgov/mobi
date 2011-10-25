@@ -13,7 +13,8 @@ HTML_FILES   := $(XHTML_FILES:.xhtml=.html)
 # Figure out the directories in which to invoke make (those with dir/Makefile or dir/dir.xml)
 ALL_DIRS            := $(wildcard */)
 DIRS_WITH_MAKEFILES := $(dir $(wildcard */Makefile))
-DIRS_WITH_XML       := $(dir $(wildcard $(join $(ALL_DIRS),$(ALL_DIRS:%/=%.xml))))
+DIRS_XML            := $(wildcard $(join $(ALL_DIRS),$(ALL_DIRS:%/=%.xml)))
+DIRS_WITH_XML       := $(dir $(SUBPAGES))
 DIRS                := $(sort $(DIRS_WITH_MAKEFILES) $(DIRS_WITH_XML))
 
 # Misc variables
@@ -43,7 +44,7 @@ main: $(DEFAULT_TARGETS)
 	@tidy $(TIDY_FLAGS) -o "$@" "$<" || (printf "$(N_CLR)"; false)
 	@printf "$(N_CLR)"
 
-%.xhtml: $(XMLFILE) $(DEPS)
+%.xhtml: $(XMLFILE) $(DEPS) $(DIRS_XML)
 	@printf '$(B_CLR)$(XSLT)$(N_CLR) --stringparam lang $(*:index=$(DEFAULT_LANG)) --stringparam lastmod $(LASTMOD) $< -o $(B_CLR)$@'"\n$(W_CLR)"
 	@$(XSLT) --stringparam lang $(*:index=$(DEFAULT_LANG)) --stringparam lastmod $(LASTMOD) $< -o $@ || (printf "$(N_CLR)"; exit 1)
 	@printf "$(N_CLR)"
