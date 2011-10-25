@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>New Waterford Consolidated Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>New Waterford Consolidated Hospital</h3>
+		<h4>Cape Breton Health Authority - District 8</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>716 King Street<br />New Waterford, NS B1H 3Z5</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028626411">(902)862-6411</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.nslocal.ca/results.php?hide_id=1411&amp;hide_stylesheet=1">New Waterford Consolidated Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

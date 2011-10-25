@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Fishermen's Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Fishermen's Memorial Hospital</h3>
+		<h4>South Shore Health - District 1</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>14 High Street<br />PO Box 1180<br />Lunenburg, NS B0J 2C0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026348801">(902)634-8801</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://southshorehealth.ca/hospitals/fishermens-memorial-hospital.html">Fishermen's Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

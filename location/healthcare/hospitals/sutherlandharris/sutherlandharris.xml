@@ -2,18 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Aberdeen Hospital</title>
+  <title>Sutherland Harris Memorial Hospital</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Aberdeen Hospital</h3>
+		<h3>Sutherland Harris Memorial Hospital</h3>
 		<h4>Pictou County Health Authority - District 6</h4>
 			<dl>
 				<dt>Address:</dt>
-				<dd>835 East River Road<br />New Glasgow, NS B2H 3S6</dd> 
+				<dd>222 Haliburton Road<br />PO Box 1059<br />Pictou, NS B0K 1H0</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19027527600">(902)752-7600</a></dd>
+					<dd><a href="tel:+19024854324">(902)485-4324</a></dd>
 					<dt>Website:</dt>
-					<dd><a href="http://www.pcha.nshealth.ca/aberdeen/">Aberdeen Hospital</a></dd>
+					<dd><a href="http://www.pcha.nshealth.ca/sutherlandharris/aboutus/default.htm">Sutherland Harris Memorial Hospital</a></dd>
 				</dl>
 	</html>
   </content>

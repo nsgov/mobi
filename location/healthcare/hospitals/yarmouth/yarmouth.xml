@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Yarmouth Regional Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Yarmouth Regional Hospital</h3>
+		<h4>SouthWest Health - District 2</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>60 Vancouver Street<br />Yarmouth, NS B5A 2P5</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027423541">(902)742-3541</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.avdha.nshealth.ca/site/western-kings-memorial-health-centre">Yarmouth Regional Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -2,18 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Aberdeen Hospital</title>
+  <title>Roseway Hospital</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Aberdeen Hospital</h3>
-		<h4>Pictou County Health Authority - District 6</h4>
+		<h3>Roseway Hospital</h3>
+		<h4>South Shore Health - District 2</h4>
 			<dl>
 				<dt>Address:</dt>
-				<dd>835 East River Road<br />New Glasgow, NS B2H 3S6</dd> 
+				<dd>1606 Lake Road<br />PO Box 610<br />Shelburne, NS B0T 1W0</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19027527600">(902)752-7600</a></dd>
+					<dd><a href="tel:+19028753011">(902)875-3011</a></dd>
 					<dt>Website:</dt>
-					<dd><a href="http://www.pcha.nshealth.ca/aberdeen/">Aberdeen Hospital</a></dd>
+					<dd><a href="http://www.swndha.nshealth.ca/pages/roseway.htm">Roseway Hospital</a></dd>
 				</dl>
 	</html>
   </content>

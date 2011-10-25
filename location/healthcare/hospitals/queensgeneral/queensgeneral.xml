@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Queens General Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Queens General Hospital</h3>
+		<h4>South Shore Health - District 1</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>175 School Street<br />PO Box 370<br />Liverpool, NS B0T 1K0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19023543436">(902)354-3436</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)354-2018</dd>
+					<dt>Website:</dt>
+					<dd><a href="http://southshorehealth.ca/hospitals/queens-general-hospital.html">Queens General Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

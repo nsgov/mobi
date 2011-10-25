@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>St. Martha’s Regional Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>St. Martha’s Regional Hospital</h3>
+		<h4>Guysborough Antigonish Strait Health Authority - District 7 </h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>25 Bay Street<br />Antigonish, NS B2G 2G5</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028632830">(902)863-2830</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.gasha.nshealth.ca/st-marthas-regional-hospital-ps.htm">St. Martha’s Regional Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

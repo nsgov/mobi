@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lillian Fraser Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Lillian Fraser Memorial Hospital</h3>
+		<h4>Colchester East Hants Health Authority - District 4</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>110 Blair Avenue<br />PO Box 40<br />Tatamagouche, NS B0K 1V0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026572382">(902)657-2382</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cehha.nshealth.ca/Lillian%20Fraser/index.cfm">Lillian Fraser Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

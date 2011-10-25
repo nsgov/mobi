@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Western Kings Memorial Health Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Western Kings Memorial Health Centre</h3>
+		<h4>Annapolis Valley Health – District 3</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>121 Orchard Street<br />PO Box 490<br />Berwick, NS B0P 1E0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025383111">(902)538-3111</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.avdha.nshealth.ca/site/western-kings-memorial-health-centre">Western Kings Memorial Health Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

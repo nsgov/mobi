@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Bayview Memorial Health Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Bayview Memorial Health Centre</h3>
+		<h4>Cumberland Health Authority - District 5</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>3375 Highway 209<br />Advocate Harbour, NS B0M 1A0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19023922859">(902)392-2859</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cha.nshealth.ca/ourhospitals/bayviewmemorial">Bayview Memorial Health Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

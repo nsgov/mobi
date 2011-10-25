@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Valley Regional Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Valley Regional Hospital</h3>
+		<h4>Annapolis Valley Health – District 3</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>150 Exhibition Street<br />Kentville, NS B4N 5E3</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026787381">(902)678-7381</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.avdha.nshealth.ca/site/valley-regional-hospital">Valley Regional Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Soldiers Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Soldiers Memorial Hospital</h3>
+		<h4>Annapolis Valley Health – District 3</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>462 Main Street<br />PO Box 730<br />Middleton, NS B0S 1P0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028253411">(902)825-3411</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.avdha.nshealth.ca/site/soldiers-memorial-hospital">Soldiers Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

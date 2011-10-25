@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Eastern Shore Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Eastern Shore Memorial Hospital</h3>
+		<h4>Capital Health District 9 </h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>22637 #7 Highway<br />Sheet Harbour, NS B0J 3B0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028852554">(902)885-2554</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cdha.nshealth.ca/about-us/our-facilities/eastern-shore-memorial-hospital">Eastern Shore Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

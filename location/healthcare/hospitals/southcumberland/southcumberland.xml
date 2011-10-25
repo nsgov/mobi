@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>South Cumberland Community Care Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>South Cumberland Community Care Centre</h3>
+		<h4>Cumberland Health Authority - District 5</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>50 Jenks Avenue<br />Parrsboro, NS B0M 1S0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022542540">(902)254-2540</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cha.nshealth.ca/ourhospitals/southcumberland/default.htm">South Cumberland Community Care Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

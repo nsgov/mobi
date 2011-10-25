@@ -2,18 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Aberdeen Hospital</title>
+  <title>IWK Health Centre</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Aberdeen Hospital</h3>
-		<h4>Pictou County Health Authority - District 6</h4>
+		<h3>IWK Health Centre</h3>
+		<h4>Capital Health District 9</h4>
 			<dl>
 				<dt>Address:</dt>
-				<dd>835 East River Road<br />New Glasgow, NS B2H 3S6</dd> 
+				<dd>5850/5980 University Avenue<br />PO Box 9700<br />Halifax, NS B3K 6R8</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19027527600">(902)752-7600</a></dd>
+					<dd><a href="tel:+19024708888">(902)470-8888</a></dd>
 					<dt>Website:</dt>
-					<dd><a href="http://www.pcha.nshealth.ca/aberdeen/">Aberdeen Hospital</a></dd>
+					<dd><a href="http://www.iwk.nshealth.ca/">IWK Health Centre</a></dd>
 				</dl>
 	</html>
   </content>

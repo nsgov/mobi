@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Twin Oaks Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Twin Oaks Memorial Hospital</h3>
+		<h4>Capital Health - District 9</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>7702 #7 Highway<br />Musquodoboit Harbour, NS B0J 2L0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028894110">(902)889-4110</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cdha.nshealth.ca/about-us/our-facilities/twin-oaks-memorial-hospital">Twin Oaks Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

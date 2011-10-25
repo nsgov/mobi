@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Cumberland Regional Health Care Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Cumberland Regional Health Care Centre</h3>
+		<h4>Cumberland Health Authority - District 5</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>19428 Highway 2, RR 6<br />Amherst, NS B4H 1N6</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026673361">(902)667-3361</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cha.nshealth.ca/ourhospitals/cumberlandregional/">Cumberland Regional Health Care Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

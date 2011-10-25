@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Strait Richmond Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Strait Richmond Hospital</h3>
+		<h4>Guysborough Antigonish Strait Health Authority - District 7</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>138 Hospital Road<br />Evanston, NS B0E 1J0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19026253100">(902)625-3100</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.gasha.nshealth.ca/strait-richmond-hospital.htm">Strait Richmond Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

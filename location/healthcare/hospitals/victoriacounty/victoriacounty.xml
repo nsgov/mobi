@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Victoria County Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Victoria County Memorial Hospital</h3>
+		<h4>Cape Breton Health Authority - District 8</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>30 Old Margaree Road<br />PO Box 220<br />Baddeck, NS B0E 1B0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022952112">(902)295-2112</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cbdha.nshealth.ca/ic2/intranet/departments/home.cfm?menuid=5014">Victoria County Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

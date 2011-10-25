@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Eastern Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Eastern Memorial Hospital</h3>
+		<h4>Guysborough Antigonish Strait Health Authority - District 7</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>1746 Union Street<br />PO Box 10<br />Canso, NS B0H 1H0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19023662794">(902)366-2794</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.gasha.nshealth.ca/eastern-memorial-hospital.htm">Eastern Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Cape Breton Regional Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Cape Breton Regional Hospital</h3>
+		<h4>Cape Breton Health Authority - District 8</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>1482 George Street<br />Sydney, NS B1P 1P3</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+1902567-8000">(902)567-8000</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cbdha.nshealth.ca">Cape Breton Regional Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

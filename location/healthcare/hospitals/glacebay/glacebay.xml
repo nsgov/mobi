@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Glace Bay Health Care Facility</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Glace Bay Health Care Facility</h3>
+		<h4>Cape Breton Health Authority - District 8</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>300 South Street<br />Glace Bay, NS B1A 1K9</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19028495511">(902)849-5511</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.nslocal.ca/results.php?hide_id=2753&amp;hide_stylesheet=1">Glace Bay Health Care Facility</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

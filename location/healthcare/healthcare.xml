@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Healthcare">Nova Scotia Healthcare</title>
+  <content for="main">
+    <contentlinks>
+      <link page="hospitals"/>
+    </contentlinks>
+  </content>
+</page>

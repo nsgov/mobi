@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Eastern Kings Memorial Community Health Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Eastern Kings Memorial Community Health Centre</h3>
+		<h4>Annapolis Valley Health – District 3</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>23 Earnscliffe Avenue<br />PO Box 1180<br />Wolfville, NS B4P 1X4</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025422266">(902)542-2266</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://http://avdha.nshealth.ca/site/eastern-kings-memorial-health-centre">Eastern Kings Memorial Community Health Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>St. Mary’s Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>St. Mary’s Memorial Hospital</h3>
+		<h4>Guysborough Antigonish Strait Health Authority - District 7</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>91 Hospital Road<br />PO Box 299<br />Sherbrooke, NS B0J 3C0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025222882">(902)522-2882</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.gasha.nshealth.ca/st-marys-memorial-hospital.htm">St. Mary’s Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

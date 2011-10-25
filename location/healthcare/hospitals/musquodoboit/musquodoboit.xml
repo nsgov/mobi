@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Musquodoboit Valley Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Musquodoboit Valley Memorial Hospital</h3>
+		<h4>Capital Health District 9</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>492 Archibald Brook Road<br />Middle Musquodoboit, NS B0N 1X0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19023842220">(902)384-2220</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cdha.nshealth.ca/about-us/our-facilities/musquodoboit-valley-memorial-hospital">Musquodoboit Valley Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

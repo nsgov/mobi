@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>North Cumberland Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>North Cumberland Memorial Hospital</h3>
+		<h4>Cumberland Health Authority - District 5</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>260 Church Street<br />Pugwash, NS B0K 1L0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19022432521">(902)243-2521</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cha.nshealth.ca/ourhospitals/northcumberlandmemorial/">North Cumberland Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

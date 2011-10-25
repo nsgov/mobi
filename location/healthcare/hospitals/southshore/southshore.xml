@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>South Shore Regional Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>South Shore Regional Hospital</h3>
+		<h4>South Shore Health - District 1</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>90 Glen Allan Drive<br />Bridgewater, NS B4V 3S6</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025434603">(902)543-4603</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)543-4719</dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.southshorehealth.ca/">South Shore Regional Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

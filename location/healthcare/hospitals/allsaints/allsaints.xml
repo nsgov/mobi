@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>All Saints Springhill Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>All Saints Springhill Hospital</h3>
+		<h4>Cumberland Health Authority - District 5</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>10 Princess Street<br />PO Box 2630<br />Springhill, NS B0M 1X0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025973773">(902)597-3773</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cha.nshealth.ca/ourhospitals/allsaintshospital/">All Saints Springhill Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

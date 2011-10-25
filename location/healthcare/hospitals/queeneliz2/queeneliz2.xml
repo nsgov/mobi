@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>QEII Health Sciences Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>QEII Health Sciences Centre</h3>
+		<h4>Capital Health District 9</h4>
+			<dl>
+					<dt>Main switchboard:</dt>
+					<dd><a href="tel:+19024732700">(902)473-2700</a></dd>
+					<dt>Multiple sites:</dt>
+					<dd>Consult individual departments.</dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cdha.nshealth.ca/about-us/our-facilities/qeii-health-sciences-centre">QEII Health Sciences Centre</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

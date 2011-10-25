@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Guysborough Memorial Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Guysborough Memorial Hospital</h3>
+		<h4>Guysborough Antigonish Strait Health Authority - District 7</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>10560 Route 16<br />PO Box 170<br />Guysborough, NS B0H 1H0</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19025333702">(902)533-3702</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.gasha.nshealth.ca/">Guysborough Memorial Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

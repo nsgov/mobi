@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Northside General Hospital</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Northside General Hospital</h3>
+		<h4>Cape Breton Health Authority - District 8</h4>
+			<dl>
+				<dt>Address:</dt>
+				<dd>520 Purves Street<br />PO Box 399<br />North Sydney, NS B2A 3M4</dd> 
+					<dt>Tel:</dt>
+					<dd><a href="tel:+19027948521">(902)794-8521</a></dd>
+					<dt>Website:</dt>
+					<dd><a href="http://www.cbdha.nshealth.ca/IC2/Intranet/departments/home.cfm?menuID=5008">Northside General Hospital</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>
