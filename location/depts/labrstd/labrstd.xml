@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Labour Standards</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Labour Standards</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Labour Standards Division <br />5151 Terminal Road, 7th floor<br />P.O. Box 697<br />Halifax, Nova Scotia <br />Canada B3J 2T8</dd>
+			</dl>
+				<h3>Inquiries about employment rights</h3>
+				<dl>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-888-315-0110">1-888-315-0110</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4311">(902)424-4311</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0648</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:labrstd@gov.ns.ca">labrstd@gov.ns.ca</a></dd>
+				</dl>
+			<h4><a href="http://www.gov.ns.ca/lae/labourstandards/contact.asp">Labour Standards Division Staff</a></h4>
+	</html>
+  </content>
+</page>

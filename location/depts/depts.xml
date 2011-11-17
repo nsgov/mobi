@@ -2,10 +2,113 @@
 <?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="NS Departments &amp; Agencies">Nova Scotia Departments &amp; Agencies</title>
+  <title abbr="Departments &amp; Agencies">Nova Scotia Departments &amp; Agencies</title>
   <content for="main">
-    <contentlinks>
-      <link page="cns"/>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+    <h2>Departments</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="agri"/>
+      <link page="cch"/>
+      <link page="cmns"/>
+      <link page="econ"/>
+      <link page="educ"/>
+      <link page="energy"/>
+      <link page="nse"/>
+      <link page="finance"/>
+      <link page="fish"/>
+      <link page="health"/>
+      <link page="iga"/>
+      <link page="just"/>
+      <link page="lae"/>
+      <link page="natr"/>
+      <link page="psc"/>
+      <link page="seniors"/>
+      <link page="snsmr"/>
+      <link page="tran"/>
     </contentlinks>
+    <h2>Agencies</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="abor"/>
+      <link page="acadian"/>
+      <link page="aids"/>
+      <link page="women"/>
+      <link page="ansa"/>
+      <link page="agd"/>
+      <link page="nsarm"/>
+      <link page="art"/>
+      <link page="oag"/>
+      <link page="nsccd"/>
+      <link page="cio"/>
+      <link page="cme"/>
+      <link page="cns"/>
+      <link page="cace"/>
+      <link page="coab"/>
+      <link page="cudic"/>
+      <link page="clic"/>
+      <link page="disa"/>
+      <link page="elections"/>
+      <link page="emo"/>
+      <link page="execounc"/>
+      <link page="farmlb"/>
+      <link page="film"/>
+      <link page="ofm"/>
+      <link page="fishlb"/>
+      <link page="foipop"/>
+      <link page="oga"/>
+      <link page="gans"/>
+      <link page="gcns"/>
+      <link page="geonova"/>
+      <link page="publications"/>
+      <link page="hdbc"/>
+      <link page="hy104"/>
+      <link page="hrc"/>
+      <link page="immigration"/>
+      <link page="innovacorp"/>
+      <link page="labourboard"/>
+      <link page="labrstd"/>
+      <link page="nslawfd"/>
+      <link page="lawreform"/>
+      <link page="legalaid"/>
+      <link page="legislature"/>
+      <link page="legcomm"/>
+      <link page="legc"/>
+      <link page="nslc"/>
+      <link page="nsmfc"/>
+      <link page="npmc"/>
+      <link page="nsbi"/>
+      <link page="museum"/>
+      <link page="nspa"/>
+      <link page="nssc"/>
+      <link page="nsuarb"/>
+      <link page="ombu"/>
+      <link page="payequity"/>
+      <link page="pensions"/>
+      <link page="nspc"/>
+      <link page="ppo"/>
+      <link page="peoac"/>
+      <link page="premier"/>
+      <link page="pfpmb"/>
+      <link page="pvsc"/>
+      <link page="protocol"/>
+      <link page="library"/>
+      <link page="taxcommission"/>
+      <link page="pps"/>
+      <link page="pto"/>
+      <link page="qprinter"/>
+      <link page="jointstock"/>
+      <link page="rmv"/>
+      <link page="regulations"/>
+      <link page="insurance"/>
+      <link page="stpa"/>
+      <link page="tenders"/>
+      <link page="treasuryboard"/>
+      <link page="vstat"/>
+      <link page="volunteerism"/>
+      <link page="waterfront"/>
+      <link page="wcat"/>
+      <link page="wcbns"/>
+      <link page="wtcc"/>
+    </contentlinks>
+    </html>
   </content>
 </page>

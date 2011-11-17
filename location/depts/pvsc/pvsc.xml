@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Property Valuation Services Corporation (Municipal)</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Property Valuation Services Corporation (Municipal) Nova Scotia</h2>
+		<h3>Phone</h3>
+		<dl>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-380-7775">1-800-380-7775</a> (Within Canada and United States)</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-893-5800">(902)893-5800</a> (Outside Canada and United States)</dd>
+				<dt>Fax:</dt>
+				<dd>1-888-339-4555 (Within Canada and United States)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)893-6101 (Outside Canada and United States)</dd>
+		</dl>
+		<h3>Dartmouth (Head Office)</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Property Valuation Services Corporation Park <br />Place II 238A Brownlow Avenue Suite 200, 2nd <br />Fl Dartmouth, Nova Scotia <br />Canada B3B 2B4</dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-380-7775">1-800-380-7775</a></dd>
+				</dl>
+		<h3>Truro</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>128 Esplanade St<br />Truro, Nova Scotia <br />Canada B2N 2K3</dd>
+				</dl>
+		<h3>Sydney</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>500 George Pl<br />Sydney, Nova Scotia <br />Canada B1P 1K6</dd>
+				</dl>
+		<h3>Port Hawkesbury</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>606 Reeves Street., Unit 3 Port Hawkesbury<br />Civic Centre<br />Port Hawkesbury, Nova Scotia <br />Canada B9A 2R7</dd>
+				</dl>
+		<h3>Bridgewater</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Suite 1, 134 North Street<br />Bridgewater, Nova Scotia <br />Canada B4V 2V6</dd>
+				</dl>
+		<h3>Yarmouth</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>10 Starrs Rd<br />Yarmouth, Nova Scotia <br />Canada B5A 2T1</dd>
+				</dl>
+		<h3>Kentville</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>87 Cornwallis St<br />Kentville, Nova Scotia <br />Canada B4N 2E5</dd>
+				</dl>
+			<h4><a href="http://www.nsassessmentonline.ca/PublicContact/GeneralInquiry.aspx">Online Contact Form</a></h4>
+	</html>
+  </content>
+</page>

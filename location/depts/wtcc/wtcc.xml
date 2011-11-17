@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>World Trade and Convention Centre</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>World Trade and Convention Centre Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>1800 Argyle Street<br />P.O. Box 955<br />Halifax, Nova Scotia <br />Canada B3J 2V9</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-421-8686">(902)421-8686</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)422-2922</dd>
+				</dl>
+			<h4><a href="https://wtcchalifax.tradecentrelimited.com/en/home/aboutwtcc/contactus.aspx">Contact Us Form</a></h4>
+	</html>
+  </content>
+</page>

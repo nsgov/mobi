@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Public Service Commission</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Public Service Commission</h2>
+			<h3>General Contact Information</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>1800 Argyle Street, 5th Floor<br />P.O. Box 943<br />Halifax, NS B3J 2V9</dd> 
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-7660">(902)424-7660</a></dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:FinanceWeb@gov.ns.ca">FinanceWeb@gov.ns.ca</a></dd>
+					<dt>Web:</dt>
+					<dd><a href="https://www.gov.ns.ca/psc/v2/secure/contact/contactForm.asp">Online Contact Form</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

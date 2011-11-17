@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Service Nova Scotia and Municipal Relations</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Service Nova Scotia and Municipal Relations</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>Public Enquiries - Service Nova Scotia &amp; Municipal Relations<br />Mail Room, 8 South, Maritime Centre<br />1505 Barrington Street<br />Halifax, NS B3J 3K5</dd>
+				<dt>Toll-Free:</dt>
+				<dd><a href="tel:+1-800-670-4357">1-800-670-4357 (within North America)</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5200">(902)424-5200</a> (Metro area)</dd>
+				<dt>TTY:</dt>
+				<dd>1-877-404-0867 (toll-free within North America)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0561</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:askus@gov.ns.ca">askus@gov.ns.ca</a></dd>
+				<dt>Online:</dt>
+				<dd><a href="https://www.gov.ns.ca/snsmr/contact.asp?bhcp=1#form">Use our Online Enquiry Form</a></dd>
+				</dl>
+				<h3>Other Contacts</h3>
+					<p>View the <a href="http://www.gov.ns.ca/government/gov_index.asp">Government Directory</a> which includes all Departments and Agencies.</p>
+					<p>A <a href="https://www.gov.ns.ca/snsmr/senior-officials.asp">Directory of Senior Officials</a> is available for download.</p>
+					<p>Access our <a href="http://www.gov.ns.ca/psc/services/geds/">Government Employee lookup service</a>.</p>          
+	</html>
+  </content>
+</page>

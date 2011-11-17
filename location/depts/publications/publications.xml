@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Government Publications</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Government Publications</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 637 <br />Halifax, Nova Scotia <br />Canada B3J 2T3</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5200">(902)424-5200</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0516</dd>
+				</dl>
+			<h4><a href="https://www.gov.ns.ca/snsmr/secure/contact/?formtype=publications#form">secure contact form</a></h4>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Bridgewater">Bridgewater Clinic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>We recommend calling any clinic before visiting to make sure it is open.</p>
+		<h3>South Shore Regional Hospital Walk-in Clinic</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Ambulatory Care Unit/third floor<br />90 Glen Allan Drive</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19025434603">(902) 543-4603</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 5:00pm to 7:30pm<br />Weekends and holidays - 10:00am to 12:30pm</dd>
+			</dl>
+      	<p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+	</html>
+  </content>
+</page>

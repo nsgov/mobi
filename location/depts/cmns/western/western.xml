@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Community Services - Western Regional Office</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Western Regional Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>10 Webster Street<br />Suite 202<br />Kentville, NS B4N 1H7</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-679-6715">(902)679-6715</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)679-6127</dd>
+			</dl>
+		<h3>Yarmouth District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>10 Starrs Road<br />Yarmouth, NS B5A 2T1</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-742-0741">(902)742-0741</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)742-0747</dd>
+			</dl>
+		<h3>Digby District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>84 Warwick Street<br />P. O. Box 399<br />Digby, NS B0V 1A0</dd> 
+				<h4>Child Welfare Services &amp; General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-245-5811">(902)245-5811</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)245-4121</dd>
+			</dl>
+		<h3>Shelburne District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>P. O. Box 9<br />Barrington, NS B0W 1E0</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-637-2335">(902)637-2335</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)637-2137</dd>
+				<h4>Child Welfare Services</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-637-2337">(902)637-2337</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)637-2137</dd>
+			</dl>
+		<h3>Annapolis District Office - Child Welfare</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5495 Granville Road<br />Granville Ferry, NS B0S 1A0</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-532-2337">(902)532-2337</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)532-3401</dd>
+			</dl>
+		<h3>Middleton District Office</h3>
+			<dl>
+				<h4>Income Assistance &amp; Employment Support, Housing</h4>
+				<dt>Address:</dt>
+				<dd>101 Magee Drive, Box 1000<br />Middleton, NS B0S 1P0</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-825-3481">(902)825-3481</a></dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-800-564-3483">1-800-564-3483</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)825-6560</dd>
+			</dl>
+		<h3>Queens District Office - Child Welfare</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>123 Henry Hensey Drive<br />P. O. Box 1360<br />Liverpool, NS B0T 1K0</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-354-2771">(902)354-2771</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)354-7460</dd>
+			</dl>
+		<h3>Lunenburg District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Suite 105, Provincial Building<br />99 High Street<br />Bridgewater, NS B4V 1V8</dd> 
+			</dl>
+			<h4>General Inquiries</h4>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-543-5527">(902)543-5527</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)543-6186</dd>
+				<h4>Child Welfare Services</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-543-4554">(902)543-4554</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)543-6186</dd>
+			</dl>
+		<h3>Hants District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>80 Water Street<br />P. O. Box 2350<br />Windsor, NS B0N 2T0</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-798-8319">(902)798-8319</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)798-6605</dd>
+			</dl>
+		<h3>Kings District Office # 1</h3>
+			<h4>Prevention, Eligibility Review, Community Supports for Adults, In Home Support for Children, Foster Care Coordinator</h4>
+				<dl>
+					<dt>Address:</dt>
+					<dd>10 Webster Street<br />Suite 202<br />Kentville, NS B4N 1H7</dd>
+				</dl> 
+			<h4>General Inquiries</h4>
+				<dl>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-679-5146">(902)679-5146</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)678-3072</dd>
+				</dl>
+		<h3>Kings District Office # 2</h3>
+			<h4>Day Care, Income Assistance, Employment Supports</h4>
+				<dl>
+					<dt>Address:</dt>
+					<dd>76 River Street<br />Kentville, NS B4N 1G9</dd> 
+				</dl>
+			<h4>General Inquiries</h4>
+				<dl>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-678-6176">(902)678-6176</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)679-6242</dd>
+				</dl>
+	</html>
+  </content>
+</page>

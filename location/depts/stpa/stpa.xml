@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sydney Tar Ponds Agency</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Sydney Tar Ponds Agency Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Sydney Tar Ponds Agency<br />1 Inglis Street, PO 1028, Station A<br />Sydney, Nova Scotia <br />Canada B1P 6J7</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-567-1035">(902)567-1035</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6622</dd>
+				</dl>
+			<h4><a href="http://www.tarpondscleanup.ca/index.php?sid=1&amp;cid=31&amp;pid=112">STPA Staff Directory</a></h4>
+	</html>
+  </content>
+</page>

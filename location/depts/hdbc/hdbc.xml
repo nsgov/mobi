@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Halifax-Dartmouth Bridge Commission</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Halifax-Dartmouth Bridge Commission, Nova Scotia</h2>
+			<h3>Halifax Harbour Bridges</h3>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 40<br />125 Wyse Road<br />Dartmouth, Nova Scotia <br />Canada B2Y 3Y2</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-463-2800">(902)463-2800</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)469-6281</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:bridges@hdbc.ns.ca">bridges@hdbc.ns.ca</a></dd>
+				</dl>
+			<h3>MACPASS Customer Service Centre</h3>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 39<br />465 Princess Margaret Blvd<br />Dartmouth, Nova Scotia <br />Canada B2Y 3Y2</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-463-3100">(902)463-3100</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)463-3101</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.macpass.com">www.macpass.com</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:service@macpass.com">service@macpass.com</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

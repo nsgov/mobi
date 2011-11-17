@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Office of Gaelic Affairs</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Office of Gaelic Affairs, Nova Scotia</h2>
+			<dl>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-888-842-3542">1-888-U-GAELIC</a>  (1-888-842-3542)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:gaelicinfo@gov.ns.ca">gaelicinfo@gov.ns.ca</a></dd>
+				<dd><a href="mailto:fiosgaidhlig@gov.ns.ca">fiosgaidhlig@gov.ns.ca</a></dd>
+			</dl>
+			<h3>Antigonish</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>155 Main Street<br />2nd Floor<br />Antigonish, Nova Scotia <br />Canada B2G 2B6</dd>
+					<dt>Street Address:</dt>
+					<dd>7037 Mumford Road, Suite 6<br />Halifax, Nova Scotia <br />Canada B3L 2J1</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-863-7578">(902)863-7578</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)863-7428</dd>
+					</dl>
+			<h3>Mabou</h3>
+				<dl>
+					<dt>Mailing Address:</dt>
+					<dd>11485 Highway 19<br />P.O. Box 261<br />Mabou, Nova Scotia <br />Canada B0E 1X0</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-945-2114">(902)945-2114</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)945-2628</dd>
+					</dl>
+			<h3>Halifax</h3>
+				<dl>
+					<dt>Mailing Address:</dt>
+					<dd>World Trade and Convention Centre <br />1800 Argyle Street, Suite 603<br />P.O. Box 456<br />Halifax, Nova Scotia <br />Canada B3J 2V9</dd>
+					<dt>Street Address:</dt>
+					<dd>7037 Mumford Road, Suite 6<br />Halifax, Nova Scotia <br />Canada B3L 2J1</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-4298">(902)424-4298</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0171</dd>
+					</dl>
+	</html>
+  </content>
+</page>

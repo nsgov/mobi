@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Registry of Joint Stock Companies</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Registry of Joint Stock Companies Nova Scotia</h2>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7770">(902)424-7770</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-225-8227">1-800-225-8227</a>  (within Canada)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-4633</dd>
+				<dt>Mailing Address:</dt>
+				<dd>Registry of Joint Stock Companies<br />P.O. Box 1529<br />Halifax, Nova Scotia <br />Canada B3J 2Y4</dd>
+				<dt>Street Address:</dt>
+				<dd>9th Floor, Maritime Centre<br />1505 Barrington Street<br />Halifax, Nova Scotia</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:joint-stocks@gov.ns.ca">joint-stocks@gov.ns.ca</a></dd>
+				</dl>
+			<h4><a href="http://www.gov.ns.ca/snsmr/offices.asp?service=rjsc&amp;zoom=12">Other Access Nova Scotia Centre Location</a></h4>
+	</html>
+  </content>
+</page>

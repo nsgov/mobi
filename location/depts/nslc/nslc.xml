@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Liquor Corporation</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Liquor Corporation, Nova Scotia</h2>
+		<h3>NSLC representative</h3>
+			<dl>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-567-5874">1-800-567-5874</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-450-5874">(902)450-5874</a></dd>
+				</dl>
+			<h4><a href="http://www.mynslc.com/Pages/ContactUs.aspx">Enquiry Form</a></h4>
+	</html>
+  </content>
+</page>

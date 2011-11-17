@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Antigonish">Antigonish Clinic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>We recommend calling any clinic before visiting to make sure it is open.</p>
+		<h3>Antigonish After Hours Clinic</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>40 Church Street</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19027354000">(902) 735-4000</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 6:00am to 9:00pm<br />(Call after 5 p.m. for appt.) </dd>
+			</dl>
+      	<p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+	</html>
+  </content>
+</page>

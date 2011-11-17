@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Public Trustee</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Public Trustee Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Public Trustee Office<br />Suite 405, 5670 Spring Garden Rd.<br />P.O. Box 685<br />Halifax, Nova Scotia <br />Canada B3J 2T3</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7760">(902)424-7760</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0616</dd>
+				</dl>
+			<h3>Health Care Decisions Division</h3>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4454">(902)424-4454</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)428-2159</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:PublicTrusteeHCD@gov.ns.ca">PublicTrusteeHCD@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

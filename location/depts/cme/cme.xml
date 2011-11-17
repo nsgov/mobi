@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Chief Medical Examiner</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Office of the Chief Medical Examiner</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Suite 701, 5670 Spring Garden Road<br />Halifax, Nova Scotia <br />Canada B3J 1H7</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-2722">(902)424-2722</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0607</dd>
+					</dl>
+	</html>
+  </content>
+</page>

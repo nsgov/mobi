@@ -4,123 +4,144 @@
   <title>Antigonish</title>
   <content>
     <html xmlns="http://www.w3.org/1999/xhtml">
-    
+    	<h2>Access Nova Scotia Centre</h2>
 		<dl>
 			<dt>Address:</dt>
-			<dd>Antigonish Mall Annex, Suite 3<br />149 Church Street<br />Antigonish, NS B2G 2E2</dd> 
-			<dt>Note:</dt>
-			<dd>This office accepts applications and payments only.<br />The Hollis St. office issues documents at the counter.</dd>
+			<dd>Antigonish Mall Annex, Suite 3<br />149 Church St.<br />Antigonish, NS B2G 2E2</dd> 
 			<dt>Toll-Free:</dt>
 			<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
 			<dt>Hours:</dt>
-			<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
+			<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+			<dt>Note:</dt>
+			<dd>Only Motor Vehicle Registration and Driver Licensing Services available after 4:30 p.m.</dd>
 		</dl>
 		
-		<h2>Services</h2>
+		<h3>Services</h3>
 		<ul>
 			<li>
-				<h3>Access Nova Scotia</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Toll-Free:</dt>
-					<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
+				<h4>Business Licensing and Registration</h4>
+				<h5>You can get application forms for the following licenses or permits:</h5>
+ 					<ul><li>Cemeteries and Funeral Homes 
+ 						</li><li>Debt Collectors and Consumer Reporting Agencies 
+  						</li><li>Direct Sellers and Salespeople 
+  						</li><li>Hearing Aid Dealers and Salespeople 
+  						</li><li>Mortgage Brokers and Mortgage Lenders 
+  						</li><li>Lenders Extending Credit</li></ul>
+				<h5>You can get temporary (30-day) licences for the following: </h5>
+ 					<ul><li>Direct Sellers Salespersons 
+  						</li><li>Individual Collectors 
+  						</li><li>Cemetery and Funeral Services Salespersons</li></ul>
+  				<dl>
 					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
-					<dd>Only Registry of Motor Vehicles Services: </dd>
-					<dd>Wed. to Fri. 4:30pm to 7:00pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Business Licensing, Consumer Complaints, Debtor Assistance</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Driver Examination and Testing</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Toll-Free:</dt>
-					<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a></dd>
-					<dt>Hours:</dt>
-					<dd>Road Test Times</dd>
-					<dd>(By Appointment Only)</dd>
-					<dd>Mon. to Fri.</dd>
-					<dd>Learner's Test Times</dd>
-					<dd>Every Thursday: 8:30am to 11:30am and 1:00pm to 4:00pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Land Registration</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Cumberland County, 9 Havelock Street<br />Amherst, NS B4H 3J6</dd>
-					<dt>Phone:</dt> 
-					<dd><a href="tel:+19026673131">(902) 667-3131</a> (NOT toll-free)</dd>
-					<dt>Hours: </dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Map Library Services</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>160 Willow Street<br />Amherst, NS B4H 3W5</dd>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
 					<dt>Phone:</dt>
-					<dd><a href="tel:+19026677231">(902) 667-7231</a> (NOT toll-free)</dd>
-					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
+					<dd><a href="tel:+1-902-424-5200">(902) 424-5200</a> (Halifax area) <br /> <a href="tel:+1-800-670-4357">1-800-670-4357</a> (outside of Halifax area)</dd>
 				</dl>
 			</li>
 			<li>
-				<h3>Registry of Joint Stock Companies</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Toll-Free:</dt>
-					<dd><a href="tel:+1-800-225-8227">1-800-225-8227</a></dd>
+				<h4>Consumer Complaints and Information</h4>
+ 					<ul><li>Complaint Resolution 
+   						</li><li>Education 
+   						</li><li>Regulation</li></ul>
+  				<dl>
 					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Registry of Motor Vehicles</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Toll-Free:</dt>
-					<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a></dd>
-					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
-				</dl>
-			</li>
-			<li>
-				<h3>Residential Tenancies</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Toll-Free:</dt>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
 					<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
-					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
 				</dl>
 			</li>
 			<li>
-				<h3>Vital Statistics</h3>
-				<dl>
-					<dt>Address:</dt>
-					<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
-					<dt>Note:</dt>
-					<dd>This office accepts applications and payments only.<br />The Hollis St. office issues documents at the counter.</dd>
-					<dt>Toll-Free:</dt>
-					<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a></dd>
+				<h4>Debtor Assistance</h4>
+ 					<ul><li>Consumer Proposals 
+    				</li><li>Orderly Payment of Debts</li></ul>
+  				<dl>
 					<dt>Hours:</dt>
-					<dd>Mon. to Fri. 8:30am to 4:30pm</dd>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
+				</dl>
+			</li>
+			<li>
+				<h4>Registry of Joint Stock Companies</h4>
+				<h5>The following services are available: </h5>
+   					<ul><li>Search and Reserve a Business Name 
+     				</li><li>Register Sole Proprietorship(s) and Partnership(s) </li></ul>
+				<h5>You can also get information on the following: </h5>
+  					<ul><li>Business Incorporation 
+     				</li><li>Co-operative Incorporation 
+     				</li><li>Society Incorporation (and Registration)</li></ul>
+  				<dl>
+					<dt>Hours:</dt>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
+				</dl>
+			</li>
+			<li>
+				<h4>Registry of Motor Vehicles</h4>
+  					<ul><li> Driver's Licences 
+      				</li><li>Driver Testing (By appointment only, please call the number below to book a time.) 
+      				</li><li>Driver's Abstract (Record) 
+      				</li><li>Vehicle Registration (Permits &amp; Plates) </li></ul>
+  				<dl>
+					<dt>Hours:</dt>
+					<dd>Monday &amp; Tuesday - 8:30 a.m. to 4:30 p.m. 
+						<br />Wednesday to Friday - 8:30 a.m. to 7:00 p.m.
+						<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a></dd>
+					<dt>Mailing Address:</dt>
+					<dd>Registry of Motor Vehicles 
+						<br />P.O. Box 1652 
+						<br />Halifax, NS B3J 2Z3</dd>
+				</dl>
+			</li>
+			<li>
+				<h4>Residential Tenancies (Renting Residential Properties)</h4>
+  					<ul><li>Information 
+      				</li><li> Forms and Applications 
+       				</li><li>Dispute Resolution and Hearings</li></ul>
+  				<dl>
+					<dt>Hours:</dt>
+					<dd>Monday to Friday - 8:30 a.m. to 4:30 p.m.
+						<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
+				</dl>
+			</li>
+			<li>
+				<h4>Vital Statistics</h4>
+  				<dl>
+  					<dt>Note:</dt>
+  					<dd>This office accepts applications and payments; the documents you request are returned to you by mail. <br />
+					Only the Vital Statistics Office, in Halifax issues documents at the counter.</dd>
+					<dt>Hours:</dt>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a></dd>
+				</dl>
+			</li>
+		</ul>
+		<h2>Land Registration Office</h2>
+		<dl>
+			<dt>Address:</dt>
+			<dd>Antigonish County<br />Antigonish Mall Annex, Suite 3<br />149 Church St.<br />Antigonish, NS B2G 2E2</dd> 
+		</dl>
+		
+		<h3>Services</h3>
+		<ul>
+			<li>
+				<h4>Land Registration</h4>
+  					<ul><li>Maps &amp; Geographic Info 
+      				</li><li>Personal Property 
+       				</li><li>Property Online</li></ul>
+  				<dl>
+					<dt>Hours:</dt>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-863-2677">(902) 863-2677</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 863-7490</dd>
 				</dl>
 			</li>
 		</ul>

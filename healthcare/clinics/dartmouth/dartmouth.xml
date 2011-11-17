@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Dartmouth">Dartmouth Clinic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>We recommend calling any clinic before visiting to make sure it is open.</p>
+		<h3>Montebello Medical</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>249 Waverley Road</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024064444">(902) 406-4444</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902) 406-4447</dd>
+				<dt>Hours:</dt>
+				<dd>Monday, Tuesday, Wednesday and Friday - 10:00am to 7:00pm<br />Thursday - 10:00am to 4:00pm</dd>
+			</dl>
+		<h3>Tacoma Family Medicine and Walk-In</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>101-58 Tacoma Drive</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024661531">(902) 466-1531</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902) 466-1352</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:bedcenmed@gmail.com">bedcenmed@gmail.com</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 8:30am to 7:30pm<br />Saturday - 11:00am to 4:30pm</dd>
+			</dl>
+		<h3>The Family Focus Medical Clinic</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Atlantic Superstore<br />650 Portland Street</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024206060">(902) 420-6060</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 8:30am to 9:00pm<br />Saturday - 11:00am to 5:00pm</dd>
+			</dl>
+		<h3>Medicine in Motion</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>121 Ilsley Ave. Unit 5</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024682774">(902) 468-2774</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 8:30am to 5:00pm<br />Weekends and holidays - 11:00am to 5:00pm</dd>
+			</dl>
+      	<p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Disabled Persons Commission</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Disabled Persons Commission</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Nova Scotia Disabled Persons Commission<br />Dartmouth Professional Center<br />277 Pleasant Street, Suite 104<br />Dartmouth, Nova Scotia <br />Canada B2Y 4B7</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-8280">(902)424-8280</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-565-8280">1-800-565-8280</a>  (within Nova Scotia only)</dd>
+				<dt>TTY:</dt>
+				<dd>(902)424-2667<br />1-877-996-9954 (Toll free)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:williaye@gov.ns.ca">williaye@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

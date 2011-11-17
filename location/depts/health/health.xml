@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Health and Wellness</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Department of Health and Wellness</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>Department of Health and Wellness<br />P.O. Box 488<br />Halifax, Nova Scotia <br />Canada B3J 2R8</dd> 
+				<dt>Civic Address:</dt>
+				<dd>Joseph Howe Building<br />1690 Hollis Street<br />Halifax, NS</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5818">(902)424-5818</a></dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-800-387-6665">1-800-387-6665</a>(toll free in Nova Scotia)</dd>
+				<dt>TTY/TDD:</dt>
+				<dd>1-800-670-8888</dd>
+				</dl>
+			<h4><a href="https://www.gov.ns.ca/health/about/contact.asp#submit-online">Online Form</a></h4>
+			<h4>Media Contact</h4>
+			<p>For all media requests, call <a href="tel:1-902-424-5886">424-5886</a></p>
+	</html>
+  </content>
+</page>

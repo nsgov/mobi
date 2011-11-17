@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Intergovernmental Affairs</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Department of Intergovernmental Affairs</h2>
+			<h3>Office of the Deputy Minister</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Duke Tower, 5th Floor<br />5251 Duke Street<br />P.O. Box 1617<br />Halifax, Nova Scotia <br />Canada B3J 2Y3</dd> 
+				<dt>Fax:</dt>
+				<dd>1-902-424-0728</dd>
+				</dl>
+				<h3>Ottawa Office</h3>
+				<dt>Address:</dt>
+				<dd>130 Albert Street<br />Suite 908<br />Ottawa, Ontario <br />Canada K1P 5G4</dd> 
+				<dt>General Number:</dt>
+				<dd><a href="tel:+1-613-232-1933">(613) 232-1933</a></dd>
+				<dt>Fax Number:</dt>
+				<dd>(613) 232-9565</dd>
+				<h3>Protocol Office</h3>
+				<dt>Address:</dt>
+				<dd>One Government Place, Barrington Level<br />1700 Granville Street<br />Halifax, Nova Scotia <br />Canada B3J 1X5</dd> 
+				<dt>General Number:</dt>
+				<dd><a href="tel:+1-902-424-4463">(902) 424-4463</a></dd>
+				<dt>Fax Number:</dt>
+				<dd>(902) 424-4309</dd>
+	</html>
+  </content>
+</page>

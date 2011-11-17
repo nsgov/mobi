@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>GeoNOVA</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>GeoNOVA<br />(geographic information about Nova Scotia)</h2>
+		<p>Note: The privacy rights of online visitors to the Service Nova Scotia and Municipal Relations (SNSMR) Website are fully protected by Nova Scotia's Freedom of Information and Protection of Privacy Act. Any personal information which SNSMR collects from visitors relates directly to the operation of programs and will not be used for any other purpose. To obtain access to or correct personal information you have submitted via this form, please contact Service Nova Scotia and Municipal Relations' at:</p>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>FOIPOP Administrator<br />P.O. Box 1003<br />Halifax, Nova Scotia <br />Canada B3J 2X1</dd>
+				</dl>
+			<h4><a href="https://www.gov.ns.ca/geonova/contact/Default.asp">Online Form</a></h4>
+	</html>
+  </content>
+</page>

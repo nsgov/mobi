@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Agriculture</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Agriculture</h2>
+			<dl>
+				<h3>General Inquiries</h3>
+				<h4>Reception</h4>
+				<dt>Address:</dt>
+				<dd>Nova Scotia Department of Agriculture<br />PO Box 2223<br />Halifax, Nova Scotia <br />Canada B3J 3C4</dd> 
+				<dt>Civic Address:</dt>
+				<dd>1741 Brunswick Street<br />3rd floor<br />Halifax, NS</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19024244560">(902)424-4560</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-4671</dd>
+			</dl>
+			<ul>
+				<li><a href="http://www.gov.ns.ca/agri/contactus/reps/arcs.shtml">Agricultural Resource Coodinators</a></li>
+				<li><a href="http://www.gov.ns.ca/agri/contactus/reps/4hreps.shtml">Agriculture &amp; 4-H Leadership Coordinators</a></li>
+				<li>Agricultural Education <a href="http://www.gov.ns.ca/agri/contactus/staffdir/division.asp?dept=agr&amp;orgLevelID=64">(see main staff directory)</a></li>
+				<li>Agriculture Transition Officers <a href="http://www.gov.ns.ca/agri/contactus/staffdir/division.asp?dept=agr&amp;orgLevelID=64">(see main staff directory)</a></li>
+			</ul>
+	</html>
+  </content>
+</page>

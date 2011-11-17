@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Energy</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Energy</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>Nova Scotia Department of Energy<br />Bank of Montreal Building, Suite 400<br />5151 George Street<br />P.O. Box 2664<br />Halifax, Nova Scotia <br />Canada B3J 3P7</dd> 
+				<h3>Main Office Reception</h3>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4575">(902)424-4575</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0528</dd>
+			</dl>
+			<h4><a href="http://www.gov.ns.ca/energy/contact/">Online Form</a></h4>
+	</html>
+  </content>
+</page>

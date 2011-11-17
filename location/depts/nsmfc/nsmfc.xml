@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Municipal Finance Corporation</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Municipal Finance Corporation</h2>
+			<dl>
+				<dt>Street Address:</dt>
+				<dd>Maritime Centre, 14 North<br />1505 Barrington Street<br />Halifax, Nova Scotia</dd>
+				<dt>Mailing Address:</dt>
+				<dd>Nova Scotia Municipal Finance Corporation<br />P.O. Box 850, Station M<br />Halifax, Nova Scotia <br />Canada B3J 2V2</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6333">(902)424-6333</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0525</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:mhorne@gov.ns.ca">mhorne@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

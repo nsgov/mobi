@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Emergency Management Office</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Emergency Management Office</h2>
+			<dl>
+				<dt>Email:</dt>
+				<dd><a href="mailto:emo@gov.ns.ca">emo@gov.ns.ca</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5620">(902)424-5620</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-866-424-5620">1-866-424-5620</a>  (within North America)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-5376</dd>
+				<dt>Mailing Address:</dt>
+				<dd>Emergency Management Office<br />P.O. Box 2581<br />Halifax, Nova Scotia <br />Canada B3J 3N5</dd>
+				<dt>Street Address:</dt>
+				<dd>21 Mount Hope Avenue<br />Suite 100<br />Dartmouth, Nova Scotia</dd>
+				</dl>
+			<h4><a href="http://emo.gov.ns.ca/content/contact-us">Online Form</a></h4>
+	</html>
+  </content>
+</page>

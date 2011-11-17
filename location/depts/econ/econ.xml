@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Economic and Rural Development and Tourism</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Economic and Rural Development and Tourism</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Economic and Rural Development and Tourism<br />Centennial Building<br />1660 Hollis St., Suite 600<br />Halifax, NS B3J 1V7</dd> 
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 2311<br />Halifax, Nova Scotia <br />Canada B3J 3C8</dd> 
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-0377">(902)424-0377</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0500</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:comm@gov.ns.ca">comm@gov.ns.ca</a></dd>
+				</dl>
+				<h3>Additional Contacts</h3>
+				<ul>
+					<li><a href="http://www.gov.ns.ca/econ/minister/default.asp">Minister's Office</a><br /><br />
+					</li><li><a href="http://www.gov.ns.ca/econ/overview/deputy_office.asp">Deputy Minister's Office</a><br /><br />
+					</li><li><a href="http://www.gov.ns.ca/econ/pmo/communications.asp">Communications</a><br /><br />
+					</li><li><a href="http://www.gov.ns.ca/econ/card/service_locations.asp">Regional Service Locations</a>
+					</li>
+				</ul>
+	</html>
+  </content>
+</page>

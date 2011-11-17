@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Pension Agency</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Pension Agency</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 371<br />Halifax, Nova Scotia <br />Canada B3J 2P8</dd>
+				<dt>Street Address:</dt>
+				<dd>Suite 400, 4th Floor<br />Purdy's Landing<br />1949 Upper Water Street<br />Halifax, Nova Scotia <br />Canada B3J 3N3</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5070">(902)424-5070</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-774-5070">1-800-774-5070</a>  (within Nova Scotia)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0662</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:PensionsInfo@gov.ns.ca">PensionsInfo@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Registry of Motor Vehicles</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Registry of Motor Vehicles Nova Scotia</h2>
+		<h3>Call Centre</h3>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5851">(902)424-5851</a> (within Metro)</dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-898-7668">1-800-898-7668</a>  (outside of metro)</dd>
+				</dl>
+		<h3>Amherst</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />Superstore Mall<br />126 South Albion Street<br />Amherst, Nova Scotia <br />Canada B4H 2X3</dd>
+				</dl>
+		<h3>Antigonish</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />Antigonish Mall Annex, Suite 3<br />149 Church St.<br />Antigonish, Nova Scotia <br />Canada B2G 2E2</dd>
+				</dl>
+		<h3>Baddeck</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />Provincial Building<br />6 Campbell Street<br />Baddeck, Nova Scotia</dd>
+				</dl>
+		<h3>Bridgewater</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />80 Logan Road<br />Bridgewater, Nova Scotia<br />Canada B4V 3J8</dd>
+				</dl>
+		<h3>Dartmouth</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />Superstore Mall<br />650 Portland Street<br />Dartmouth, Nova Scotia<br />Canada B2W 6A3</dd>
+				</dl>
+		<h3>Digby</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />198 Robinson Weir Road<br />Conway, Nova Scotia</dd>
+				</dl>
+		<h3>Guysborough</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />Church &amp; Pleasant Streets<br />Guysborough, Nova Scotia</dd>
+				</dl>
+		<h3>Halifax</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />300 Horseshoe Lake Drive<br />Bayers Lake Business Park<br />Halifax, Nova Scotia<br />Canada B3S 0B7</dd>
+				</dl>
+		<h3>Kentville</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />5 Shylah Drive<br />Kentville, Nova Scotia<br />Canada B4N 0H2</dd>
+				</dl>
+		<h3>Liverpool</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />249 White Point Road<br />Liverpool, Nova Scotia</dd>
+				</dl>
+		<h3>Middleton</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />61 Main Street<br />Middleton, Nova Scotia</dd>
+				</dl>
+		<h3>New Glasgow</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Consumer &amp; Commercial Relations<br />608 MacLellans Brook Road<br />New Glasgow, Nova Scotia<br />Canada B2H 5C5</dd>
+				</dl>
+		<h3>Port Hawkesbury</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />218 MacSween Street, Suite 22<br />Provincial Building<br />Port Hawkesbury, Nova Scotia<br />Canada B9A 2J9</dd>
+				</dl>
+		<h3>Sackville</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />486 Sackville Drive<br />Lower Sackville, Nova Scotia<br />Canada B4C 2R8</dd>
+				</dl>
+		<h3>Sheet Harbour</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />22756 #7 Highway, Suite 212<br />Sheet Harbour, Nova Scotia<br />Canada B0J 3B0</dd>
+				</dl>
+		<h3>Shelburne</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />136 Hammond Street<br />650 Portland Street<br />Shelburne, Nova Scotia</dd>
+				</dl>
+		<h3>Sydney</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />Moxham Centre<br />380 King's Road<br />Sydney, Nova Scotia<br />Canada B1S 1A8</dd>
+				</dl>
+		<h3>Truro</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />80 Walker Street, Suite 3<br />650 Portland Street<br />Truro, Nova Scotia<br />Canada B2N 4A7</dd>
+				</dl>
+		<h3>Windsor</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Registry of Motor Vehicles<br />80 Water Street<br />Windsor, Nova Scotia</dd>
+				</dl>
+		<h3>Yarmouth</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Access Nova Scotia Centre<br />Provincial Building<br />10 Starrs Road, Suite 127<br />Yarmouth, Nova Scotia<br />Canada B5A 2T1</dd>
+				</dl>
+	</html>
+  </content>
+</page>

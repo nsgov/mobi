@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Utility and Review Board</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Utility and Review Board</h2>
+			<dl>
+				<dt>Office Address:</dt>
+				<dd>Nova Scotia Utility and Review Board<br />3rd Floor, Summit Place<br />1601 Lower Water Street<br />Halifax, Nova Scotia <br />Canada B3J 3P6</dd>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 1692, Unit "M"<br />Halifax, Nova Scotia <br />Canada B3J 3S3</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4448">(902)424-4448</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-855-442-4448">1-855-442-4448</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-3919</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:board@gov.ns.ca">board@gov.ns.ca</a></dd>
+				</dl>
+			<h4><a href="http://www.nsuarb.ca/index.php?option=com_content&amp;task=view&amp;id=10&amp;Itemid=2">Inquiries Relating to Specific Matters</a></h4>
+	</html>
+  </content>
+</page>

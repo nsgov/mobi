@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Labour and Advanced Education</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Labour and Advanced Education</h2>
+			<p>Please contact our head office (below) for all general inquiries. For divisional and regional contacts, please consult our <a href="http://www.gov.ns.ca/lae/offices/">detailed directory listing</a>.</p>
+			<h3>Head Office<br />Nova Scotia Labour and Advanced Education</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5151 Terminal Road<br />P.O. Box 697<br />Halifax, Nova Scotia<br />Canada  B3J 2T8</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5301">(902)424-5301</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0575</dd>
+			</dl>
+			<h3>Adult Education</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>2021 Brunswick Street<br />P.O. Box 578<br />Halifax, Nova Scotia<br />Canada  B3J 2S9</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-877-466-7725">1-877-Go-NSSAL (1-877-466-7725)</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-1171</dd>
+			</dl>
+			<h3>Apprenticeship Training and Skill Development</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>2021 Brunswick Street<br />P.O. Box 578<br />Halifax, Nova Scotia<br />Canada  B3J 2S9</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5651">(902)424-5651</a></dd>
+				<dd><a href="tel:+1-800-494-5651">1-800-494-5651</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-1171</dd>
+			</dl>
+			<h4><a href="https://www.gov.ns.ca/lae/contact/Default.asp">Secure Enquiry Form</a></h4>
+	</html>
+  </content>
+</page>

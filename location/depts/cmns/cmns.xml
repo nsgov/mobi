@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Community Services">Community Services</title>
+  <content for="main">
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+	<p>Most communication with the department should be done through your local office. Select a region below to find your local district office. For questions related to housing or child welfare (including child abuse) see the section Other offices and contacts, below. To send an e-mail, see the section E-mail forms, below.</p>
+    <h3>Regional Office</h3>
+	<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="central"/>
+      <link page="western"/>
+      <link page="northern"/>
+      <link page="eastern"/>
+	</contentlinks>
+    <h3>Other offices and contacts</h3>
+		<ul>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/ChildWelfareServices.html">Offices with Child Welfare Services</a><br />Child welfare services include child protection and supports for children in care, including foster care and adoption. <strong>Report suspected child abuse to one of these offices.</strong>
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/HousingAuthorityOffices.html">Housing Authority Offices (includes Public Housing)</a><br />These offices are responsible for the administration and management of public housing and other affordable rental housing programs. Applications are available through these offices.
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/HousingServicesOffices.html">Housing Services Offices &amp; Other Housing Contacts</a><br />Contact Housing Services about home improvement loans, grants, and other financial assistance programs related to improving or developing housing.
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/HeadOffice.html">Head Office Contacts</a><br />These contact numbers are generally for specific administrative or policy development sections in the department.
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/CommunicationsTeam.html">Media Contacts at the Department</a><br />Members of the media should use information on this page to contact us.
+			</li>
+		</ul>
+    <h3>E-mail forms</h3>
+		<ul>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/Feedback.asp">Contact Us About Community Services</a><br />Use this form for general comments or questions related to the Department of Community Services.
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/CommunicationsTeam.html">Media Contacts at the Department</a><br />Members of the media should use information on this page to contact us.
+			</li>
+			<li><a href="http://www.gov.ns.ca/coms/department/contact/WebFeedback.asp">Contact Us About the Community Services Website</a><br />Use this form to let us know about technical or content issues with the Community Services site.
+			</li>
+		</ul> 
+	</html>
+  </content>
+</page>

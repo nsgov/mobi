@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Workers' Compensation Board</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Workers' Compensation Board Nova Scotia</h2>
+		<h3>Service point for Workers and Employers</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Workers' Compensation Board of Nova Scotia<br />5668 South Street<br />Halifax, Nova Scotia <br />Canada B3J 2Y2</dd>
+				<dt>Mailing Address:</dt>
+				<dd>Workers' Compensation Board of Nova Scotia<br />P.O. Box 1150<br />Halifax, Nova Scotia <br />Canada B3J 2Y2</dd>
+				</dl>
+			<h3>Contact Numbers</h3>
+			<h4>Injury Reporting Fax</h4>
+			<dl>
+				<dt>Fax:</dt>
+				<dd>(902)491-8001</dd>
+				</dl>
+			<h4>General Information - Halifax</h4>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-491-8999">(902)491-8999</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-870-3331">1-800-870-3331</a></dd>
+				</dl>
+			<h4>General Information - Sydney</h4>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-563-2444">(902)563-2444</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-880-0003">1-800-880-0003</a></dd>
+				</dl>
+			<h4>Employer Account Information/MyAccount Assistance</h4>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-491-8324">(902)491-8324</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-877-211-9267">1-877-211-9267</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)491-8326</dd>
+				</dl>
+			<h4>Investigations Unit</h4>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-491-8922">(902)491-8922</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-870-3331">1-800-870-3331</a></dd>
+				</dl>
+			<p><a href="/wcbns/index_e.aspx?DetailID=997">Contact Us Form</a></p>			
+			<p><a href="/wcbns/index_e.aspx?detailid=984">WCB Employee Directory</a></p>
+			<h3>Sydney Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Workers' Compensation Board of Nova Scotia<br />404 Charlotte Street, Suite 200<br />Sydney, Nova Scotia <br />Canada B1P 1E2</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-563-2444">(902)563-2444</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-880-0003">1-800-880-0003</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)563-0512</dd>
+				</dl>
+	</html>
+  </content>
+</page>

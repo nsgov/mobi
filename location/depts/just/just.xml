@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Justice</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Justice</h2>
+			<h3>General Inquiries</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5151 Terminal Road<br />P.O. Box 7<br />Halifax, Nova Scotia <br />Canada B3J 2L6</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4030">(902)424-4030</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:justweb@gov.ns.ca">justweb@gov.ns.ca</a></dd>
+			</dl>
+			<h3>Media Inquiries</h3>
+				<p><a href="http://gov.ns.ca/just/Communications/default.asp">Contact our Communications Team </a></p>
+			<h3><a href="http://gov.ns.ca/just/public_safety/private_security.asp"><strong>Security Programs Office</strong></a></h3>
+		    	<p>Email: <a href="mailto:secprog@gov.ns.ca">secprog@gov.ns.ca</a></p>
+			<h3><a href="http://gov.ns.ca/just/public_safety/firearms.asp"><strong>Nova Scotia Provincial Firearms Office</strong></a></h3>
+		    	<p> Email: <a href="mailto:firearms@gov.ns.ca">firearms@gov.ns.ca</a></p>
+    </html>
+  </content>
+</page>

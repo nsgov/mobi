@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Finance</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Finance</h2>
+			<h3>Head Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Nova Scotia Department of Finance<br />1723 Hollis St.<br />PO Box 187<br />Halifax, NS B3J 2N3</dd> 
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-5554">(902)424-5554</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0635</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:FinanceWeb@gov.ns.ca">FinanceWeb@gov.ns.ca</a></dd>
+				</dl>
+			<ul>
+				<li><a href="http://www.gov.ns.ca/finance/en/home/aboutfinance/contactus.aspx#ministersoffice">Minister's Office</a></li>
+				<li><a href="http://www.gov.ns.ca/finance/en/home/aboutfinance/contactus.aspx#deputyminister">Deputy Minister</a></li>
+				<li><a href="http://www.gov.ns.ca/finance/en/home/aboutfinance/contactus.aspx#assistantdeputy">Assistant Deputy Minister</a></li>
+				<li><a href="http://www.gov.ns.ca/finance/en/home/aboutfinance/contactus.aspx#controller">Controller</a></li>
+			</ul>
+	</html>
+  </content>
+</page>

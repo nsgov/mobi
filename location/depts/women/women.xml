@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Advisory Council on the Status of Women</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Advisory Council on the Status of Women</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 745<br />Halifax, Nova Scotia <br />Canada B3J 2T3</dd>
+				<dt>Street Address:</dt>
+				<dd>Quinpool Centre<br />2nd floor, Suite 202<br />6169 Quinpool Road<br />Halifax, Nova Scotia</dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-800-565-8662">1-800-565-8662</a> (toll-free within Nova Scotia)</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-8662">(902)424-8662</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0573</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:women@gov.ns.ca">women@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Community Liaison &amp; Rural Outreach Program</h3>
+			<h4>Digby-Annapolis Counties</h4>
+				<dl>
+				<dt>Address:</dt>
+				<dd>84 Warwick Street<br />Provincial Building<br />Digby, Nova Scotia B0V 1A0</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-245-2901">(902)245-2901</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

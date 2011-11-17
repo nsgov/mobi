@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Alcohol and Gaming Division</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Alcohol and Gaming Division</h2>
+			<h3>Main Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Alcohol and Gaming Division<br />Nova Scotia Labour and Advanced Education<br />780 Windmill Road, 2nd Floor<br />P.O. Box 545<br />Dartmouth, Nova Scotia <br />Canada B2Y 3Y8</dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-877-565-0556">1-877-565-0556</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6160">(902)424-6160</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6313</dd>
+				</dl>
+			<h3>Sydney Office</h3>
+				<dl>
+				<dt>Address:</dt>
+				<dd>235 Townsend Street<br />Sydney, Nova Scotia B1P 5E7</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-563-3495">(902)563-3495</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)563-3430</dd>
+				</dl>
+	</html>
+  </content>
+</page>

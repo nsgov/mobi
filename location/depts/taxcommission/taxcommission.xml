@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Provincial Tax Commission</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Provincial Tax Commission Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Maritime Centre, 8th South,<br />1505 Barrington Street<br />P.O. Box 1003<br />Halifax, Nova Scotia <br />Canada B3J 2X1</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6300">(902)424-6300</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-565-2336">1-800-565-2336</a>  (within Nova Scotia)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7434</dd>
+				<dt>Email:</dt>
+				<dd>Commissioner's Office<br /><a href="mailto:vaillana@gov.ns.ca">vaillana@gov.ns.ca</a></dd>
+				<dd>Manager, Audit and Enforcement<br /><a href="mailto:meagherb@gov.ns.ca">meagherb@gov.ns.ca</a></dd>
+				<dd>Manager, Business Registration Unit<br /><a href="mailto:crowelsl@gov.ns.ca">crowelsl@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Objections and Appeals</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3216">(902)424-3216</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:newcombb@gov.ns.ca">newcombb@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Tax Information</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6538">(902)424-6538</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:taxcommission@gov.ns.ca">taxcommission@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Audit and Enforcement</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6717">(902)424-6717</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0702</dd>
+				<dt>Email:</dt>
+				<dd>Audit<br /><a href="mailto:bordagec@gov.ns.ca">bordagec@gov.ns.ca</a><br /><a href="mailto:griffitj@gov.ns.ca">griffitj@gov.ns.ca</a></dd>
+				<dd>Enforcement<br /><a href="mailto:woodvc@gov.ns.ca">woodvc@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Registrations and Permits</h3>
+				<dl>
+				<dt>Fax:</dt>
+				<dd>(902)424-0702</dd>
+				</dl>
+				<h4>Tobacco Permits</h4>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4414">(902)424-4414</a></dd>
+				</dl>
+				<h4>Tobacco Wholesalers &amp; Manufacturers</h4>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6717">(902)424-6717</a></dd>
+				</dl>
+				<h4>Fuel Permits</h4>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7322">(902)424-7322</a></dd>
+				</dl>
+				<h4>Fuel Agents/Wholesalers</h4>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6717">(902)424-6717</a></dd>
+				</dl>
+				<h4>IFTA</h4>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2850">(902)424-2850</a></dd>
+				</dl>
+			<h3>Fuel Tax Refunds</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5670">(902)424-5670</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0602</dd>
+				</dl>
+			<h3>Provincial Tax Refunds /Rebates</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2850">(902)424-2850</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0602</dd>
+				</dl>
+			<h3>Collections</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-1193">(902)424-1193</a></dd>
+				</dl>
+			<h3>Vehicle Tax Compliance Unit</h3>
+				<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3083">(902)424-3083</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

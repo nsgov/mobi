@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Berwick">Berwick Clinic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>We recommend calling any clinic before visiting to make sure it is open.</p>
+		<h3>Western Kings Health Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>121 Orchard Street</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+19025383111">(902) 538-3111</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Thursday - 8:00am to 10:00pm<br />Friday - 8:00am to 6:00pm<br />Weekends and holidays - 10:00am to 6:00pm</dd>
+			</dl>
+      	<p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+	</html>
+  </content>
+</page>

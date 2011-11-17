@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Community Services - Northern Regional Office</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h3>Northern Regional Office</h3>
+			<dl>
+				<dt>Regional Administrator:</dt>
+				<dd>Catherine Berliner</dd>
+				<dt>Address:</dt>
+				<dd>161 Terra Cotta Drive<br />New Glasgow, NS B2H 6B6</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-755-7023">(902)755-7023</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)752-5088</dd>
+			</dl>
+		<h3>Cumberland District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>26-28 Prince Arthur Street<br />Suite 201<br />P. O. Box 399<br />Amherst, NS B4H 3Z5</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-667-3336">(902)667-3336</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)667-1594</dd>
+			</dl>
+		<h3>Colchester District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>60 Lorne Street<br />P. O. Box 950<br />Truro, NS B2N 3K3</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-893-5950">(902)893-5950</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)893-5609</dd>
+			</dl>
+		<h3>New Glasgow District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>161 Terra Cotta Drive<br />New Glasgow, NS B2H 6B6</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-755-7363">(902)755-7363</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)755-3631</dd>
+			</dl>
+		<h3>Antigonish District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>229 Main Street<br />Antigonish, NS B2Y 4B7</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-863-3213">(902)863-3213</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)863-7549</dd>
+				<h4>Child Welfare Services</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-863-3213">(902)863-3213</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)863-7549</dd>
+			</dl>
+		<h3>Guysborough District Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Chedabucto Mall<br />P. O. Box 90<br />Guysborough, NS BOH 1NO</dd> 
+				<h4>Child Welfare Services &amp; General Enquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-533-4007">(902)533-4007</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)533-3822</dd>
+			</dl>
+		<h3>East Hants (Elmsdale)</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>15 Commerce Court<br />Suite 130<br />Elmsdale, NS B2S 3K5</dd> 
+				<h4>General Inquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-866-597-4515">(866)597-4515</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)883-3534</dd>
+			</dl>
+	</html>
+  </content>
+</page>

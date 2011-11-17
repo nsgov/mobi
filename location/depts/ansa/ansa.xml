@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>African Nova Scotian Affairs</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia African Nova Scotian Affairs</h2>
+			<h3>Main Office</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5670 Spring Garden Road, Suite 604<br />P.O. Box 2691<br />Halifax, Nova Scotia <br />Canada B3J 1H6</dd>
+				<dt>General:</dt>
+				<dd><a href="tel:+1-902-424-5555">(902)424-5555</a></dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-8662">(902)424-8662</a></dd>
+				<dt>Facsimile:</dt>
+				<dd>(902)424-7189</dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-866-580-2672">1-866-580-ANSA</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:ansa_newsletter@gov.ns.ca">ansa_newsletter@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Cape Breton Region</h3>
+				<dl>
+				<dt>Address:</dt>
+				<dd>Sydney Commerce Towers<br />15 Dorchester Street, Suite 501<br />Sydney, Nova Scotia B1P 5Y9</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-563-3735">(902)563-3735</a></dd>
+				<dt>Facsimile:</dt>
+				<dd>(902)563-2700</dd>
+				</dl>
+	</html>
+  </content>
+</page>

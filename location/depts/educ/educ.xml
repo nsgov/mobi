@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Education</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Education</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Nova Scotia Department of Education <br />2021 Brunswick Street<br />P.O. Box 578<br />Halifax, Nova Scotia <br />Canada B3J 2S9</dd> 
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-5168">(902)424-5168</a></dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-888-825-7770">1-888-825-7770</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0511</dd>
+				</dl>
+				<strong>Please direct your General Enquiries to our <a href="https://sapps.ednet.ns.ca/general_enquiries/index.php">secure online form.</a></strong>
+		<h2>Division Contacts</h2>	
+			<ul>
+			<li><a href="http://acs.ednet.ns.ca/contact-us">African Canadian Services</a></li>
+			<li>Correspondence Studies<br />See <a href="http://lrt.ednet.ns.ca/contact.shtml">Learning Resources &amp; Technology</a></li>
+			<li><a href="https://sapps.ednet.ns.ca/cart/index.php?UID=20090714122156142.227.51.61">Curriculum Documents Shopping Cart</a></li>
+			<li><a href="http://dpenligne.ednet.ns.ca/node/6">Développement professionnel en ligne</a></li> 
+			<li><a href="http://www.ednet.ns.ca/transcripts.shtml">Diplomas</a>
+				<ul>
+					<li>High School Diplomas</li> 
+					<li>Transcripts</li>
+				</ul>
+			</li>
+			<li><a href="http://dsalf.ednet.ns.ca/coordonnees">Direction des services acadiens et de langue française (DSALF)</a></li>
+			<li><a href="http://webhelp.ednet.ns.ca/contact">EDnet Wide Area Network &amp; Web Hosting</a>	</li>
+			<li><a href="https://sapps.ednet.ns.ca/client_services/">EDnet Network Support - Client Services Site</a>	</li>
+			<li>Education Media Library<br />See <a href="http://lrt.ednet.ns.ca/contact.shtml">Learning Resources &amp; Technology</a></li>
+			<li>Education Quality Services (EQS)<br /><a href="http://brighterfuturestogether.ednet.ns.ca/contact.shtml">Learning for Life II</a>
+			</li>
+			<li><a href="http://eps.ednet.ns.ca/contact-us">English Program Services</a></li>
+			<li><a href="http://plans.ednet.ns.ca/contact-us">Evaluation Services</a>
+				<ul>
+					<li>Appréciation du rendement en littératie au primaire (ARL)</li>
+					<li>Appréciation de rendement en littératie au premier cycle du secondaire (ARLS)</li>
+					<li>Early Elementary Math Literacy Assessment (EEMLA)</li>
+					<li>Early Language Literacy Assessment (ELLA)</li>
+					<li>Elementary Literacy Assessment</li>
+					<li>Junior High Literacy Assessment</li>
+				</ul> 
+			</li>     
+			<li><a href="http://fsl.ednet.ns.ca/content/contact-us">French Second Language Program Services</a></li>  
+			<li><a href="http://nshps.ca/contact">Health Promoting Schools</a></li>
+			<li><a href="http://homeschooling.ednet.ns.ca/contact_info">Home Schooling</a></li>
+			<li><a href="https://w3apps.ednet.ns.ca/itembank/contacts.asp">Item Bank</a><br />Teacher resource, login required. </li>
+			<li><a href="http://lrt.ednet.ns.ca/contact.shtml">Learning Resources &amp; Technology (LRT)</a></li>
+			<li><a href="http://lifework.ednet.ns.ca/index2.html">LifeWork Portfolio</a></li>
+			<li><a href="http://www.ednet.ns.ca/contact_dept2.shtml">Literacy Success (Active Young Readers)</a></li>
+			<li><a href="http://mikmaq.ednet.ns.ca/contact.shtml">Mi'kmaq Liaison Office</a><br />The Mi'kmaq Liaison Office is mandated to serve as a conduit between the Department of Education and the province's aboriginal communities in matters of Education. It provides services to teachers and administrators in Nova Scotia's band-operated schools. It also assists the public school system through professional development and curriculum/resource development to promote the inclusion of Mi'kmaq content and perspectives in all of the province's classrooms. </li>
+			<li><a href="http://nsisp.ca/contact">Nova Scotia International Student Program</a></li>
+			<li><a href="https://edapps.ednet.ns.ca/nssbb/Contacts.asp">NS School Book Bureau</a></li>
+			<li><a href="http://www.ednet.ns.ca/O2/contact-information">O2 - Options and Opportunities</a></li>
+			<li><a href="http://stats-summary.ednet.ns.ca/contact.shtml">Statistics and Data Management</a></li>
+			<li><a href="http://studentservices.ednet.ns.ca/content/contact">Student Services</a></li> 
+			<li><a href="https://edpps.ednet.ns.ca/summersession/Contacts.aspx">Summer Institutes</a></li>
+			<li><a href="http://certification.ednet.ns.ca/contacts.shtml">Teacher Certification</a>	</li>
+			<li><a href="http://trp.ednet.ns.ca/contact_info.shtml">Technology Recycling</a></li>
+			<li><a href="http://tuitionsupport.ednet.ns.ca/contact_info.shtml">Tuition Support</a></li>
+		</ul>
+	</html>
+  </content>
+</page>

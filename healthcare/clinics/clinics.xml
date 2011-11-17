@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Clinics">Nova Scotia Clinics</title>
+  <content for="main">
+    <contentlinks>
+    <p>We recommend calling any clinic before visiting to make sure it is open.</p>
+      <link page="antigonish"/>
+      <link page="bedford"/>
+      <link page="berwick"/>
+      <link page="bridgewater"/>
+      <link page="dartmouth"/>
+      <link page="halifax"/>
+      <link page="hammondsplains"/>
+      <link page="lowersackville"/>
+      <link page="newglasgow"/>
+      <link page="truro"/>
+      <link page="wolfville"/>
+      <p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+    </contentlinks>
+  </content>
+</page>

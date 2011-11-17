@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Primary Forest Products Marketing Board</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Primary Forest Products Marketing Board Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Nova Scotia Primary Forest Products Marketing Board<br />45 Alderney Dr.,Suite 804<br />Dartmouth, Nova Scotia <br />Canada B2Y 2N6</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7598">(902)424-7598</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6965</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:nspfpmb@gov.ns.ca">nspfpmb@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

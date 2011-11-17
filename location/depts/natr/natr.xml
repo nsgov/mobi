@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Natural Resources</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Department of Natural Resources</h2>
+			<h3>Head Office<br />Nova Scotia Labour and Advanced Education</h3>
+			<dl>
+				<dt>Street Address:</dt>
+				<dd>NS Dept. of Natural Resources<br />1701 Hollis Street<br />Founders Square<br />Halifax, NS  B3J 3M8</dd> 
+				<dt>Mailing Address:</dt>
+				<dd>NS Dept. of Natural Resources<br />P.O. Box 698<br />Halifax, Nova Scotia <br />Canada  B3J 2T9</dd> 
+				<dt>General Inquiries:</dt>
+				<dd><a href="tel:+1-902-424-5935">(902)424-5935</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7735</dd>
+			</dl>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#air">Air Services</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#drill">Drill Core Library</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#forestry">Forest Protection </a>(Fire Control) </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#for">Forestry Division</a> (Truro Office) </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#nrec">Natural Resources Education Centre</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#parks">Parks &amp; Recreation</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#shub">Shubenacadie Wildlife Park</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#nursery">Strathlorne Forest Nursery</a> </h3>
+			<h3><a href="http://gov.ns.ca/natr/thedepartment/dnroffices.asp#wild">Wildlife Division</a></h3>
+			<h3><a href="http://www.gov.ns.ca/natr/staffdir/offices.asp">DNR Field Offices</a></h3>
+			<p>Regional/District Contact List</p>
+            <h3><a href="http://gov.ns.ca/natr/thedepartment/woodlot-contacts.asp">Woodlot and Extension Staff</a> </h3>
+	        <h3><a href="http://gov.ns.ca/natr/thedepartment/woodlot-contacts.asp#xmas">Xmas Tree Staff</a> </h3>
+	        <h3><a href="http://www.gov.ns.ca/natr/thedepartment/hunter-ed-contacts.asp">Hunter Education Staff</a></h3>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Registry of Regulations</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Registry of Regulations Nova Scotia</h2>
+		<h3>Registry of Regulations</h3>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 7<br />Halifax, Nova Scotia <br />Canada B3J 2L6</dd>
+				<dt>Street Address:</dt>
+				<dd>4th Floor<br />the Terminal Road Building<br />5151 Terminal Road<br />Halifax, Nova Scotia</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6723">(902)424-6723</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7120</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:regofregs@gov.ns.ca">regofregs@gov.ns.ca</a></dd>
+				</dl>
+		<h3>Royal Gazette Part I</h3>
+		<p>Questions, submission or subscription inquiries and other comments about the Royal Gazette Part I should be directed to:</p>
+		<h4>Susan MacIsaac<br />Chief Clerk Royal Gazette</h4>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 7<br />Halifax, Nova Scotia <br />Canada B3J 2L6</dd>
+				<dt>Street Address:</dt>
+				<dd>4th Floor<br />the Terminal Road Building<br />5151 Terminal Road<br />Halifax, Nova Scotia</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-8575">(902)424-8575</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7120</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:macisasm@gov.ns.ca">macisasm@gov.ns.ca</a></dd>
+				</dl>
+		<h3>Royal Gazette Part II (Regulations)</h3>
+		<p>Questions, subscription inquiries and other comments about the Royal Gazette Part II or the Sectional Index to the Royal Gazette Part II should be directed to:</p>
+		<h4>Deborah Spurr<br />Regulations Clerk</h4>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 7<br />Halifax, Nova Scotia <br />Canada B3J 2L6</dd>
+				<dt>Street Address:</dt>
+				<dd>4th Floor<br />the Terminal Road Building<br />5151 Terminal Road<br />Halifax, Nova Scotia</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6723">(902)424-6723</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7120</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:spurrda@gov.ns.ca">spurrda@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Art Gallery</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Art Gallery of Nova Scotia Halifax</h2>
+			<dl>
+				<dt>Physical Address:</dt>
+				<dd>1723 Hollis Street<br />Halifax, Nova Scotia <br />Canada B3J 1V9</dd> 
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 2262<br />Halifax, Nova Scotia <br />Canada B3J 3C8</dd> 
+			</dl>
+		<h4>After Hours/Oversize Deliveries</h4>
+		<p>Direct to the Bedford Row Security Entrance (corner of George Street and Bedford Row)</p>
+		<h4>Information Desk</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-5280">(902)424 5280</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:infodesk@gov.ns.ca">infodesk@gov.ns.ca</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-7359</dd>
+			</dl>
+		<h4>Hours &amp; Exhibitions Listing (recording)</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7542">(902)424-7542</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:infodesk@gov.ns.ca">infodesk@gov.ns.ca</a></dd>
+			</dl>
+		<h4>Security Desk</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-8459">(902)424-8459</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:security@gov.ns.ca">security@gov.ns.ca</a></dd>
+			</dl>
+		<h2>Art Gallery of Nova Scotia<br />Western Branch Yarmouth</h2>
+			<dl>
+				<dt>Physical Address:</dt>
+				<dd>341 Main Street<br />Yarmouth, Nova Scotia <br />Canada B5A 1E7</dd> 
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 246<br />Halifax, Nova Scotia <br />Canada B5A 4B2</dd> 
+			</dl>
+		<h4>Front Desk / Retail</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-749-2248">(902)749-2248</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)749-2255</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:agnsyarmouth@gov.ns.ca">agnsyarmouth@gov.ns.ca</a></dd>
+			</dl>
+		<h4>Angela Collier, Gallery Coordinator</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-749-2251">(902)749-2251</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:collieal@gov.ns.ca">collieal@gov.ns.ca</a></dd>
+			</dl>
+		<h4>David Diviney, Curator of Exhibitions</h4>
+			<dl>		
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3001">(902)424-3001</a> (based in Halifax)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:divinedm@gov.ns.ca">divinedm@gov.ns.ca</a></dd>
+			</dl>
+	</html>
+  </content>
+</page>

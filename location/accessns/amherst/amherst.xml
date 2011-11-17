@@ -129,31 +129,6 @@
 				</dl>
 			</li>
 		</ul>
-		<h2>Nova Scotia Geomatics Centre</h2>
-		<dl>
-			<dt>Address:</dt>
-			<dd>160 Willow Street<br />Amherst, NS B4H 3W5</dd> 
-		</dl>
-		
-		<h3>Services</h3>
-		<ul>
-			<li>
-				<h4>Land Information</h4>
-  					<ul><li>Maps 
-      				</li><li>Geographic Information 
-       				</li><li>Aerial Photographs for the Region</li></ul>
-  				<dl>
-  					<dt>Note:</dt>
-  					<dd>Provincial data can be found in the Halifax Land Registration Office.</dd>
-					<dt>Hours:</dt>
-					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
-					<dt>Phone:</dt>
-					<dd><a href="tel:+1-902-667-7231">(902) 667-7231</a></dd>
-					<dt>Fax:</dt>
-					<dd>(902) 667-6008</dd>
-				</dl>
-			</li>
-		</ul>
 		<h2>Land Registration Office</h2>
 		<dl>
 			<dt>Address:</dt>
@@ -174,6 +149,31 @@
 					<dd><a href="tel:+1-902-667-3131">(902) 667-3131</a></dd>
 					<dt>Fax:</dt>
 					<dd>(902) 667-5657</dd>
+				</dl>
+			</li>
+		</ul>
+		<h2>Nova Scotia Geomatics Centre</h2>
+		<dl>
+			<dt>Address:</dt>
+			<dd>160 Willow Street<br />Amherst, NS B4H 3W5</dd> 
+		</dl>
+		
+		<h3>Services</h3>
+		<ul>
+			<li>
+				<h4>Map Library Services</h4>
+  					<ul><li>Maps 
+      				</li><li>Geographic Information 
+       				</li><li>Aerial Photographs for the Region</li></ul>
+  				<dl>
+  					<dt>Note:</dt>
+  					<dd>Provincial data can be found in the Halifax Land Registration Office.</dd>
+					<dt>Hours:</dt>
+					<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-667-7231">(902) 667-7231</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902) 667-6008</dd>
 				</dl>
 			</li>
 		</ul>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Credit Union Deposit Insurance Corporation</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Credit Union Deposit Insurance Corporation, Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Suite 212, 200 Waterfront Drive<br />Bedford, Nova Scotia <br />Canada B4A 4J4</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-422-4431">(902)422-4431</a></dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-877-770-5622">1-877-770-5622</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)492-3695</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:info@nscudic.org">info@nscudic.org</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

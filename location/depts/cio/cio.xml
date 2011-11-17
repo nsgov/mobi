@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Chief Information Office</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Chief Information Office</h2>
+			<dl>
+					<dt>Email:</dt>
+					<dd><a href="mailto:CIOenquiries@gov.ns.ca">CIOenquiries@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Natural Products Marketing Council</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Natural Products Marketing Council</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 550<br />Truro, Nova Scotia <br />Canada B2N 5E3</dd>
+				</dl>
+			<h4><a href="https://gov.ns.ca/agri/secure/responseNPMC.shtml">Online Contact</a></h4>
+				<dl>
+				<dt>Civic Address:</dt>
+				<dd>Harlow Institute<br />176 College Rd.<br />Truro, Nova Scotia <br />Canada B2N 2P2</dd>
+				</dl>
+	</html>
+  </content>
+</page>

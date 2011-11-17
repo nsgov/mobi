@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Ombudsman</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Office of The Ombudsman, Nova Scotia</h2>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5670 Spring Garden Road<br />Suite 700<br />P.O. Box 2152<br />Halifax, Nova Scotia <br />Canada B3J 3B7</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-6780">(902)424-6780</a></dd>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-800-670-1111">1-800-670-1111</a>  (within Nova Scotia)</dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6675</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:ombudsman@gov.ns.ca">ombudsman@gov.ns.ca</a></dd>
+				</dl>
+				<h4>Disclosure of Wrongdoing Inquiries:</h4>
+				<dl>
+				<dt>Toll free:</dt>
+				<dd><a href="tel:+1-877-670-1100">1-877-670-1100</a>  (within Nova Scotia)</dd>
+				</dl>
+				<h4>Youth Services:</h4>
+				<dt>Toll free:</dt>
+				<dl>
+				<dd><a href="tel:+1-888-839-6884">1-888-839-6884</a>  (within Nova Scotia)</dd>
+				</dl>
+	</html>
+  </content>
+</page>

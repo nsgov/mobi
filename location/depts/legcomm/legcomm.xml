@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Legislative Committees Office</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Legislative Committees Office</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>3rd Floor, Dennis Building<br />1740 Granville Street<br />P.O. Box 2630 Stn "M"<br />Halifax, Nova Scotia <br />Canada B3J 3P7</dd>
+				<dt>Street Address:</dt>
+				<dd>7037 Mumford Road, Suite 6<br />Halifax, Nova Scotia <br />Canada B3L 2J1</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4432">(902)424-4432</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0513</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:legcomm@gov.ns.ca">legcomm@gov.ns.ca</a></dd>
+				</dl>
+	</html>
+  </content>
+</page>

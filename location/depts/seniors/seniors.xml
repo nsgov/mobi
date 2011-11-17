@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Seniors</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department of Seniors</h2>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>Department of Seniors<br />4th floor, Dennis Building<br />1740 Granville Street<br />P.O. Box 2065<br />Halifax, NS B3J 2Z1</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:seniors@gov.ns.ca">seniors@gov.ns.ca</a></dd>
+					<dt>Toll-Free:</dt>
+					<dd><a href="tel:+1-800-670-0065">1-800-670-0065</a></dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-0065">(902)424-0065</a> (Metro area)</dd>
+					<dt>Fax:</dt>
+					<dd>(902)424-0561</dd>
+				</dl>
+	</html>
+  </content>
+</page>

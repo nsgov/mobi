@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Transportation and Infrastructure Renewal</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Transportation and Infrastructure Renewal</h2>
+			<dl>
+				<dt>Head Office:</dt>
+				<dd>Johnston Building<br />1672 Granville St.<br />Halifax, NS B3J 3K5</dd>
+				<dt>General Inquiries:</dt>
+				<dd><a href="tel:+1-902-424-2297">(902)424-2297</a></dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:tpwpaff@gov.ns.ca">tpwpaff@gov.ns.ca</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0532</dd>
+				<dt>Mailing Address:</dt>
+				<dd>P.O. Box 186<br />Halifax, Nova Scotia <br />Canada B3J 2N2</dd>
+				<dt>Accounts Payable:</dt>
+				<dd><a href="tel:+1-902-424-4259">(902)424-4259</a>(Financial Services) </dd>
+				<dt>Accounts Receivable:</dt>
+				<dd><a href="tel:+1-902-424-2306">(902)424-2306</a>(Financial Services) </dd>
+				<dt>Miller Lake Facility:</dt>
+				<dd><a href="tel:+1-902-861-1911">(902)861-1911</a></dd>
+				<dt>Vehicle Compliance:</dt>
+				<dd><a href="tel:+1-902-424-3602">(902)424-3602</a></dd>
+			</dl>
+			<p>For Transportation and Infrastructure Renewal Traffic Volume information, see the <a href="http://www.gov.ns.ca/tran/publications/">Government Publications</a> publication list. </p>
+			<p>If you have a railway safety question, please contact Steve Newson, Policy Advisor <a href="tel:+1-902-424-6728">(902)424-6728</a></p>				
+			<p>Connect to the nearest base from where you are calling. toll free<a href="tel:+1-888-432-3233">1-888-432-3233</a></p>				
+	</html>
+  </content>
+</page>

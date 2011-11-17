@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Environment</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Nova Scotia Department Environment</h2>
+			<h3>Head Office</h3>
+			<dl>
+				<dt>Mailing Address:</dt>
+				<dd>Nova Scotia Department of Energy<br />5151 Terminal Road<br />P.O. Box 442<br />Halifax, Nova Scotia <br />Canada B3J 2P8</dd> 
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3600">(902)424-3600</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+			</dl>
+			<h4>Emergency Day Time Hours</h4>
+				<p>Contact nearest <a href="https://www.gov.ns.ca/nse/dept/division.emc.asp">regional office</a>.</p>
+			<h4>Emergency After Hours</h4>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-800-565-1633">1-800-565-1633</a>(24 hours)</dd>
+			<h4><a href="https://www.gov.ns.ca/nse/contact.asp?div=gen&amp;pg=dept&amp;bk=/nse/Default.asp">Online Form</a></h4>
+		<h3>Environmental Monitoring and Compliance</h3>
+			<h4>Regional and District Offices</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2547">(902)424-2547</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Toll Free:</dt>
+				<dd><a href="tel:+1-877-936-8476">1-877-9ENVIRO</a>(1-877-936-8476)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:emc@gov.ns.ca">emc@gov.ns.ca</a></dd>
+				<p>Specific site enquiries, contact nearest <a href="http://www.gov.ns.ca/nse/dept/division.emc.asp">regional office</a></p>
+		<h3>Environmental Science and Program Management</h3>
+			<h4>General enquiries: (902) 424-3600</h4> 
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/division.espm.asp">www.gov.ns.ca/nse/dept/division.espm.asp</a></dd>
+			<h4>Air Quality Branch</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2574">(902)424-2574</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:air@gov.ns.ca">air@gov.ns.ca</a></dd>
+			<h4>Pollution Prevention Program</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2173">(902)424-2173</a> Or <br />
+				<a href="tel:+1-902-424-2578">(902)424-2578</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:air@gov.ns.ca">air@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/pollutionprevention/about.asp">www.gov.ns.ca/nse/pollutionprevention/about.asp</a></dd>
+			<h4>Protected Areas Branch</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2117">(902)424-2117</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:protectedareas@gov.ns.ca">protectedareas@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/protectedareas/about.asp">www.gov.ns.ca/nse/protectedareas/about.asp</a> | <a href="http://www.gov.ns.ca/nse/protectedareas/contact.asp">Staff Listing</a></dd>
+			<h4>Solid Waste-Resource Management</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4300">(902)424-4300</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0569</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/waste/about.asp">www.gov.ns.ca/nse/waste/about.asp</a></dd>
+			<h4>Water and Wastewater Branch</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2553">(902)424-2553</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0501</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/water/">www.gov.ns.ca/nse/water/</a></dd>
+			<h4>Domestic Oil Tank Enquiries</h4>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/petroleum/oiltankinstall.asp">www.gov.ns.ca/nse/petroleum/oiltankinstall.asp</a></dd>
+			<h4>Pesticide Approvals and Licensing Enquiries</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3600">(902)424-3600</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/pests/contact.asp">regional office</a></dd>
+		<h3>Policy and Corporate Services</h3>
+			<h4>Competitiveness and Compliance</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3600">(902)424-3600</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/cci/">www.gov.ns.ca/nse/cci/</a></dd>
+			<h4>Policy</h4>	
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-4944">(902)424-4944</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0644</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/division.pcs.policy.asp">www.gov.ns.ca/nse/dept/division.pcs.policy.asp</a></dd>
+			<h4>Environmental Assessments</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3230">(902)424-3230</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:ea@gov.ns.ca">ea@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/ea/">www.gov.ns.ca/nse/ea/</a></dd>
+			<h4>Information and Business Services</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-3600">(902)424-3600</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-0503</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:webster@gov.ns.ca">webster@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/division.pcs.ibs.asp">www.gov.ns.ca/nse/dept/division.pcs.ibs.asp</a></dd>
+			<h4>Information Access and Privacy</h4>
+				<dt>FOIPOP Administrator</dt>
+				<dd>Aimee Standen</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2577">(902)424-2577</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6925 (questions only)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:ENVaccess@gov.ns.ca">ENVaccess@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/info.asp">www.gov.ns.ca/nse/dept/info.asp</a></dd>
+			<h4>Environmental Registry</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-2549">(902)424-2549</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6925 (questions only)</dd>
+				<dt>Email:</dt>
+				<dd><a href="mailto:ENVaccess@gov.ns.ca">ENVaccess@gov.ns.ca</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/envregistry.asp">www.gov.ns.ca/nse/dept/envregistry.asp</a></dd>
+			<h4>Library and Information Resources</h4>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-722-1330">(902)722-1330</a></dd>
+				<dt>Fax:</dt>
+				<dd>(902)424-6925</dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/division.pcs.library.asp">www.gov.ns.ca/nse/dept/division.pcs.library.asp</a></dd>
+			<h4>Records Management</h4>
+				<dt>Manager of Information Management</dt>
+				<dd>Gwen Gorrill</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-424-7443">(902)424-7443</a></dd>
+				<dt>Web:</dt>
+				<dd><a href="http://www.gov.ns.ca/nse/dept/division.pcs.records.management.asp">www.gov.ns.ca/nse/dept/division.pcs.records.management.asp</a></dd>
+	</html>
+  </content>
+</page>
