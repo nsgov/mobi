@@ -3,14 +3,17 @@
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
   <title abbr="Hospitals/ER">Nova Scotia Hospitals/ER</title>
   <content for="main">
-    <contentlinks>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
 		<h2>Annapolis Valley Health – District 3</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="annapolis"/>
       		<link page="easternkings"/>
       		<link page="soldiers"/>
 			<link page="valley"/>
 			<link page="westernkings"/>
+    		</contentlinks>
 		<h2>Cape Breton Health Authority - District 8</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="buchananmemorial"/>
       		<link page="capebretonregional"/>
       		<link page="glacebay"/>
@@ -20,7 +23,9 @@
       		<link page="northside"/>
       		<link page="sacredheart"/>
       		<link page="victoriacounty"/>
+    		</contentlinks>
 		<h2>Capital Health District 9</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="cobequid"/>
       		<link page="dartmouth"/>
       		<link page="easternshore"/>
@@ -31,32 +36,45 @@
       		<link page="queeneliz2"/>
       		<link page="twinoaks"/>
       		<link page="victoriageneral"/>
+    		</contentlinks>
 		<h2>Colchester East Hants Health Authority - District 4</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="colchester"/>
       		<link page="lillianfraser"/>
+    		</contentlinks>
 		<h2>Cumberland Health Authority - District 5</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="allsaints"/>
       		<link page="bayview"/>
       		<link page="cumberland"/>
       		<link page="northcumberland"/>
       		<link page="southcumberland"/>
+    		</contentlinks>
 		<h2>Guysborough Antigonish Strait Health Authority - District 7</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="easternmemorial"/>
       		<link page="guysborough"/>
       		<link page="stmarthas"/>
       		<link page="stmarys"/>
       		<link page="straitrichmond"/>
+    		</contentlinks>
 		<h2>Pictou County Health Authority - District 6</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
      		<link page="aberdeen"/>
       		<link page="sutherlandharris"/>
+    		</contentlinks>
 		<h2>South Shore Health - District 1</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="fishermensmemorial"/>
       		<link page="queensgeneral"/>
       		<link page="southshore"/>
+    		</contentlinks>
 		<h2>South Shore Health - District 2</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
       		<link page="digbygeneral"/>
       		<link page="roseway"/>
       		<link page="yarmouth"/>
-    </contentlinks>
+    		</contentlinks>
+    </html>
   </content>
 </page>
