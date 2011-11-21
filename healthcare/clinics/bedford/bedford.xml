@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Bedford">Bedford Clinic</title>
+  <title abbr="Bedford">Bedford</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
   		<p>We recommend calling any clinic before visiting to make sure it is open.</p>

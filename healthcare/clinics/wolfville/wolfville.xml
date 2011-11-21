@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Wolfville">Wolfville</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  		<p>We recommend calling any clinic before visiting to make sure it is open.</p>
+		<h3>Eastern Kings Memorial Community Health Centre</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Community Health Centre<br />23 Earnscliffe Ave.</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-542-0528">(902) 542-0528</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday to Friday - 5:00pm to 9:00pm<br /><br/>Weekends and holidays - 12:00pm to 5:00pm<br /></dd>
+			</dl>
+		<h3>Mud Creek Medical Co-op Ltd.</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>12E Elm Avenue</dd>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-542-3633">(902) 542-3633</a></dd>
+				<dt>Hours:</dt>
+				<dd>Monday, Tuesday, Thursday - 9:00am to 4:30pm<br />Wednesday - 9:00am to 7:30pm<br />Friday - 9:00am to 12:30pm</dd>
+			</dl>
+      	<p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+		<p>See <a href="../../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
+	</html>
+  </content>
+</page>
