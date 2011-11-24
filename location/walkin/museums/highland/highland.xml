@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Highland Village</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Highland Village/An Clachan Gàidhealach</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Highland Village Museum<br />
+An Clachan Gàidhealach<br />4119 Highway 223<br />Iona, Nova Scotia B2C 1A3</dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-888-442-3542">1-888-4GAELIC</a></dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-725-2272">(902)725-2272</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)725-2227</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:highlandvillage@gov.ns.ca">highlandvillage@gov.ns.ca</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/hv/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>2011 Visitor Season</strong></td></tr>
+				<tr><td colspan="2"><strong>June 1 - October 16</strong></td></tr>
+				<tr><td colspan="2"><strong>Museum &amp; Gift Shop Open Daily</strong></td></tr>
+				<tr><td>Daily</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td colspan="2">Off-season</td></tr>
+				<tr><td colspan="2"><strong>Administration and Gift Shop</strong></td></tr>
+				<tr><td>Monday - Friday</td><td>9:00 am - 5:00 pm</td></tr>
+				</table>
+			<h3>Admission*</h3>
+				<table><tbody>
+				<tr><td><b>Adult</b></td><td>$9.00</td></tr>
+				<tr><td><b>Youth (6-17)</b></td><td>$4.00</td></tr>
+				<tr><td><b>Children (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$7.00</td></tr>
+				<tr><td><b>Family (max 2 adults)</b></td><td>$22.00</td></tr>
+				<tr><td colspan="2"><strong>*Includes HST. General admission rates do not apply to special events and programming unless otherwise stated. Rates only guaranteed for the 2011 season.</strong></td></tr>
+				</tbody></table>
+				<p><a href="http://museum.gov.ns.ca/hv/en/home/visitus/locationmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>
