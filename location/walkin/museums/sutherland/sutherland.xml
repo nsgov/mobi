@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sutherland Steam Mill</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Sutherland Steam Mill</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Sutherland Steam Mill Museum<br />3169 Denmark Station Rd.<br />Denmark, Nova Scotia</dd>
+					<dt>Milling Address:</dt>
+					<dd>CO: Balmoral Grist Mill<br />RR#4<br />Tatamagouche, Nova Scotia<br />Canada B0K 1V0</dd>
+					<p>Darrell Burke, Site Manager</p>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-657-3017">(902)657-3017</a></dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:burked@gov.ns.ca">burked@gov.ns.ca</a></dd>
+					<p>Mill and Seasonal Staff Contact</p>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-657-3365">(902)657-3365</a></dd>
+					<dt>Fax to email:</dt>
+					<dd>(902)657-2606</dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/ssm/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Open Seasonally<br />June 1st - October 15th</strong></td></tr>
+				<tr><td>Tuesday - Saturday</td><td>10am - 5pm</td></tr>
+				<tr><td>Sunday</td><td>1pm - 5pm</td></tr>
+				<tr><td colspan="2">Closed Monday</td></tr></table>
+			<h3>Admission</h3>
+				<table><tbody>
+				<tr><td><b>Adult</b></td><td>$3.60</td></tr>
+				<tr><td><b>Child (6-17)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Children (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Family (max. 2 adults)</b></td><td>$7.95</td></tr>
+				</tbody></table>
+			<h3>How to get there</h3>
+				<p>From Truro take 311 north to 326 north; from Tatamagouche take # 6 east to 326 south; from Pictou take # 6 west to 326 south.</p>
+				<p><a href="http://museum.gov.ns.ca/ssm/en/home/visitus/locationmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

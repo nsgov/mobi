@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Fisheries Museum of the Atlantic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Fisheries Museum of the Atlantic</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>68 Bluenose Drive<br />P.O. Box 1363<br />Lunenburg, Nova Scotia B0J 2C0</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-634-4794">(902)634-4794</a></dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-866-579-4909">1-866-579-4909</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)634-8990</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:fma@gov.ns.ca">fma@gov.ns.ca</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/fma/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<p>Monday to Friday – 8:30 am to 4:00 pm<br />Accessed through side entrance on Bluenose Drive</p>
+			<h3>Admission</h3>
+				<h4>Summer Hours - Full Interpretation</h4>
+				<strong>May 21 - October 15, 2011 Open Daily – 9:30 am to 5:00 pm <br />(July &amp; August – open late until 7:00 pm – Tuesday to Saturday)</strong>
+				<table><tbody><tr><td><b>Adult</b></td><td>$10.00</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$7.00</td></tr>
+				<tr><td><b>Youth (6-17)</b></td><td>$3.00</td></tr>
+				<tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Family</b></td><td>$22.00</td></tr>
+				<tr><td><b>School Groups</b></td><td>$3.00/student</td></tr>
+				<tr><td><b>Tour Groups (10 or more)</b></td><td>$7.00/each</td></tr>
+				<tr><td><b>Adult Season Pass</b></td><td>$18.00</td></tr>
+				<tr><td><b>Family Season Pass</b></td><td>$42.00</td></tr>
+				</tbody></table>
+				<h4>Winter Hours - Self-Guided Tours</h4>
+				<p>Open Monday to Friday – 9:30 am to 4:00 pm (closed holidays) <br />Aquarium, 2nd and 3rd Floor exhibits and the Theatre<br />Adults $4.00 (children are free)<br />School Groups/Tour Groups welcomed throughout the year with advanced booking!	</p>
+		<p><a href="http://museum.gov.ns.ca/fma/en/home/visitus/locationmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

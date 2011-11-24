@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Wile Carding Mill Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Wile Carding Mill Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>242 Victoria Road<br />Bridgewater, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-543-8233">(902)543-8233</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)543-4713</dd>
+					<dt>Milling Address:</dt>
+					<dd>Wile Carding Mill Museum<br />c/o DesBrisay Museum<br />60 Pleasant Street<br />Bridgewater, Nova Scotia<br />Canada B4V 3X9</dd>
+					<p>Barb Thompson, Site Manager<br />Phone (Oct 1 - May 30):<br /><a href="tel:+1-902-543-4033">(902)543-4033</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:bthompson@bridgewater.ca">bthompson@bridgewater.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>June 1st - October 15th</strong></td></tr>
+				<tr><td>Tuesday - Saturday</td><td>10am - 5pm</td></tr>
+				<tr><td>Sunday</td><td>1 pm - 5pm</td></tr>
+				<tr><td colspan="2"><strong>Closed Mondays</strong></td></tr></table>
+			<h3>Admission*</h3>
+				<table><tbody><tr><td><b>Adult (18 +)</b></td><td>$3.60</td></tr>
+				<tr><td><b>Child (6-17)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Family (max 2 adults)</b></td><td>$7.95</td></tr></tbody></table>
+			<h3>How to get there</h3>
+				<p>Take Exit 6 from Highway 101; follow key signs to 389 Avon Street, Windsor, Hants County; located on the Evangeline Trail</p>
+				<p><a href="http://museum.gov.ns.ca/sh/info.htm#topofpage">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

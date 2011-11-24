@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sherbrooke Village</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Sherbrooke Village</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>42 Main Street<br />Sherbrooke, Nova Scotia B0J 3C0</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-522-2400">(902)522-2400</a></dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-888-743-7845">1-888-SHER-VIL</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)522-2974</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:svillage@gov.ns.ca">svillage@gov.ns.ca</a></dd>
+					<dt>Milling Address:</dt>
+					<dd>P.O. Box 295<br />Sherbrooke, Nova Scotia<br />Canada B0J 3C0</dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>June 1st - October 15th</strong></td></tr>
+				<tr><td>Daily</td><td>9:30 am - 5:00 pm</td></tr>
+				</table>
+			<h3>Admission</h3>
+				<table><tbody>
+				<tr><td><b>Adult</b></td><td>$10.75</td></tr>
+				<tr><td><b>Youth (6-17)</b></td><td>$4.75</td></tr>
+				<tr><td><b>Children (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$8.75</td></tr>
+				<tr><td><b>Family</b></td><td>$30.00</td></tr>
+				<tr><td><b>Adult Season Pass</b></td><td>$18.75</td></tr>
+				<tr><td><b>Family Season Pass</b></td><td>$39.00</td></tr>
+				<tr><td><b>Group Rate</b></td><td>$8.75 per/person</td></tr>
+				<tr><td colspan="2">* Note: All prices include applicable sales tax and are in Canadian Funds</td></tr>
+				</tbody></table>
+				<p><a href="http://museum.gov.ns.ca/sv/location.php">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Firefighters' Museum of Nova Scotia</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Firefighters' Museum of Nova Scotia</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Firefighters’ Museum of Nova Scotia<br />451 Main Street<br />Yarmouth, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-742-5525">(902)742-5525</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)543-4713</dd>
+					<dt>Milling Address:</dt>
+					<dd>Firefighters’ Museum of Nova Scotia<br />451 Main Street<br />Yarmouth, Nova Scotia<br />Canada B5A 1G9</dd>
+					<p>David Darby, Curator<br />Phone:<br /><a href="tel:+1-902-742-5525">(902)742-5525</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:darbydl@gov.ns.ca">darbydl@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<p>Open year round, please call for specific hours</p>
+			<h3>Admission*</h3>
+				<table><tbody><tr><td>Adult</td><td> $3.00</td></tr>
+				<tr><td>Ages 6 to 17</td><td> $1.50</td></tr>
+				<tr><td>Children (under 6)</td><td>Free</td></tr>
+				<tr><td>Seniors (65 years of age +)</td><td> $2.50</td></tr>
+				<tr><td>Family</td><td>$6.00</td></tr></tbody></table>
+     		<h3>How to get there</h3>
+				<p>From Highway 101 or 103 follow Firefighters' Museum signs to 451 Main Street, Yarmouth; located on the Evangeline Trail</p>
+				<p><a href="http://museum.gov.ns.ca/fm/info.htm#topofpage">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

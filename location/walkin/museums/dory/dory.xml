@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>The Dory Shop Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>The Dory Shop Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Dory Shop Museum<br />11 Dock Street<br />Shelburne, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-875-3219">(902)875-3219</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)875-4141</dd>
+					<dt>Milling Address:</dt>
+					<dd>Dory Shop Museum<br />P.O. Box 39<br />Shelburne, Nova Scotia<br />Canada B0T 1W0</dd>
+					<p>Kim Truchan<br />Phone:<br /><a href="tel:+1-902-875-3219">(902)875-3219</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:truchakc@gov.ns.ca">truchakc@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Open June 1-Sept. 30</strong></td></tr>
+				<tr><td>Daily</td><td>10:00 am to 5:00 pm</td></tr>
+				<tr><td colspan="2">Admission charged.</td></tr>
+				</table>
+			<h3>Admission*</h3>
+				<table><tbody>
+				<tr><td><b>Adult to 1 Museum</b></td><td>$3.00</td></tr>
+				<tr><td><b>Adults each for a pre-booked group</b></td><td>$6.00</td></tr>
+				<tr><td><b>Adults each to visit our four (4) museums - The Ross-Thomson House &amp; Store, The J. C. Williams Dory Shop, The Shelburne County Museum and The Muir-Cox Shipbuilding Interpretive Centre</b></td><td>$8.00</td></tr>
+				<tr><td><b>Under 16 years</b></td><td>Free</td></tr>
+				<tr><td><b>All on Sunday Morning</b></td><td>Free</td></tr>
+				<tr><td colspan="2">*Subject to change</td></tr>
+				</tbody></table>
+			<h3>How to get there</h3>
+				<p>Take Exit 26 from Highway 103, follow museum signs to Dock Street, Shelburne waterfront; located on the Lighthouse Route</p>
+				<p><a href="http://museum.gov.ns.ca/dory/info.htm#topofpage">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

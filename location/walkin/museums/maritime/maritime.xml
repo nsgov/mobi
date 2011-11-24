@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Maritime Museum of the Atlantic</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Maritime Museum of the Atlantic</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>1675 Lower Water Street<br />Halifax, Nova Scotia B3J 1S3</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-7490">(902)424-7490</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/mmanew/en/home/contact.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tbody>
+				<tr><td></td><td><strong>November 1 - April 30</strong></td><td><strong>May 1 - October 31</strong></td></tr>
+				<tr><td><strong>Monday</strong></td><td>Closed</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td><strong>Tuesday</strong></td><td>9:30 am - 8:00 pm</td><td>9:30 am - 8:00 pm</td></tr>
+				<tr><td><strong>Wednesday</strong></td><td>9:30 am - 5:00 pm</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td><strong>Thursday</strong></td><td>9:30 am - 5:00 pm</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td><strong>Friday</strong></td><td>9:30 am - 5:00 pm</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td><strong>Saturday</strong></td><td>9:30 am - 5:00 pm</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td><strong>Sunday</strong></td><td>1:00 pm - 5:00 pm</td><td><b>June 1 - October 31<br />9:30 am - 5:30 pm</b></td></tr></tbody></table>
+			<h3>Admission</h3>
+				<table><tbody>
+				<tr><td></td><td><strong>May 1 - </strong><strong>Oct 31</strong></td><td><strong>Nov 1 - April 30</strong></td></tr>
+				<tr><td><strong>Adult</strong></td><td>$8.75</td><td>$4.75</td></tr>
+				<tr><td><strong>Senior<br /></strong>65 +</td><td>$7.75</td><td>$4.00</td></tr>
+				<tr><td><strong>Youth<br /></strong>6 - 17</td><td>$4.75</td><td>$2.75</td></tr>
+				<tr><td><strong>Child<br /></strong>5 and under</td><td>Free</td><td>Free</td></tr>
+				<tr><td><strong>Family<br /></strong>Youth under 17<br />+ 2 adults</td><td>$22.50</td><td>$11.00</td></tr></tbody></table>
+			<h3>Annual Pass</h3>
+				<p>Adult ~ $22.50<br />Senior (65+) ~ $16.50<br />Youth (6 - 17) ~ $11.50<br />Family (Youth 17 and younger + 2 adults) ~ $39.00</p>
+			<h3>Group Rates &amp; Student Rates</h3>
+				<p>Youth/Day Camps (self-guided) ~ $2.75 per person<br />ESL ~ $4.25 per person<br />Post-Secondary ~ $2.75 per person<br />Leaders (1:5 ratio) ~ Free<br />Adults/Students Motorcoach (summer) ~ $5.75 per person<br />Adults/Students Motorcoach (winter) ~  $4.25 per person</p>
+				<p><a href="http://museum.gov.ns.ca/mmanew/en/home/visitus/default.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

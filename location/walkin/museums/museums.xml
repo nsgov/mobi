@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Museums">Nova Scotia Museums</title>
+  <content for="main">
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+    <h2>Cape Breton Island</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="highland"/>
+      <link page="cossit"/>
+    </contentlinks>
+    <h2>Eastern Shore</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="sherbrooke"/>
+      <link page="fisherman"/>
+    </contentlinks>
+    <h2>Fundy Shore &amp; Annapolis Valley</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="northhills"/>
+      <link page="prescott"/>
+      <link page="haliburton"/>
+      <link page="shand"/>
+      <link page="lawrence"/>
+      <link page="fundy"/>
+    </contentlinks>
+    <h2>Halifax Metro</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="nathistory"/>
+      <link page="maritime"/>
+      <link page="uniacke"/>
+    </contentlinks>
+    <h2>South Shore</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="rossfarm"/>
+      <link page="fisheries"/>
+      <link page="wilecardmill"/>
+      <link page="perkins"/>
+      <link page="rossthomson"/>
+      <link page="dory"/>
+      <link page="oldmeetinghouse"/>
+    </contentlinks>
+    <h2>Yarmouth &amp; Acadian Shores</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="acadianvillage"/>
+      <link page="firefighters"/>
+    </contentlinks>
+    <h2>Northumberland Shore</h2>
+    <contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      <link page="balmoral"/>
+      <link page="sutherland"/>
+      <link page="industry"/>
+      <link page="mcculloch"/>
+    </contentlinks>
+    </html>
+  </content>
+</page>

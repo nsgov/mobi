@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Barrington Woolen Mill Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Barrington Woolen Mill Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Barrington Woolen Mill Museum<br />2368 Highway 3<br />Barrington, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-637-2185">(902)637-2185</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)637-2908</dd>
+					<dt>Milling Address:</dt>
+					<dd>Barrington Woolen Mill Museum<br />2368 Highway 3,<br />Barrington, Nova Scotia<br />Canada B0W 1E0</dd>
+					<p>Brenda Maxwell<br />Phone:<br /><a href="tel:+1-902-637-2185">(902)637-2185</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:maxwelbm@gov.ns.ca">maxwelbm@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Open June 1 to September 30</strong></td></tr>
+				<tr><td>Monday - Saturday</td><td>9:30 am to 5:30 pm</td></tr>
+				<tr><td>Sunday</td><td>1:00 pm to 5:30 pm</td></tr></table>
+      		<h3>Admission*</h3>
+      			<table><tbody><tr><td>Adult</td><td>$3.00</td></tr>
+      			<tr><td>Children (6-17)</td><td>$3.00</td></tr>
+      			<tr><td>Seniors (65 years of age +)</td><td> $3.00</td></tr>
+      			<tr><td>Family</td><td>$10.00</td></tr>
+      			<tr> <td>Group Tours</td><td>$3.00 per adult</td></tr></tbody></table>
+			<h3>How to get there</h3>
+				<p>Follow signs to Barrington Woolen Mill on Highway 103 at Barrington, Shelburne County; located on the Lighthouse Route</p>
+				<p><a href="http://museum.gov.ns.ca/bwm/info.htm#topofpage">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

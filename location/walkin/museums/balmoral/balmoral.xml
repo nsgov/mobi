@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Balmoral Grist Mill</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Balmoral Grist Mill</h2>
+		<p><b>Note: The museum will be closed to the public beginning Monday, Aug. 15, 2011 for the remainder of the summer and fall season to allow for repairs to the museum's dam and walkway.</b></p>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>660 Matheson Brook Road<br />Balmoral Mills, Nova Scotia B0M 1S0</dd>
+					<p>Darrell Burke, Site Manager</p>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-657-3016">(902)657-3016</a></dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:burked@gov.ns.ca">burked@gov.ns.ca</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/fgm/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>How to get there</h3>
+				<p>From Truro: take 311 north to 256 east; from Tatamagouche take 311 south to 256 east; from Pictou take # 6 west to 326 south and 256 west.</p>
+				<p><a href="http://museum.gov.ns.ca/bgm/en/home/visitus/locationsmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Ross Farm Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Ross Farm Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Ross Farm Museum<br />4568 Highway # 12<br />New Ross, Nova Scotia B0J 2M0</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-689-2210">(902)689-2210</a></dd>
+					<dt>Toll Free:</dt>
+					<dd><a href="tel:+1-877-689-2210">1-877-689-2210</a></dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:rossfarm@gov.ns.ca">rossfarm@gov.ns.ca</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/rfm/en/home/contact.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Summer Hours<br />May 1, to October 31</strong></td></tr>
+				<tr><td>Daily</td><td>9:30am - 5:30pm</td></tr>
+				<tr><td colspan="2"><strong>Winter Hours<br />November 1 to April 30</strong></td></tr>
+				<tr><td>Daily</td><td>9:30 am - 4:30pm</td></tr>
+				</table>
+			<h3>Admission</h3>
+				<table><tbody><tr><td><b>Adult</b></td><td>$6.00</td></tr><tr><td><b>Senior (65+)</b></td><td>$5.00</td></tr><tr><td><b>Youth (6-17)</b></td><td>$2.00</td></tr><tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr><tr><td><b>Family (max 2 adults)</b></td><td>$15.00</td></tr><tr><td><b>Sunday Morning <br />(9:30 - 11:00)</b></td><td>Free<br /></td></tr><tr><td><br /></td><td><br /></td></tr><tr><td><b>Season Passes Available:</b></td><td><br /></td></tr><tr><td><b>Bus tour</b></td><td>$5.00</td></tr><tr><td><b>Wagon Shuttle</b></td><td>$0.50 per person for groups</td></tr></tbody></table>
+			<h3>How to get there</h3>
+				<p>Take Exit #9 from highway 103 or Exit #13 from Highway 101 and follow sign to New Ross. Our museum is about 30min from Exit #13 and about 20min from Exit #9.</p>
+				<p><a href="http://museum.gov.ns.ca/rfm/en/home/visitus/locationmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

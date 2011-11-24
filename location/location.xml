@@ -8,6 +8,7 @@
         <!--link page="walkin"/-->
         <link page="depts"/>
         <link page="courts"/>
+        <link page="../healthcare"/>
       </contentlinks>
   </content>
 </page>

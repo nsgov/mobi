@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>North Hills Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>North Hills Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>5065 Granville Road<br />Granville Ferry, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-532-2168">(902)532-2168</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)532-0700</dd>
+					<dt>Milling Address:</dt>
+					<dd>136 St. George Street<br />Box 503<br />Annapolis Royal, Nova Scotia<br />Canada B0S 1A1</dd>
+					<p>Ryan Scranton, Executive Director, Annapolis Heritage Society<br />Phone:<br /><a href="tel:+1-902-532-7754">(902)532-7754</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:scrantrg@gov.ns.ca">scrantrg@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>June 1st - October 15th</strong></td></tr>
+				<tr><td>Monday to Saturday</td><td>9:30 am-5:00 pm</td></tr>
+				<tr><td>Sunday</td><td>1:00 pm - 5:30 pm</td></tr>
+				<tr><td colspan="2">Closed Mondays</td></tr></table>
+			<h3>Admission*</h3>
+				<table><tbody><tr><td>Adult</td><td> $3.00</td></tr>
+				<tr><td>Child (6 to 17)</td><td> $2.00</td></tr>
+				<tr><td>Children (under 6)</td><td>Free</td></tr>
+				<tr><td>Seniors (65 years of age +)</td><td> $2.00</td></tr>
+				<tr><td>Family</td><td>$7.00</td></tr></tbody></table>
+     		<h3>How to get there</h3>
+				<p>Take exit 22 on Highway 101. Follow North Hills Museum signs through Annapolis Royal to the museum</p>
+				<p><a href="http://museum.gov.ns.ca/images/i_map_evangeline_nsm.gif">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

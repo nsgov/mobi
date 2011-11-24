@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lawrence House Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Lawrence House Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>Lawrence House Museum<br />8660 Highway 215<br />RR#1<br />Maitland, Nova Scotia</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-261-2628">(902)261-2628</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)261-2628</dd>
+					<dt>Milling Address:</dt>
+					<dd>Lawrence House Museum<br />8660 Highway 215, RR#1<br />Maitland, Nova Scotia<br />Canada B0N 1T0</dd>
+					<p>Deborah Poole, Site Manager<br />June 1 - Oct. 15<br />Phone:<br /><a href="tel:+1-902-261-2628">(902)261-2628</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:pooledr@gov.ns.ca">pooledr@gov.ns.ca</a></dd>
+					<p>Judith Shiers Milne, Public Information Officer<br />Oct. 16 - May 31<br />Phone:<br /><a href="tel:+1-902-424-7398">(902)424-7398</a></p>
+					<dt>Email:</dt>
+					<dd><a href="mailto:shiersjl@gov.ns.ca">shiersjl@gov.ns.ca</a></dd>
+				</dl>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>June 1st - October 15th</strong></td></tr>
+				<tr><td>Monday</td><td>Close</td></tr>
+				<tr><td>Tuesday - Saturday</td><td>10am - 5pm</td></tr>
+				<tr><td>Sunday</td><td>1pm - 5pm</td></tr>
+				</table>
+			<h3>Admission*</h3>
+				<table><tbody><tr><td><b>Adult (18 +)</b></td><td>$3.60</td></tr>
+				<tr><td><b>Youth (6-17)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$2.55</td></tr>
+				<tr><td><b>Family (max 2 adults)</b></td><td>$7.95</td></tr>
+				<tr><td colspan="2">*Subject to change</td></tr></tbody></table>
+			<h3>How to get there</h3>
+				<p>Take Exit 10, Highway 102 and follow signs to Maitland, Hants County on Route 215; located on the Glooscap Trail</p>
+				<p><a href="http://museum.gov.ns.ca/lh/info.htm#topofpage">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

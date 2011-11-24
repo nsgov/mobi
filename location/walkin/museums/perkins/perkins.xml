@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Perkins House Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Perkins House Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>105 Main Street<br />(Exit 19 on Highway 103)<br />Liverpool, Nova Scotia</dd>
+					<dt>Note:</dt>
+					<dd>The Queens County Museum is adjacent to Perkins House.</dd>
+				</dl>
+				<h4><a href="https://museum.gov.ns.ca/peh/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Open Seasonally<br />June 1st - October 15th</strong></td></tr>
+				<tr><td>Monday to Saturday</td><td>9:30 am - 5:30 pm</td></tr>
+				<tr><td>Sunday</td><td>1:00 pm - 5:30 pm</td></tr>
+				<tr><td colspan="2">Closed Mondays</td></tr></table>
+			<h3>Admission*</h3>
+				<table><tbody><tr><td><b>Adult</b></td><td>$4.00</td></tr>
+				<tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Family</b></td><td>$9.00</td></tr>
+				<tr><td colspan="2">Includes admission to the Queens County Museum</td></tr>
+				<tr><td colspan="2">*Subject to change</td></tr>
+				</tbody></table>
+		<p><a href="http://museum.gov.ns.ca/peh/en/home/visitus/locationsmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

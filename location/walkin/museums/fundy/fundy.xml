@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Fundy Geological Museum</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Fundy Geological Museum</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>162 Two Islands Road<br />Parrsboro, Nova Scotia B0M 1S0</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-254-3814">(902)254-3814</a></dd>
+					<dt>Fax:</dt>
+					<dd>(902)254-3666</dd>
+					<dt>Email:</dt>
+					<dd><a href="mailto:fundygeo@gov.ns.ca">fundygeo@gov.ns.ca</a></dd>
+				</dl>
+				<h4><a href="http://museum.gov.ns.ca/fgm/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table><tr><td colspan="2"><strong>Open year round - Winter Hours</strong></td></tr>
+				<tr><td>Monday to Friday</td><td>8:30am - 4:30pm</td></tr>
+				<tr><td>Saturday</td><td>9am - 4pm</td></tr>
+				<tr><td colspan="2">Closed Sunday</td></tr></table>
+			<h3>Admission</h3>
+				<table><tbody>
+				<tr><td><b>Adult</b></td><td>$7.50</td></tr>
+				<tr><td><b>Child (6-17)</b></td><td>$4.25</td></tr>
+				<tr><td><b>Children (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$6.25</td></tr>
+				<tr><td><b>University Students</b></td><td>$6.25</td></tr>
+				<tr><td><b>Family (2 adults and their children under 18 years)</b></td><td>$17.00</td></tr>
+				<tr><td><b>Family (1 adult and their children under 18 years)</b></td><td>$12.00</td></tr>
+				<tr><td colspan="2">Group rates available upon request</td></tr>
+				</tbody></table>
+				<p><a href="http://museum.gov.ns.ca/fgm/en/home/visitus/locationmaps.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>

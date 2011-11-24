@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Museum of Natural History</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Museum of Natural History</h2>
+			<h3>Contact Information</h3>
+				<dl>
+					<dt>Address:</dt>
+					<dd>1747 Summer Street<br />Halifax, Nova Scotia B3H 3A6</dd>
+					<dt>Phone:</dt>
+					<dd><a href="tel:+1-902-424-7353">(902)424-7353</a></dd>
+				</dl>
+				<h4><a title="" href="http://museum.gov.ns.ca/mnhnew/en/home/aboutthemuseum/staff.aspx" target="">Staff Listing</a></h4>
+				<h4><a href="http://museum.gov.ns.ca/mnhnew/en/home/contactus.aspx">Online Forum</a></h4>
+			<h3>Hours</h3>
+				<table>
+				<tr><td>Daily</td><td>9:00am - 5:00pm</td></tr>
+				<tr><td colspan="2">Wednesdays until 8:00pm</td></tr>
+				<tr><td colspan="2">Closed Mondays (November - May)</td></tr></table>
+			<h3>Admission</h3>
+				<table><tbody><tr><td><b>Adult</b></td><td>$5.75</td></tr>
+				<tr><td><b>Senior (65+)</b></td><td>$5.25</td></tr>
+				<tr><td><b>Youth (6-17)</b></td><td>$3.75</td></tr>
+				<tr><td><b>Child (5 &amp; under)</b></td><td>Free</td></tr>
+				<tr><td><b>Family A (2 adults &amp; max 4 children)</b></td><td>$16.50</td></tr>
+				<tr><td><b>Family B (1 adult &amp; max 4 children)</b></td><td>$11.50</td></tr>
+				<tr><td colspan="2"><b>University Students with ID $1.00 off</b></td></tr>
+				<tr><td><b>Adult Annual Pass</b></td><td>$16.50</td></tr>
+				<tr><td><b>Family Annual Pass</b></td><td>$39.00</td></tr>
+				</tbody></table>
+			<h3>Group Rates &amp; Student Rates</h3>
+				<p>Teachers: 1/ 5 ratio are admitted free <br />Youth/School groups/Day Camps<br />Self-guided $2.75 <br />Schools attending a pre-booked Museum class $3.25 <br />Adult Group &amp; Motorcoach Tours $1.00 off (per person) <br />ESL groups $1.00 off (per person) </p>
+			<h3>Transportation By Bus</h3>
+				<p>Metro Transit Routes stopping in front of the Museum: <br />Bus # 20 all day weekdays, no weekends or holidays <br />Bus # ‘s 21, 23, 31, 32, 33, 34, 53, 59, 68, 84, 85, 86, 87 run at <br />rush hour 6:00am-9:30 am and 3:30pm-6:30 pm <br />* these buses do not stop on Summer Street during the weekends or holidays. </p>
+				<p><a href="http://museum.gov.ns.ca/mnhnew/en/home/visitus/locationmap.aspx">Location &amp; Map</a></p> 
+	</html>
+  </content>
+</page>
