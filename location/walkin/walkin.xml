@@ -6,7 +6,7 @@
   <content for="main">
     <contentlinks>
       <link page="museums"/>
-      <link page="parks"/>
+      <!--link page="parks"/-->
     </contentlinks>
   </content>
 </page>
