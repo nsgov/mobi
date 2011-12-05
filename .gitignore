@@ -8,21 +8,12 @@ fr.*html
 # Don't track the automatically generated Makefiles
 Makefile
 
+# This file should be fetched from a remote location each build:
+location/accessns/locations.xml
+
 # OS generated files #
 ######################
-.DS_Store?
+.DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
-
-location/walkin/museums/.DS_Store
-
-location/walkin/.DS_Store
-
-location/healthcare/.DS_Store
-
-location/courts/familycourt/.DS_Store
-
-location/courts/.DS_Store
-
-.DS_Store

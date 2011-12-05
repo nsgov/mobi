@@ -1,11 +1,11 @@
+DEPS := $(DEPS) accessns.xsl locations.xml
 include ../../Makefile
-DEPS = $(DEPS) accessns.xsl
+
+locations.xml: Makefile
+	curl -O 'http://www.gov.ns.ca/snsmr/xml/locations.xml'
 
 makelocations.sh: accessns.xml newlocation.xml mkdirs.xsl
 	$(XSLT) mkdirs.xsl accessns.xml > $@
 	chmod a+x $@
 
-locations: makelocations.sh
-	./makelocations.sh
-
-recursive: locations
+recursive: locations.xml
