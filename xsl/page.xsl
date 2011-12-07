@@ -78,8 +78,8 @@
 </xsl:template>
 
 <xsl:template match="pg:link[@page]">
-  <xsl:variable name="file"><xsl:value-of select="@page"/>/<xsl:value-of select="@page"/>.xml</xsl:variable>
-  <xsl:variable name="href"><xsl:choose><xsl:when test="$lang=''"><xsl:value-of select="$file"/></xsl:when><xsl:otherwise><xsl:value-of select="@page"/>/</xsl:otherwise></xsl:choose></xsl:variable>
+  <xsl:variable name="file"><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="@page"/></xsl:call-template></xsl:variable>
+  <xsl:variable name="href"><xsl:choose><xsl:when test="$lang=''"><xsl:value-of select="$file"/></xsl:when><xsl:otherwise><xsl:value-of select="@page"/>/<xsl:if test="not($lang='en')"><xsl:value-of select="$lang"/></xsl:if></xsl:otherwise></xsl:choose></xsl:variable>
   <xsl:variable name="doctitle"><xsl:value-of select="document($file,.)/pg:page/pg:title[@lang=$lang or not(@lang)]"/></xsl:variable>
   <xsl:variable name="title"><xsl:choose><xsl:when test="string-length($doctitle)"><xsl:value-of select="$doctitle"/></xsl:when><xsl:otherwise><xsl:value-of select="@page"/></xsl:otherwise></xsl:choose></xsl:variable>
   <li><a href="{$href}" class="content-link"><xsl:value-of select="$title"/></a></li>
@@ -105,5 +105,20 @@
 <xsl:template match="pg:script">
   <script type="text/javascript" src="{@src}"><xsl:text/></script>
 </xsl:template>
+
+<xsl:template name="path-to-page-xml">
+  <xsl:param name="path" select="'.'"/>
+  <xsl:param name="trail"/>
+  <xsl:variable name="path1" select="substring-before($path, '/')"/>
+  <xsl:variable name="path2" select="substring-after($path, '/')"/>
+  <xsl:choose>
+    <xsl:when test="$path='' or $path='.'"><xsl:value-of select="concat($trail,document(concat($trail,'.path.xml'),.)/path/@basename)"/>.xml</xsl:when>
+    <xsl:when test="$path='..'"><xsl:value-of select="concat($path,'/', document(concat($path,'/.path.xml'),.)/path/@basename)"/>.xml</xsl:when>
+    <xsl:when test="not(contains($path, '/'))"><xsl:value-of select="concat($trail,$path,'/',$path)"/>.xml</xsl:when>
+    <xsl:when test="substring($path, 1, 1) = '/'"><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="$path2"/><xsl:with-param name="trail" select="concat(document('.path.xml',.)/path/@root, '/')"/></xsl:call-template></xsl:when>
+    <xsl:otherwise><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="$path2"/><xsl:with-param name="trail" select="concat($trail,$path1,'/')"/></xsl:call-template></xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
 
 </xsl:transform>
