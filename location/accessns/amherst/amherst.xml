@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../accessns.xsl"?>
-<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page" xmlns:access="http://gov.ns.ca/xmlns/access-marker">
   <title>Amherst</title>
   <content>
     <html xmlns="http://www.w3.org/1999/xhtml">
     	<h2>Access Nova Scotia Centre</h2>
 		<dl>
 			<dt>Address:</dt>
-			<dd>Superstore Mall<br />126 South Albion Street<br />Amherst, NS B4H 2X3</dd> 
+			<dd class="address"><access:address/></dd> 
 			<dt>Directions:</dt>
 			<dd>Turn right at Exit #4, continue past the Amherst Shopping Centre then past Kent Building Supplies, both on your right. RMV is on your right at the Superstore (directly across the street from the Cumberland Mall).</dd>
 			<dt>Toll-Free:</dt>
 			<dd><a href="tel:+1-800-670-4357">1-800-670-4357</a></dd>
 			<dt>Hours:</dt>
-			<dd>Monday to Friday - 8:30am to 4:30pm<br />(except holidays)</dd>
+			<dd class="hours"><access:hours/></dd>
 			<dt>Note:</dt>
 			<dd>Only Motor Vehicle Registration and Driver Licensing Services available after 4:30 p.m.</dd>
 		</dl>
