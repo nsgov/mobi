@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Walk-in Centres">Walk-in Centres</title>
+  <title abbr="Museums &amp; Parks">Museums &amp; Parks</title>
   <content for="main">
     <contentlinks>
       <link page="museums"/>
-      <!--link page="parks"/-->
+      <link page="parks"/>
     </contentlinks>
   </content>
 </page>
