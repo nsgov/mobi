@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Cottage Cove</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Cottage Cove</h2>
+		<p>
+A picnic park overlooking the Bay of Fundy. Offering a cool respite from the Valley warmth.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>11935 Shore Road, Port George</dd>
+				<dd>13 km northwest of Middleton on the Fundy shore</dd>
+			</dl>
+	</html>
+  </content>
+</page>

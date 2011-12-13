@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Second Peninsula</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Second Peninsula</h2>
+		<p>
+This large scenic picnic park on the ocean has tables scattered under a stand of spruce and fir and can easily accommodate group picnics.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Lunenburg, 10 km south of Hwy 103, Exit 10. </dd>
+			</dl>
+	</html>
+  </content>
+</page>

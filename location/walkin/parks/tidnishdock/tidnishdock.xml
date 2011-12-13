@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Tidnish Dock</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Tidnish Dock</h2>
+		<p>
+Marks the eastern terminus of the historic Chignecto Marine Transport Railway - one of Nova Scotia's most ambitious engineering projects. The project called for the construction of a 17 mile (28 km) long double-tracked railway from Fort Lawrence on the Bay of Fundy, across the isthmus to Tidnish Dock on the Northumberland Strait. Vessels were to be floated over huge wheeled cradles, which would be lifted by hydraulic presses to the level of the railway. The vessels would then be hauled across the isthmus where, on the other side, vessel and cradle would be lowered into the water until the vessel floated free. 
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>919 Tidnish Head Road, Tidnish</dd>
+			</dl>
+	</html>
+  </content>
+</page>

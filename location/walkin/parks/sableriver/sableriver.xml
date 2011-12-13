@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sable River</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Sable River</h2>
+		<p>
+This small picnic area has a brook running through it that is swallowed up by the incoming tide. A pine tree canopy provides a relaxing place to stop.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>140 West Sable River, Sable River</dd>
+				<dd>Just south of Hwy 103, Exit 23 at Sable River.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

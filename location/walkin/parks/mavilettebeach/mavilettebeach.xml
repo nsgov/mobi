@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Mavillette Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Mavillette Beach</h2>
+		<p>
+1.5 km long sandy beach backed by fragile marram grass covered dunes. Extensive sand flats exposed at low tide. Change houses, boardwalk and freshwater taps available , but no picnic tables.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>295,336,395 John Doucette Rd., Mavillette</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Ellenwood Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Ellenwood Lake</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>1888 Mood Rd, Deerfield</dd>
+				<dd>Ellenwood Lake Provincial Park is located just 19 km (12 mi.) northeast of Yarmouth and 1.6 km (1 mi.) south of Deerfield. Exit 34 off Highway 101, proceed 6.5 km (4 mi.) along Route 340. Follow signs to the park entrance.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>258731.162564</dd>
+					<dt>Y utm:</dt>
+					<dd>4868432.87029</dd>
+					<dt>Longitude:</dt>
+					<dd>66°0' 20.52" W</dd>
+					<dt>Latitude:</dt>
+					<dd>43°55' 46.13" N</dd>
+				</dl>
+			<h4><a href="http://www.novascotiaparks.ca/parks/ellenwood-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Sept. 5 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offers an 87-site campground, two picnic areas, boat launch, a supervised beach, and hiking trail.</p>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>North River</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>North River</h2>
+		<p>
+A small picnic park from which number of backcountry trails begin. One leads through spectacular steep-sided river canyon with deep salmon pools and a beautiful 32 metre (104 foot) waterfall.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>681 Oregon Rd, Oregon</dd>
+				<dd>Located 3.5 kilometres (2.1 miles) off the Cabot Trail at North River Bridge. From Highway 105 take Exit 11.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

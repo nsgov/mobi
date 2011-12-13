@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Beaver Mountain</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Beaver Mountain</h2>
+		<p>A small picnic area with a view of Antigonish and Cape Breton. Trail head for a 6 km (3.5 mi) hiking and cross-country ski trail.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>472 Beaver Meadow Road, James River</dd>
+				<dd>3 km (2 mi) south. Exit 30, Highway 104.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>566048.569375</dd>
+					<dt>Y utm:</dt>
+					<dd>5046350.14893</dd>
+					<dt>Longitude:</dt>
+					<dd>62°9' 12.90"W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°34' 3.20"N</dd>
+				</dl>
+			<h4><a href="http://www.antigonishcounty.ns.ca/BeaverMountain/location.html">Click here for a park map</a></h4>
+	</html>
+  </content>
+</page>

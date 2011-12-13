@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>East River</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>East River</h2>
+		<p>
+A tiny picturesque picnic stop on a sheltered ocean cove. Facilities for the disabled.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>2177 Hwy # 3, East River</dd>
+				<dd>1 km (0.5 mi.) east of Hwy 103, Exit 7.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

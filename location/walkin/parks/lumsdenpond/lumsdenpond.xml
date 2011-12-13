@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lumsden Pond</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Lumsden Pond</h2>
+		<p>
+A small roadside picnic park. A small picnic area with water access and change houses.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>2530 Corcum Burns Rd., Lumsden Pond</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Usige Bàn Falls</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Usige Bàn Falls</h2>
+		<p>
+A 1.5 kilometre round trip hike to a spectacular 15 m waterfall. Picnic tables and pit toilets are available. Located 14.5 kilometres (9 miles) north of Baddeck.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>715 North Branch Rd. Forks Baddeck</dd>
+				<dd>From Highway 105 take Exit 9.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

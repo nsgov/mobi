@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Point Michaud Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Point Michaud Beach</h2>
+		<p>
+A fantastic 3 km (2 mi) sandy beach, backed by marram-covered sand dunes and large cranberry bogs.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>3796 Hwy # 247, Point Michaud</dd>
+				<dd>1 km (0.5 mi) east of Point Michaud.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

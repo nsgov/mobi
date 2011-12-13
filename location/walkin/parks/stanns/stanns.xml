@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>St Anns</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>St Anns</h2>
+		<p>
+Small day use area with picnic spot.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>51475 Cabot Trail, St. Anns</dd>
+			</dl>
+	</html>
+  </content>
+</page>

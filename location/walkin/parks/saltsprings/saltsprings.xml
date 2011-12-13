@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Salt Springs</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Salt Springs</h2>
+		<p>
+Nestled against the banks of the West River, Salt Springs Provincial Park makes a great stopover for visitors to this region of the province.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#2532 Hwy # 4, Saltsprings</dd>
+				<dd>Just off Exit 19 from the Trans-Canada Highway (104) 17 km (10 mi.) west of New Glasgow.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

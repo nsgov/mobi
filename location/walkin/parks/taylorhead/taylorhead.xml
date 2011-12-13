@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Taylor Head</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Taylor Head</h2>
+		<p>
+The park's hiking trails and walks provide access to a variety of natural habitat, interesting geological features, and wildlife species, scenic look-offs, secluded beaches and 16 km (10 mi.) of unspoiled coastline.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>20140 Hwy # 7, Taylor Head</dd>
+				<dd>Located southwest of Sheet Harbour, on Route 7(Marine Drive) Taylor Head Park occupies a rugged wind swept peninsula that juts 6 km into the Atlantic Ocean.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>532721.929742</dd>
+					<dt>Y utm:</dt>
+					<dd>4965308.35517</dd>
+					<dt>Longitude:</dt>
+					<dd>62°35' 9.51"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°50' 25.57"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

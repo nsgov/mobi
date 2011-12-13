@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Arisaig</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Arisaig</h2>
+		<p>A small picnic park, known for its fascinating geology. An interpretive kiosk, trails, and picnic area help ensure an interesting and enjoyable experience.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>Hwy #245 #5704, Arisaig</dd>
+				<dd>Located near the community of Arisaig, 27 km (17 miles) north of Antigonish and 57 km (36 miles) northeast of New Glasgow on Route 245</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>564827.339754</dd>
+					<dt>Y utm:</dt>
+					<dd>5067123.48204</dd>
+					<dt>Longitude:</dt>
+					<dd>62°9' 59.27" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°45' 16.66" N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

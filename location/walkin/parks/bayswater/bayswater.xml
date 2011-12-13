@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Bayswater Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Bayswater Beach</h2>
+		<p>A picnic area with large sand beach and a view of the open ocean. Barbeque grills.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>404 Hwy 329, Bayswater</dd>
+				<dd>20 km (12 mi.) south of Hwy 103, Exit 7</dd>
+			</dl>
+	</html>
+  </content>
+</page>

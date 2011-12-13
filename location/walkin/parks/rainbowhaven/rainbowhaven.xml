@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Rainbow Haven Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Rainbow Haven Beach</h2>
+		<p>The park is known for its large sand and cobble beach at the mouth of Cole Harbour. Board walks, change houses, toilet facilities, canteen. Supervised.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>2248 Cow Bay Rd., Rainbow Haven</dd>
+				<dd>Rainbow Haven Park is 8 km (5 mi.) east of Cow Bay.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>466380.656718</dd>
+					<dt>Y utm:</dt>
+					<dd>4943918.91531</dd>
+					<dt>Longitude:</dt>
+					<dd>63°25' 26.29"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°38' 52.24"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

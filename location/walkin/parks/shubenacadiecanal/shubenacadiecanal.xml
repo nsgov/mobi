@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Shubenacadie Canal</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Shubenacadie Canal</h2>
+		<p>
+Shubenacadie Canal and Waterway is an outdoor museum running across the very heart of Nova Scotia.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Fairbanks Centre in Dartmouth at 54 Locks Road, 2 km from the junction of Hwy 111 and Route 318.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

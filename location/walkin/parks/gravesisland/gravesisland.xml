@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Graves Island</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Graves Island</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>230 Graves Island Rd, East Chester</dd>
+				<dd>Located on Route 3, it is 3 km (2 mi.) east of the villlage of Chester and about 5 km west of Exit 7 on the Hwy 103. </dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>403229.306579</dd>
+					<dt>Y utm:</dt>
+					<dd>4935412.46731</dd>
+					<dt>Longitude:</dt>
+					<dd>64°13' 7.11" W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°33' 55.98" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/gravesisland-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Oct. 10 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>offering a 84 site campground, walking trails, picnic area, swimming area, playground and boat launch. The campground has water outlets and a trailer dump station.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

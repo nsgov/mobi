@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Crystal Crescent Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Crystal Crescent Beach</h2>
+		<p>Three white-sand crescent beaches; two pit-toilet facilities. Trail head for a hike to Pennant Point, 10 km ( 6 mi.).</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>223 Sambro Creek Rd., Sambro Creek</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>449814.60958</dd>
+					<dt>Y utm:</dt>
+					<dd>4923748.11595</dd>
+					<dt>Longitude:</dt>
+					<dd>63°37' 51.26"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°27' 55.07"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

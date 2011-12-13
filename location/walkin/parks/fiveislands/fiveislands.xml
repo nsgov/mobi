@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Five Islands</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Five Islands</h2>
+		<h3>Note</h3>
+		<p>The Red Head Trail from the campground along the seacliffs to Red Head is closed until further notice due to unsafe conditions.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>618 Bentley Road, Hwy 2, Five Islands</dd>
+				<dd>The park is located just 32 km (20 mi) east of Parrsboro and 57 km (35 mi) west of Truro, on Route 2, "The Glooscap Trail". Route 2 is linked to Highway 104 at Exit 4 in Amherst, Exit 5 near Springhill, and Exit 11 at Glenholme.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>420063.377057</dd>
+					<dt>Y utm:</dt>
+					<dd>5028758.62832</dd>
+					<dt>Longitude:</dt>
+					<dd>64°1' 17.40" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°24' 28.01" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/fiveislands-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Sept. 5 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>the park offers a 90-site campground two picnic areas,an unsupervised beach, playground and comfort station facility.</p>
+	</html>
+  </content>
+</page>

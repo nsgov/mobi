@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Blomidon</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Blomidon</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>3138 Pereau Rd, Canning</dd>
+				<dd>Blomidon Provincial Park is located on Nova Scotia's Fundy Coast, 25 kilometres (15 miles) north of Highway 101, Exit 11. From Exit 11, follow Route 358 to Canning, then proceed through Pereau to the park.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>393912.813539</dd>
+					<dt>Y utm:</dt>
+					<dd>5012264.08225</dd>
+					<dt>Longitude:</dt>
+					<dd>64°21' 7.40" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°15' 21.13" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/blomidon-park-map.asp">Click here for a park map</a></h4>
+		<h3>Facilities and Services</h3>
+			<p>Blomidon Provincial Park is open from May 20 to Sept. 5 for the 2011 Season and offers a 70-site campground with both woodland and open sites, two picnic areas, an unsupervised beach near the park entrance, and hiking trails. A group campsite, with kitchen shelter and fire grills, is available by reservation only.</p>
+	</html>
+  </content>
+</page>

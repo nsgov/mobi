@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Thomas Raddall</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Thomas Raddall</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>529 Raddall Road Park, East Port l‘Hebert</dd>
+				<dd>Located 4 km (2 mi.) south of Highway 103, the Lighthouse Route, the park is 29 km (18 mi.) west of Liverpool and 41 km (26 mi.) east of Shelburne. Exit Highway 103 in Port Joli at the Port L' Herbert turn-off.  </dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>345688.37025</dd>
+					<dt>Y utm:</dt>
+					<dd>4856424.70799</dd>
+					<dt>Longitude:</dt>
+					<dd>64°55' 10.90" W</dd>
+					<dt>Latitude:</dt>
+					<dd>43°50' 41.22" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/thraddall-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Oct. 10 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offers a large campground with a total of 82 sites (13 walk-in), picnic areas, and three unsupervised beaches. It also features both walk-in and drive-up camping sites, beautiful white sand beaches, and walking and cycling trails.</p>
+	</html>
+  </content>
+</page>

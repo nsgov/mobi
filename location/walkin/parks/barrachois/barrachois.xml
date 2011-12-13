@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Barrachois</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Barrachois</h2>
+		<p>Formerly a farm, this picnic park is situated on a knoll with a lovely view of Bras d' Or Lake. A short trail leads from the park down to a marshy lagoon</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#2315 Route 223, Barachois</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Martinique Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Martinique Beach</h2>
+		<p>East Petpeswick Road. Beach, with open and wooded picnic area behind dunes. Boardwalks and hard-surfaced paths. Beachcombing, migratory waterfowl.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>2389 Petpeswick Rd., East Petpeswick, HRM</dd>
+				<dd>11 km (7 mi) south of Musquodoboit Harbour.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>488307.022204</dd>
+					<dt>Y utm:</dt>
+					<dd>4948514.89976</dd>
+					<dt>Longitude:</dt>
+					<dd>63°8' 51.24"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°41' 23.68"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Port Shoreham Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Port Shoreham Beach</h2>
+		<p>
+A sand and cobble beach. Picnic tables scattered on the back beach. Change houses, pit toilets.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>Hwy # 344 Civic # 1720, Boylston</dd>
+			</dl>
+	</html>
+  </content>
+</page>

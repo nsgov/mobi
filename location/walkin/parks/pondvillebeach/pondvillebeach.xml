@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Pondville Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Pondville Beach</h2>
+		<p>
+Picnic park with 1 km (0.5 mi) sandy beach, backed by gentle dunes, a large lagoon and salt marsh.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>219 Pondville North Road, Pondville</dd>
+				<dd>2 km (1.5 mi) off route 320 through Pondville.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

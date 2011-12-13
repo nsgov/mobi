@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Cape Chignecto</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Cape Chignecto</h2>
+		<h3>Note</h3>
+		<p>There are no drive-up sites in the park; however, there is a community-operated campground 5 km (3 mi.) east of the park.</p>
+		<p>Before Opening and after March 22, call (902) 667-3638 for further park information.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>6596 Highway #366</dd>
+				<dd>Amherst Shore Provincial Park is located on Route 366, the Sunrise Trail, 36 km (22 mi.) east of Amherst and 26 km (16 mi.) west of Pugwash. </dd>
+			</dl>
+		<h3>Reservations</h3>
+		<p>Only during the open season.<br /><a href="tel:+1-888-544-3434">1-888-544-3434</a><br />9:00 am to 11:00 pm AT (7 days a week)<br /><a href="http://www.novascotiaparks.ca">www.novascotiaparks.ca</a> (24 hours)</p>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>357168.458842</dd>
+					<dt>Y utm:</dt>
+					<dd>5023395.8415</dd>
+					<dt>Longitude:</dt>
+					<dd>64°49' 24.08" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°20' 58.27" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/capechignecto.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 13 to Oct. 23 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offers four walk-in campgrounds a wilderness cabin, bunkhouse and a picnic area. </p>
+	</html>
+  </content>
+</page>

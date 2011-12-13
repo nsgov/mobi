@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Smuggler's Cove</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Smuggler's Cove</h2>
+		<p>
+Beach area with picnic tables and an interpretive display.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>7651 Hwy 1, Meteghan</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>245710.976103</dd>
+					<dt>Y utm:</dt>
+					<dd>4895605.42275</dd>
+					<dt>Longitude:</dt>
+					<dd>66°10' 50.60"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°10' 9.73"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

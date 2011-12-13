@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Musquodoboit Valley</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Musquodoboit Valley</h2>
+		<p>
+Located in a field bordering the Musquodoboit River. Tables are scattered throughout the area; many are shaded by large hardwoods.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>11685 Hwy 224, Middle Musquodoboit</dd>
+				<dd>On Route 224, 42 km (26 mi) north of Route 7.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

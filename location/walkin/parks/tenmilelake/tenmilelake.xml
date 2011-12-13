@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Ten Mile Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Ten Mile Lake</h2>
+		<p>
+A small picnic park beneath a stand of pine and hemlock on the shores of Ten Mile Lake. Relax by the shore or take a quick dip.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>3933 Hwy # 8, Milton</dd>
+				<dd>21 km north of Liverpool</dd>
+			</dl>
+	</html>
+  </content>
+</page>

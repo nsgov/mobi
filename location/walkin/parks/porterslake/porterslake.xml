@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Porters Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Porters Lake</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>1160 West Porters Lake Road, Porters Lake, HRM</dd>
+				<dd>Just 23 kilometers east of Dartmouth, the park is 4.4 km (2.7 mi.) south of Exit 19 from Highway 107, on the West Porters Lake Rd.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>475524.145915</dd>
+					<dt>Y utm:</dt>
+					<dd>4948683.62602</dd>
+					<dt>Longitude:</dt>
+					<dd>63°18' 32.01" W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°41' 27.98" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/porters-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Oct. 10 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>The park has 80 campsites, a picnic area, boat launch and trailer dump station. The small unsupervised beach is ideal for family fun.</p>
+			<p>Although there are no electrical hookups on the loop sites water and vault toilets are conveniently located throughout the campground. Electrical hook-ups are available are 10 new RV pull through sites. Accessible flush toilets and showers are available.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

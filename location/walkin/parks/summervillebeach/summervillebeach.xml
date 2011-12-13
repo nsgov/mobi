@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Summerville Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Summerville Beach</h2>
+		<p>
+One of the finest sandy beaches on the south shore. Picnic tables are out in the open but each has a roof to provide shade. The 1 km long beach is backed by sand dunes and a open salt marsh.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>7533 Hwy # 3, Summerville Centre</dd>
+				<dd>Off Rte. 3 at Summerville Centre.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>354388.930724</dd>
+					<dt>Y utm:</dt>
+					<dd>4868428.78533</dd>
+					<dt>Longitude:</dt>
+					<dd>64°48' 53.24"W</dd>
+					<dt>Latitude:</dt>
+					<dd>43°57' 16.48"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

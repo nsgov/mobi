@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Clam Harbour Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Clam Harbour Beach</h2>
+		<p>
+A long, wide sandy beach; picnic area in a field on top of a bluff. Supervised weekends only. Canteen, flush toilet, changing rooms, showers.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>158 Beach Road, Clam Harbour, HRM</dd>
+				<dd>From Lake Charlotte, 10 km (6 mi) south of Route 7</dd>
+			</dl>
+	</html>
+  </content>
+</page>

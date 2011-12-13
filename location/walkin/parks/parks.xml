@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title abbr="Provincial Parks">Provincial Parks</title>
+  <content for="main">
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+  	<p>		<h3>Reservations</h3>
+		<p>Only during the open season.<br /><a href="tel:+1-888-544-3434">1-888-544-3434</a><br />9:00 am to 11:00 pm AT (7 days a week)<br /><a href="http://www.novascotiaparks.ca">www.novascotiaparks.ca</a> (24 hours)</p>
+</p>
+		<h2>Cape Breton</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="barrachois"/>
+      		<link page="battery"/>
+      		<link page="beneoin"/>
+			<link page="burntisland"/>
+			<link page="cabots"/>
+			<link page="capesmokey"/>
+			<link page="dalemlake"/>
+			<link page="dominionbeach"/>
+			<link page="dundee"/>
+			<link page="grovespoint"/>
+			<link page="irishcove"/>
+			<link page="lakeolaw"/>
+			<link page="lennoxpassage"/>
+			<link page="longpoint"/>
+			<link page="mabou"/>
+			<link page="maccormack-cb"/>
+			<link page="mirariver"/>
+			<link page="northriver"/>
+			<link page="petersfield"/>
+			<link page="pointmichaud"/>
+			<link page="pondvillebeach"/>
+			<link page="porthoodbeach"/>
+			<link page="rossferry"/>
+			<link page="southwestmargaree"/>
+			<link page="stanns"/>
+			<link page="troutbrook"/>
+			<link page="usigebanfalls"/>
+			<link page="westmaboubeach"/>
+			<link page="whycocomagh"/>
+    		</contentlinks>
+		<h2>Eastern Shore</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="blackduck"/>
+      		<link page="boylston"/>
+      		<link page="clamharbour"/>
+     		<link page="dollarlake"/>
+  		    <link page="elderbank"/>
+     		<link page="lawrencetown"/>
+      		<link page="lochiellake"/>
+      		<link page="mariejoseph"/>
+      		<link page="martiniquebeach"/>
+      		<link page="mooseriver"/>
+      		<link page="musquodoboit"/>
+      		<link page="porterslake"/>
+      		<link page="portshoreham"/>
+      		<link page="rainbowhaven"/>
+      		<link page="salsman"/>
+      		<link page="sherbrooke"/>
+      		<link page="sprybay"/>
+      		<link page="taylorhead"/>
+      		<link page="torbay"/>
+    		</contentlinks>
+		<h2>Fundy Shore &amp; Annapolis Valley</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="annapolis"/>
+      		<link page="anthony"/>
+      		<link page="blomidon"/>
+      		<link page="caddell"/>
+      		<link page="capechignecto"/>
+      		<link page="centralgrove"/>
+      		<link page="clairmont"/>
+      		<link page="coldbrook"/>
+      		<link page="cottagecove"/>
+      		<link page="fallslake"/>
+      		<link page="lakegeorge"/>
+      		<link page="lakemidway"/>
+      		<link page="londonderry"/>
+      		<link page="lumsdenpond"/>
+      		<link page="macelmonspond"/>
+      		<link page="mickeyhill"/>
+      		<link page="newvillelake"/>
+      		<link page="provincialwildlifepark"/>
+      		<link page="savary"/>
+      		<link page="scotsbay"/>
+      		<link page="smileys"/>
+      		<link page="valleyview"/>
+      		<link page="wentworth"/>
+    		</contentlinks>
+		<h2>Halifax Metro</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="crystalcrescent"/>
+      		<link page="jerrylawrence"/>
+      		<link page="laurie"/>
+      		<link page="maccormacks-halifax"/>
+      		<link page="mcnabs-lawlor"/>
+      		<link page="oakfield"/>
+      		<link page="shubenacadiecanal"/>
+      		<link page=""/>
+      		<link page=""/>
+    		</contentlinks>
+		<h2>Northumberland Shore</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="amherst"/>
+      		<link page="arisaig"/>
+      		<link page="balmoral"/>
+      		<link page="bayfield"/>
+      		<link page="beaver"/>
+      		<link page="bluesea"/>
+      		<link page="caribou"/>
+      		<link page="foxharbour"/>
+      		<link page="greenhill"/>
+      		<link page="gulfshore"/>
+      		<link page="heatherbeach"/>
+      		<link page="melmerby"/>
+      		<link page="northportbeach"/>
+      		<link page="pomquetbeach"/>
+      		<link page="powellspoint"/>
+      		<link page="rushtonsbeach"/>
+      		<link page="saltsprings"/>
+      		<link page="shinimicas"/>
+      		<link page="tatamagouche"/>
+      		<link page="tidnishdock"/>
+      		<link page="waterside"/>
+    		</contentlinks>
+		<h2>South Shore</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="bayswater"/>
+      		<link page="bushisland"/>
+      		<link page="camerons"/>
+      		<link page="cardlake"/>
+      		<link page="cleveland"/>
+      		<link page="cookville"/>
+      		<link page="eastriver"/>
+      		<link page="fancylake"/>
+      		<link page="gravesisland"/>
+      		<link page="hubbards"/>
+      		<link page="ninevah"/>
+      		<link page="queensland"/>
+      		<link page="rissersbeach"/>
+      		<link page="sableriver"/>
+      		<link page="sandhillsbeach"/>
+      		<link page="secondpeninsula"/>
+      		<link page="smugglerscove"/>
+      		<link page="tenmilelake"/>
+      		<link page="theislands"/>
+      		<link page="thomasraddall"/>
+      		<link page="williamdegarthe"/>
+    		</contentlinks>
+		<h2>Yarmouth and Acadian Shores</h2>
+    		<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
+      		<link page="ellenwood"/>
+      		<link page="glenwood"/>
+      		<link page="mavilettebeach"/>
+      		<link page="portmaitland"/>
+      		<link page="smugglerscove"/>
+    		</contentlinks>
+    </html>
+  </content>
+</page>

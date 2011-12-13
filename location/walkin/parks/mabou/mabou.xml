@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Mabou</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Mabou</h2>
+		<p>
+Hillside location, with a panoramic view of the Mabou Valley. Picnic tables.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#19 Hwy, Mabou Mountain, Mabou</dd>
+				<dd>1.5 km (1 mi) north of Mabou.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

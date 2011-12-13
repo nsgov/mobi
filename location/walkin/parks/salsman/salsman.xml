@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Salsman</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Salsman</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>15641 Highway 316, Country Harbour</dd>
+				<dd>On Route 316, about (8 km) north of Issac's Harbour and the Country Harbour Ferry.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>596766.155937</dd>
+					<dt>Y utm:</dt>
+					<dd>5010001.94217</dd>
+					<dt>Longitude:</dt>
+					<dd>61°46' 1.74" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°14' 12.68" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/salsman-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>June 17 - Sept. 12 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>The park has 40 well manicured campsites, a picnic area, boat launch, and trailer dump station. The unsupervised beach is ideal for families to splash about.</p>
+			<p>Although there are no electrical hookups, water and vault toilets are conveniently located throughout the campground. Accessible flush toilets and showers are available.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

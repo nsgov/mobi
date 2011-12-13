@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Port Maitland Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Port Maitland Beach</h2>
+		<p>
+A one km sand and cobble beach backed by a grassy picnic area, picnic tables water outlet and change houses. The nearby wharf and fishing boats are favourite subjects for painters and photographers.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>3297 Shore Rd., Port Maitland</dd>
+			</dl>
+	</html>
+  </content>
+</page>

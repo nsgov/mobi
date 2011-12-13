@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Blue Sea Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Blue Sea Beach</h2>
+			<p>Small picnic and swimming park</p>
+		<h3>How to Find Us</h3>
+			<p>Blue Sea Beach Provincial Park, Malagash, NS</p>
+	</html>
+  </content>
+</page>

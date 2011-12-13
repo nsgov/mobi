@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>William deGarthe</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>William deGarthe</h2>
+		<p>
+ Carved memorial to the fishermen of the area. Long-time resident William de Garthe carved the memorial in a granite outcrop.
+ 		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>Peggy’s Cove, NS</dd>
+			</dl>
+	</html>
+  </content>
+</page>

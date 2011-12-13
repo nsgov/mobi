@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Dalem Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Dalem Lake</h2>
+		<p>
+Park surrounds a small lake. Hardwood-shaded tables. White sand beach; boat launches for non-motorized boats.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>220 New Dominion Rd., Boularderie</dd>
+				<dd>Trail 1.5 km (0.5 mi). 3 km (2 mi) east of Boularderie East, 4 km (2.5 mi) north off Highway 105.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

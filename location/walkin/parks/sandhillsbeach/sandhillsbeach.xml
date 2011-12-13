@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Sand Hills Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Sand Hills Beach</h2>
+		<p>
+At low tide there are wide sand flats which warm the water when the tide comes back in. Spectacular sand dune system backs the beach area. There are change facilities and picnic tables.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#28 Sand Hills Beach Park Rd., Villagedale</dd>
+				<dd>Villagedale, 6 km south of Hwy 103, Exit 29. (Barrington), features a 2.5 km white sand beach.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>294317.107821</dd>
+					<dt>Y utm:</dt>
+					<dd>4822452.74068</dd>
+					<dt>Longitude:</dt>
+					<dd>65°32' 42.94"W</dd>
+					<dt>Latitude:</dt>
+					<dd>43°31' 36.08"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

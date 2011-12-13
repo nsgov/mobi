@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>MacElmons Pond</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>MacElmons Pond</h2>
+		<p>
+Small picnic park and short walking trail adjacent to a headpond and wildlife sanctuary. The rich waters of the headpond supports a small population of American widgeon as well it is an important staging area for migratory waterfowl.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>219 MacElmon Rd., Onslow</dd>
+			</dl>
+	</html>
+  </content>
+</page>

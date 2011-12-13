@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Laurie</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Laurie</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>4949 Hwy # 2, Grand Lake</dd>
+				<dd>At Grand Lake on Route 2. The park is 10 km ( 6 mi.) north of Highway 102, Exit 5.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>452437.408103</dd>
+					<dt>Y utm:</dt>
+					<dd>4969593.66711</dd>
+					<dt>Longitude:</dt>
+					<dd>63°36' 7.90" W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°52' 41.43" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/laurie-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>June 29 - Sept. 5 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>The park has 71 woodland campsites, a large picnic area, and trailer dump station. There is a small unsupervised beach on Shubenacadie-Grand Lake. Oakfield Provincial Park, just a few kilometers north, offers a large open picnic area, boat launch and beautiful sand beach ideal for family swimming.</p>
+	</html>
+  </content>
+</page>

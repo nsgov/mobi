@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Pomquet Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Pomquet Beach</h2>
+		<p>
+This 3 km (2 mi) supervised beach has the best example of dune succession in Nova Scotia. Boardwalks. Flush toilet, change house, interpretive display.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>432 Pomquet Beach Road, Pomquet</dd>
+				<dd>Take either Exit 35 or 36 north off Highway 104.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Petersfield</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Petersfield</h2>
+		<p>
+Picnic park overlooking the south arm of Sydney Harbour. The park contains remnants of four cultural periods, dating from the late 18th to mid 20th centuries. Extensive network of walking trails.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>1126 Westmount Road, Westmount</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Clairmont</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Clairmont</h2>
+		<p>
+A small picnic area, a cool oasis, beneath a stand of red pine. Three km east of Kingston
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>1405 Hwy # 1, East Kingston</dd>
+				<dd>Off Hwy 101 between Exits 16 and 17</dd>
+			</dl>
+	</html>
+  </content>
+</page>

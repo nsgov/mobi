@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Dominion Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Dominion Beach</h2>
+		<p>A 1.5 km (1 mi) sandy beach. Boardwalks to the beach protect the dunes. Change houses, canteen, salt rinse showers, toilets.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>48 Lower Mitchell Avenue, Dominion</dd>
+				<dd>From Sydney, Highway 4 left, north of Gardener Road. 5 km (3 mi), right 8 km(5 mi) east along Highway 28.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>729309.536264</dd>
+					<dt>Y utm:</dt>
+					<dd>5121965.17311</dd>
+					<dt>Longitude:</dt>
+					<dd>60°1' 37.63"W</dd>
+					<dt>Latitude:</dt>
+					<dd>46°12' 45.34"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

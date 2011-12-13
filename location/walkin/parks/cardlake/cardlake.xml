@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Card Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Card Lake</h2>
+		<p>
+A small park under a canopy of mature softwood trees on the edge of Card lake. The small beach provides an opportunity for a quick dip, or you can launch a canoe or small boat to explore the lake.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>3895 Hwy # 14, Card Lake</dd>
+				<dd>Chester, 17 km (10 mi.) north of Hwy 103, Exit 8</dd>
+			</dl>
+	</html>
+  </content>
+</page>

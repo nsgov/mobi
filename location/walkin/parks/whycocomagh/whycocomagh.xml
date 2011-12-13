@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Whycocomagh</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Whycocomagh</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>97 Provincial Park Road, Whycocomagh</dd>
+				<dd>Whycocomagh Provincial Park is located just 0.4 km (0.25 mi.) east of the village of Whycocomagh on Highway 105.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>646437.386714</dd>
+					<dt>Y utm:</dt>
+					<dd>5092239.31987</dd>
+					<dt>Longitude:</dt>
+					<dd>61°6' 35.67" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°58' 5.14" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/whycocomagh-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>July 15 - Oct. 17 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offers a 40-site campground, picnic areas, lake access and over 5 km of hiking trails. Sites 1-9 and 15 have two-way services. Yurts are at sites 38, 39 and 40.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+			<p>
+			Yurts are now available. Yurts can be reserved for a fee of $55 per night for up to four people and $10 for each additional person. Yurts hold a maximum of six people.</p>
+	</html>
+  </content>
+</page>

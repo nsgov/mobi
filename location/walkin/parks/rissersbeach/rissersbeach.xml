@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Rissers Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Rissers Beach</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>5366 Hwy 331, Petite Riviere</dd>
+				<dd>Located on Route 331, near Petite Rivière., it is 15 km ( 9 mi.) south of Hwy 103, Exit 15 The park is 26 km ( 16 mi.) south of Bridgewater.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>386284.71792</dd>
+					<dt>Y utm:</dt>
+					<dd>4898671.00867</dd>
+					<dt>Longitude:</dt>
+					<dd>64°25' 26.11" W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°13' 56.63" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/rissers-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Oct. 10 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offers two campgrounds with a total of 90 sites, picnic areas, and a large supervised beach. There is a canteen and change house with showers adjacent to the beach. Both campgrounds have water outlets and trailer dump stations. The North Rissers campground, while not on the ocean, offers washrooms with showers and a playground.</p>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Melmerby Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Melmerby Beach</h2>
+		<p>A popular 2 km (1.25 mi) supervised beach with boardwalks. Change houses, canteen, salt-rinse showers.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#6280 Little Harbour Road, Melmerby Beach</dd>
+				<dd>16 km (10 mi) north of Highway 104, Exit 25.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>539275.506552</dd>
+					<dt>Y utm:</dt>
+					<dd>5055563.03817</dd>
+					<dt>Longitude:</dt>
+					<dd>62°29' 45.32"W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°39' 9.01"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

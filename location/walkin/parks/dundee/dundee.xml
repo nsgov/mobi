@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Dundee</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Dundee</h2>
+		<p>
+A boat launch for Bras d' Or Lakes. This small park offers a small sandy beach.
+		</p>
+		<h3>How to Find Us</h3>
+			<p>Dundee, Cape Breton: Bras d'Or Lakes Scenic Drive</p>
+		<h3>Open Season</h3>
+			<p>May 20 – October 10</p>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Mickey Hill</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Mickey Hill</h2>
+		<p>
+Day use park with trail and swimming area.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>5 km south of Highway 101, Exit 22.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Gulf Shore</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Gulf Shore</h2>
+		<p>
+A beautiful picnic park on a hilltop overlooking Northumberland Strait. Tables, some shelters, in an open field. Sandy beach with warm water.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>1033 Gulf Shore Road, Upper Gulf Shore</dd>
+				<dd>5 km (3 mi) north of Pugwash.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>The Islands</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>The Islands</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>183 Barracks Road, Hwy 3, Shelburne</dd>
+				<dd>The Islands Provincial Park is located on Nova Scotia's South Shore, on the west side of Shelburne Harbour, 1 km (0.6 mi) south of Highway 3. </dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>311624.882094</dd>
+					<dt>Y utm:</dt>
+					<dd>4848490.18646</dd>
+					<dt>Longitude:</dt>
+					<dd>65°20' 25.25" W</dd>
+					<dt>Latitude:</dt>
+					<dd>43°45' 55.81" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/theislands-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>May 20 - Sept. 5 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>offers a 70-site campground, water outlets, two picnic areas, an unsupervised beach, boat launch, and trailer dump station.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

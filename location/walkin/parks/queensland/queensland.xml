@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Queensland Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Queensland Beach</h2>
+		<p>
+Although not large, this supervised beach is one of the most popular on the South Shore. The warm air and sand draw large crowds, so arrive early on the hot days to find a parking spot.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>9600 Hwy # 3, Hubbards</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>418655.557026</dd>
+					<dt>Y utm:</dt>
+					<dd>4942973.42145</dd>
+					<dt>Longitude:</dt>
+					<dd>64°1' 32.19"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°38' 7.85"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

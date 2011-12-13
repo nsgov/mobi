@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Coldbrook</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Coldbrook</h2>
+		<p>
+A pleasant little picnic area under a canopy of pine. An excellent lunch stop.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>7073 Hwy # 1, Coldbrook</dd>
+				<dd>1 km west of Exit 14</dd>
+			</dl>
+	</html>
+  </content>
+</page>

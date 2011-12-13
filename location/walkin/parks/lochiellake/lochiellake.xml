@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lochiel Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Lochiel Lake</h2>
+		<p>
+A quiet picnic park with tables under trees by an open field, overlooking Two-Mile Lake.The lake is suitable for boating and swimming.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>13575 #7 Hwy, Lochiel Lake</dd>
+			</dl>
+	</html>
+  </content>
+</page>

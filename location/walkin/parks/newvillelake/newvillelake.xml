@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Newville Lake</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Newville Lake</h2>
+		<p>
+Small picnic site under softwood trees, along the shore of Newville Lake.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>Hwy # 209, Halfway River</dd>
+				<dd>Route 2 at Halfway Brook.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

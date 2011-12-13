@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Bayfield Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Bayfield Beach</h2>
+		<p>A small popular beach. This small pebble beach offers supervised swimming on weekends, change houses, vault toilets, picnic area and water outlets available. </p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>151 Bayfield Beach Road, Bayfield.</dd>
+				<dd>6 km (4 mi.) north of Exit 36 off Highway 104, on St. Georges Bay</dd>
+			</dl>
+	</html>
+  </content>
+</page>

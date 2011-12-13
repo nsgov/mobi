@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Moose River Gold Mines</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Moose River Gold Mines</h2>
+		<p>
+Located in one of Nova Scotia's earliest gold mining regions, the park marks the site of the 1936 Moose River Mine Disaster. Three men were trapped in the collapse. Their rescue story was widely chronicled in the media carried by over 700 radio stations across Canada, the US and England. 
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>140 Moose River Road Hwy 7, HRM</dd>
+			</dl>
+	</html>
+  </content>
+</page>

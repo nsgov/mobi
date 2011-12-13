@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>McNabs and Lawlor Islands</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>McNabs and Lawlor Islands</h2>
+		<p>
+At the mouth of Halifax Harbour, the park carries visitors back in time, and back to nature. Just a short boat trip from various points in the metro area, military and history buffs, birders, and hikers will be enthralled with this park’s intriguing past and beautiful natural surroundings so close to the dynamic downtown.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Address:</dt>
+				<dd>McNabs Island is accessible by commercial or private boat from Dartmouth, Eastern Passage and Purcells Cove. The trip takes up to 25 minutes from downtown Halifax, or 10 minutes from Eastern Passage.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>West Mabou Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>West Mabou Beach</h2>
+		<p>
+Natural environment park with large sand beach and dune system at the mouth of Mabou Harbour. The park also consists of old farm fields and marshes. The park has several walking and hiking trails and a picnic area. Change houses and pit toilets and small interpretive site.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>Collindale Road, West Mabou Harbour</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Boylston</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Boylston</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>#11087, Hwy #16, Boylston</dd>
+				<dd>Located about 3 km north of Guysborough on Route 16.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>616512.334437</dd>
+					<dt>Y utm:</dt>
+					<dd>5031447.35758</dd>
+					<dt>Longitude:</dt>
+					<dd>61°30' 38.17" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°25' 36.62" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/boylston-park-map.asp">Click here for a park map</a></h4>
+		<h3>Facilities and Services</h3>
+			<p>The camping park is open from June 17 to Sept. 12 for the 2011 Season offering a 35 site wooded campground, and picnic area. The picnic area is open until mid October. The campground has water outlets and a trailer dump station.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

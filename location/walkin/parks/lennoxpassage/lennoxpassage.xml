@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lennox Passage</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Lennox Passage</h2>
+		<p>
+Tables scattered through a forest; saltwater beach. Explore an operating lighthouse.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>2313 Hwy # 320, Isle Madame</dd>
+				<dd>On route 320, 5 km (3 m) east of the junction of Routes 320 and 206.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Lawrencetown Beach</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Lawrencetown Beach</h2>
+		<p>This popular sand and cobble beach on the Atlantic coast is noted for its surf. Ramped board walks, change house, toilets, canteen. Strong rip tides and currents are common - swimmers must exercise caution. Supervised swimming areas.</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>4348 Lawrencetown Road, Lawrencetown, HRM</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>472152.803371</dd>
+					<dt>Y utm:</dt>
+					<dd>4943360.9175</dd>
+					<dt>Longitude:</dt>
+					<dd>63°21' 4.14"W</dd>
+					<dt>Latitude:</dt>
+					<dd>44°38' 35.04"N</dd>
+				</dl>
+	</html>
+  </content>
+</page>

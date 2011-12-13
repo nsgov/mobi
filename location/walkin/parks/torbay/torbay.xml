@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Tor Bay</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Tor Bay</h2>
+		<p>
+Small but picturesque picnic area on a rocky point looking out to the open Atlantic 8 km (5 mi) south of Larry's River. Sweeping sand beaches; board walks; interpretive displays make this an interesting stop along the Eastern Shore. Beach is unsupervised.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>Hwy# 316 Civic #650, Tor Bay</dd>
+			</dl>
+	</html>
+  </content>
+</page>

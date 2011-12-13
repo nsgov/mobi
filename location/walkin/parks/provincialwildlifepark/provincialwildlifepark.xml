@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Provincial Wildlife Park</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Provincial Wildlife Park</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Phone:</dt>
+				<dd><a href="tel:+1-902-758-2040">(902) 758-2040</a></dd>
+				<dt>Civic Address:</dt>
+				<dd>149 Creighton Road, Shubenacadie, NS</dd>
+				<dd>located just off Highway 102, Exit 11 at Stewiacke, just 40 minutes away from metro Halifax. </dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>Longitude:</dt>
+					<dd>W 063° 23.576'</dd>
+					<dt>Latitude:</dt>
+					<dd>N 45° 05.570</dd>
+				</dl>
+			<h4><a href="https://wildlifepark.gov.ns.ca/park/parkMap/index.html">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+				<dl>
+					<dt>Summer Season:</dt>
+					<dd>May 15 - October 15<br />9:00 A.M. to 6:30 P.M.</dd>
+					<dt>Winter Season:</dt>
+					<dd>October 16 to May 14<br />9:00 A.M. to 3:00 P.M.</dd>
+				</dl>
+		<h3>Admission</h3>
+			<h4>Summer Season</h4>
+			<table><tr> 
+                <td></td>
+                <td><b>Daily Admission</b></td>
+                <td><b>Season Pass</b></td>
+              </tr>
+              <tr> 
+                <td>Family*</td>
+                <td>$11.25</td>
+                <td>$34.00</td>
+              </tr>
+              <tr> 
+                <td>Adult</td>
+                <td>$4.25</td>
+                <td>$14.25</td>
+              </tr>
+              <tr> 
+                <td>Youth (6-17)</td>
+                <td>$2.00</td>
+                <td>$5.00</td>
+              </tr>
+              <tr> 
+                <td>Children 5 and under</td>
+                <td>FREE</td>
+                <td>FREE</td>
+              </tr></table>
+			<h4>Winter Season</h4>
+			<table><tr> 
+                <td></td>
+                <td><b>Daily Admission</b></td>
+                <td><b>Season Pass</b></td>
+              </tr>
+              <tr> 
+                <td>Family*</td>
+                <td>$8.00</td>
+                <td>$21.00</td>
+              </tr>
+              <tr> 
+                <td>Adult</td>
+                <td>$2.75</td>
+                <td>$8.00</td>
+              </tr>
+              <tr> 
+                <td>Youth (6-17)</td>
+                <td>$1.50</td>
+                <td>$4.00</td>
+              </tr>
+              <tr> 
+                <td>Children 5 and under</td>
+                <td>FREE</td>
+                <td>FREE</td>
+              </tr></table>
+              <p>* (max. 2 adults + 3 youth + 5 and under) All taxes are included.</p>
+              <p>Group rates are available</p>
+			<p>Please call the park at 902-758-2040 after 9:00 am to ensure the facility is open as inclement weather or unsafe conditions may force an early closure.</p>
+	</html>
+  </content>
+</page>

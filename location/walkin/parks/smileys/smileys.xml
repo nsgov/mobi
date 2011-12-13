@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Smileys</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Smileys</h2>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>109 Clayton McKay Rd, Hwy 14, Brooklyn.</dd>
+				<dd>Located 6.5 km east of Brooklyn, Hants County just off Route 14.</dd>
+			</dl>
+			<h4>GPS Coordinates</h4>
+				<dl>
+					<dt>X utm:</dt>
+					<dd>424257.408667</dd>
+					<dt>Y utm:</dt>
+					<dd>4984946.5929</dd>
+					<dt>Longitude:</dt>
+					<dd>63°57' 40.49" W</dd>
+					<dt>Latitude:</dt>
+					<dd>45°0' 50.13" N</dd>
+				</dl>
+			<h4><a href="http://parks.gov.ns.ca/parks/smileys-park-map.asp">Click here for a park map</a></h4>
+		<h3>Open Season</h3>
+			<p>June 17 - Sept. 26 for the 2011 Season</p>
+		<h3>Facilities and Services</h3>
+			<p>Offering a 86 site campground, picnic area, playground and walking trails. The campground has water outlets and a trailer dump station as well as a heated comfort station with flush toilets.</p>
+			<p>WiFi is available at the admin building only and the surrounding area. There will be a password needed, please see the park receptionists.</p>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Southwest Margaree</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Southwest Margaree</h2>
+		<p>
+A roadside picnic area next to a small brook, with tables around an open field.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>19240 Hwy # 19</dd>
+				<dd>2 km (1.5 mi) south of the junction of Routes 19 and 395.</dd>
+			</dl>
+	</html>
+  </content>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
+  <title>Irish Cove</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Irish Cove</h2>
+		<p>
+A small roadside picnic park overlooking Bras d' Or Lake. Some tables are sheltered.
+		</p>
+		<h3>How to Find Us</h3>
+			<dl>
+				<dt>Civic Address:</dt>
+				<dd>16165 Hwy # 4, Irish Cove</dd>
+				<dd>32 km (20 mi) northeast of St. Peter's.</dd>
+			</dl>
+	</html>
+  </content>
+</page>
