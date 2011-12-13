@@ -2,10 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Yarmouth and Surrounding Areas</title>
+  <title>Yarmouth</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Yarmouth Justice Centreserves Yarmouth and Shelburne Counties</p>
 		<h3>Yarmouth Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>

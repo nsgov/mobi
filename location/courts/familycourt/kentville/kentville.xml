@@ -2,10 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Kentville and Surrounding Areas</title>
+  <title>Kentville</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Kentville Justice Centre serves Kings, West Hants, and East Hants Counties</p>
 		<h3>Kentville Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>

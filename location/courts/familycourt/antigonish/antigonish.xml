@@ -2,10 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Antigonish and Surrounding Areas</title>
+  <title>Antigonish</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Antigonish Justice Centre serves Antigonish and Guysborough Counties</p>
 		<h3>Antigonish Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>

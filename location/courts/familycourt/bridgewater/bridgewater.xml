@@ -2,11 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Bridgewater and Surrounding Areas</title>
+  <title>Bridgewater</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Bridgewater Justice Centre serves Lunenburg and Queens Counties</p>
-		<h3>Supreme Court</h3>
+		<h3>Bridgewater Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>
 				<dd>141 High Street<br />Bridgewater, NS B4V 1W2</dd> 

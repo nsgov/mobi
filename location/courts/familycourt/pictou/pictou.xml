@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Pictou, New Glasgow, and Surrounding Areas</title>
+  <title>Pictou/New Glasgow</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Pictou Justice Centre serves Pictou County including New Glasgow</p>
 		<h3>Pictou Justice Centre</h3>
+		<p>also serving New Glasgow</p>
 			<dl>
 				<dt>Address:</dt>
 				<dd>69 Water Street<br />P.O. Box 1750<br />Pictou, NS B0K 1H0</dd> 

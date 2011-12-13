@@ -2,10 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Amherst and Surrounding Areas</title>
+  <title>Amherst</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Amherst Justice Centre serves Cumberland County</p>
 		<h3>Amherst Justice Centre</h3>
 			<dl>
 				<dt>Address:</dt>
