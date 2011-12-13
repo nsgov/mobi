@@ -10,8 +10,9 @@
             doctype-system="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"
             omit-xml-declaration="yes"/>
 
+<xsl:variable name="path_xml" select="document('.path.xml', .)"/>
 <xsl:param name="lang"/>
-<xsl:param name="SITEROOT" select="document('.path.xml',/)/path/@root"/>
+<xsl:param name="SITEROOT" select="$path_xml/path/@root"/>
 
 <xsl:template match="/pg:page">
 <!--xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text-->
@@ -115,7 +116,7 @@
     <xsl:when test="$path='' or $path='.'"><xsl:value-of select="concat($trail,document(concat($trail,'.path.xml'),.)/path/@basename)"/>.xml</xsl:when>
     <xsl:when test="$path='..'"><xsl:value-of select="concat($path,'/', document(concat($path,'/.path.xml'),.)/path/@basename)"/>.xml</xsl:when>
     <xsl:when test="not(contains($path, '/'))"><xsl:value-of select="concat($trail,$path,'/',$path)"/>.xml</xsl:when>
-    <xsl:when test="substring($path, 1, 1) = '/'"><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="$path2"/><xsl:with-param name="trail" select="concat(document('.path.xml',.)/path/@root, '/')"/></xsl:call-template></xsl:when>
+    <xsl:when test="substring($path, 1, 1) = '/'"><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="$path2"/><xsl:with-param name="trail" select="concat($path_xml/path/@root, '/')"/></xsl:call-template></xsl:when>
     <xsl:otherwise><xsl:call-template name="path-to-page-xml"><xsl:with-param name="path" select="$path2"/><xsl:with-param name="trail" select="concat($trail,$path1,'/')"/></xsl:call-template></xsl:otherwise>
   </xsl:choose>
 </xsl:template>
