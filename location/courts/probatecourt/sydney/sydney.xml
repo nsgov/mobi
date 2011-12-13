@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Sydney Justice Centre - Cape Breton & Victoria Counties</title>
+  <title>Sydney Justice Centre - Cape Breton &amp; Victoria Counties</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-			<h3>Sydney Justice Centre - Cape Breton & Victoria Counties<br />Probate Office</h3>
+			<h3>Sydney Justice Centre - Cape Breton &amp; Victoria Counties<br />Probate Office</h3>
 			<p>Registrar<br />Shauna Wilson</p>
 			<dl>
 				<dt>Address:</dt>

@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Yarmouth Justice Centre - Shelburne & Yarmouth Counties</title>
+  <title>Yarmouth Justice Centre - Shelburne &amp; Yarmouth Counties</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-			<h3>Yarmouth Justice Centre - Shelburne & Yarmouth Counties<br />Probate Office</h3>
+			<h3>Yarmouth Justice Centre - Shelburne &amp; Yarmouth Counties<br />Probate Office</h3>
 			<p>Registrar<br />Ruth Hurlbert</p>
 			<dl>
 				<dt>Address:</dt>
