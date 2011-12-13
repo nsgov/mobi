@@ -2,20 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Truro and Surrounding Areas</title>
+  <title>Truro Justice Centre - Colchester County</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Truro Justice Centre serves Colchester County</p>
-		<h3>Truro Justice Centre</h3>
-			<h4>Probate Office</h4>
+			<h3>Truro Justice Centre - Colchester County<br />Probate Office</h3>
 			<p>Registrar<br />Anne Marie LeBlanc</p>
 			<dl>
 				<dt>Address:</dt>
 				<dd>1 Church St.<br />Truro, NS B2N 3Z5</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19028935870">(902)893-5870</a></dd>
+					<dd><a href="tel:+19028935870">(902) 893-5870</a></dd>
 					<dt>Fax:</dt>
-					<dd>(902)893-6114</dd>
+					<dd>(902) 893-6114</dd>
 				</dl>
 	</html>
   </content>

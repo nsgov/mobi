@@ -30,7 +30,7 @@
 
 <xsl:template name="header">
 		<a href="{$SITEROOT}/"><img id="vip" src="{$SITEROOT}/img/vip.svg" alt="Nova Scotia"/></a>
-		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><li class="touchstone-item"><a href="fr" hreflang="fr" lang="fr" class="touchstone-link">Français</a></li></ul>
+		<ul id="touchstone-links"><li class="touchstone-item"><a href="{$SITEROOT}/" class="touchstone-link">Home</a></li><!--li class="touchstone-item"><a href="fr" hreflang="fr" lang="fr" class="touchstone-link">Français</a></li--></ul>
 </xsl:template>
 
 <xsl:template match="html:html">
@@ -48,9 +48,9 @@
 <xsl:template name="footer">
 	<ul class="footer-nav">
 	<li class="footerLink"><a href="{$SITEROOT}/contact/">Contact</a></li>
-	<li class="footerLink"><a href="">Privacy</a></li>
-	<li class="footerLink"><a href="">Terms of Use</a></li>
-	<li class="footerLink"><a href="">Full Site</a></li>
+	<li class="footerLink"><a href="http://novascotia.ca/govt/privacy/">Privacy</a></li>
+	<li class="footerLink"><a href="http://novascotia.ca/terms/">Terms of Use</a></li>
+	<li class="footerLink"><a href="http://novascotia.ca">Full Site</a></li>
 	</ul>
 	<p class="site-meta">
 		Copyright <xsl:value-of select="substring($lastmod, 1, 4)"/>, Province of Nova Scotia

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/mobilepage.xsl"?>
+
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page"> 
+  <title>Emergency Phone Numbers</title>
+  <content>
+  	<html xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Phone Numbers</h2>
+			<ol>
+				<li>Emergency: <a href="tel:911">911</a></li>
+				<li>Poison Control Centre: Toll free: <a href="tel:+1-800-565-8161">1-800-565-8161</a>, (local) <a href="tel:+19024288161">(902) 428-8161</a></li>
+				<li>Report Environmental Spills Toll free: <a href="tel:+1-877-936-8476">1-877-9ENVIRO</a>, (<a href="tel:+1-877-936-8476">1-877-936-8476</a>). After 4:30 pm <a href="tel:+1-800-565-1633">1-800-565-1633</a></li>
+				<li>Report Fires, Poaching, or Wildlife Emergencies: <a href="tel:+1-800-565-2224">1-800-565-2224</a></li>
+			</ol>
+	</html>
+  </content>
+</page>
+
+
+

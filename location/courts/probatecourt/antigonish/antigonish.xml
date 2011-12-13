@@ -2,12 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Antigonish and Surrounding Areas</title>
+  <title>Antigonish Justice Centre - Antigonish &amp; Guysborough Counties</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Antigonish Justice Centre serves Antigonish and Guysborough Counties</p>
-		<h3>Antigonish Justice Centre</h3>
-		<h4>Probate Office</h4>
+		<h3>Antigonish Justice Centre - Antigonish &amp; Guysborough Counties<br />Probate Office</h3>
 		<p>Registrar<br />Barbara Arsenault</p>
 			<dl>
 				<dt>Address:</dt>

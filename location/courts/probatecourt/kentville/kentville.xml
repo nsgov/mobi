@@ -2,20 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Kentville and Surrounding Areas</title>
+  <title>Kentville Justice Centre - Hants &amp; Kings Counties</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Kentville Justice Centre serves Kings, West Hants, and East Hants Counties</p>
-		<h3>Kentville Justice Centre</h3>
-		<h4>Probate Office</h4>
+		<h3>Kentville Justice Centre - Hants &amp; Kings Counties<br />Probate Office</h3>
 		<p>Registrar<br />Susan Campbell-Baltzer</p>
 			<dl>
 				<dt>Address:</dt>
 				<dd>87 Cornwallis St.<br />Kentville, NS B4N 2E5</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19026795540">(902)679-5540</a></dd>
+					<dd><a href="tel:+19026795540">(902) 679-5540</a></dd>
 					<dt>Fax:</dt>
-					<dd>(902)679-6178</dd>
+					<dd>(902) 679-6178</dd>
 				</dl>
 	</html>
   </content>

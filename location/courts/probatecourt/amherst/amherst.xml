@@ -2,20 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Amherst and Surrounding Areas</title>
+  <title>Amherst Justice Centre - Cumberland County</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Amherst Justice Centre serves Cumberland County</p>
-		<h3>Amherst Justice Centre</h3>
-		<h4>Probate Office</h4>
+		<h3>Amherst Justice Centre - Cumberland County<br />Probate Office</h3>
 		<p>Registrar<br />Anne Marie LeBlanc</p>
 			<dl>
 				<dt>Address:</dt>
 				<dd>16 Church St., 3rd Floor<br />Amherst, NS B4H 3A6</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19026672256">(902)667-2256</a></dd>
+					<dd><a href="tel:+19026672256">(902) 667-2256</a></dd>
 					<dt>Fax:</dt>
-					<dd>(902)667-1108</dd>
+					<dd>(902) 667-1108</dd>
 				</dl>
 	</html>
   </content>

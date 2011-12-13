@@ -2,20 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Port Hawkesbury and Surrounding Areas</title>
+  <title>Port Hawkesbury Justice Centre - Inverness &amp; Richmond Counties</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>The Port Hawkesbury Justice Centre serves Inverness and Richmond Counties</p>
-		<h3>Port Hawkesbury Justice Centre</h3>
-			<h4>Probate Office</h4>
+			<h3>Port Hawkesbury Justice Centre - Inverness &amp; Richmond Counties<br />Probate Office</h3>
 			<p>Registrar<br />Nancy LeBlanc</p>
 			<dl>
 				<dt>Address:</dt>
 				<dd>15 Kennedy Street<br />Suite 201<br />Port Hawkesbury, NS B9A 2Y1</dd> 
 					<dt>Tel:</dt>
-					<dd><a href="tel:+19026254269">(902)625-4269</a></dd>
+					<dd><a href="tel:+19026254269">(902) 625-4269</a></dd>
 					<dt>Fax:</dt>
-					<dd>(902)625-4084</dd>
+					<dd>(902) 625-4084</dd>
 				</dl>
 	</html>
   </content>

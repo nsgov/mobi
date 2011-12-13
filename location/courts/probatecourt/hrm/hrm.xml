@@ -2,11 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Halifax Regional Municipality</title>
+  <title>Halifax - Halifax Regional Municipality</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<p>Halifax Regional Municipality</p>
-		<h4>Probate Office</h4>
+		<h3>Halifax - Halifax Regional Municipality<br />Probate Office</h3>
 		<p>Registrar<br />Sharron Atton</p>
 			<dl>
 				<dt>Address:</dt>

@@ -6,6 +6,7 @@
   <css href="homepage.css"/>
   <content>
     <contentlinks>
+      <link page="emergency"/>
       <link page="location"/>
       <link page="contact"/>
       <link page="visitor"/>

@@ -2,11 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Digby, Annapolis, and Surrounding Areas</title>
+  <title>Digby / Annapolis Justice Centre - Annapolis County</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Digby / Annapolis Justice Centre</h3>
-		<h4>Annapolis County Probate Office</h4>
+		<h3>Annapolis County Probate Office</h3>
 		<p>Registrar<br />Sandra Gennette</p>
 			<dl>
 				<dt>Address:</dt>
@@ -16,7 +15,7 @@
 					<dt>Fax:</dt>
 					<dd>(902) 532-7225</dd>
 				</dl>
-		<h4>Digby County Probate Office</h4>
+		<h3>Digby County Probate Office</h3>
 		<p>Registrar<br />Sandra Gennette</p>
 			<dl>
 				<dt>Address:</dt>
