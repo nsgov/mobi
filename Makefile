@@ -64,8 +64,9 @@ clean:
 
 allclean: clean recursive
 	@for d in $(DIRS); do \
-		$(MAKE) -f "$(PROJROOT)/Makefile" -C $$d -s allclean; \
-	done
+		printf "• Cleaning $(URLPATH)$$d$(N_CLR)\r";\
+		$(MAKE) -f "$(PROJROOT)/Makefile" -C "$$d" -s allclean;\
+	done && printf "$(N_CLR)"
 
 fresh: allclean all
 
