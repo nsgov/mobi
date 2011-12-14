@@ -26,6 +26,7 @@ DEPS := .path.xml $(XSLDEPS) Makefile $(RELROOT)/Makefile $(DEPS)
 TIDY_CONF := $(PROJROOT)/tidy.conf
 TIDY_FLAGS := -config "$(TIDY_CONF)"
 LASTMOD := $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
+LASTMOD := $(shell python "$(BIN)/lastmod.py" $(XMLFILE) $(URLPATH))
 
 # 1 Rainbow was harmed in the making of this Makefile, in order to add color to errors, warnings, etc.
 W_CLR := [0;43m
