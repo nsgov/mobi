@@ -51,11 +51,12 @@ main: $(DEFAULT_TARGETS)
 
 xhtml: $(XHTML_FILES)
 
-all: main recursive
-	@for d in $(DIRS); do \
-		$(MAKE) -C $$d -q || echo "$(D_CLR)$(URLPATH)$$d$(N_CLR):"; \
-		$(MAKE) -C $$d --no-print-directory all  || (echo "$(E_CLR) * Make failed in \"$(URLPATH)$$d\" * $(N_CLR)" 1>&2; exit 1); \
-	done
+$(DIRS) $(DIRS:%/=%): recursive
+	@printf "$(D_CLR)$(URLPATH)$@$(N_CLR)"
+	@$(MAKE) -C "$@" -q && printf "\r" || echo ":"
+	@$(MAKE) -C "$@" -s all || (echo "$(E_CLR) * Make failed in \"$(URLPATH)$@\" * $(N_CLR)" 1>&2; false)
+
+all: main $(DIRS)
 
 clean:
 	rm -f $(DEFAULT_TARGETS) $(XHTML_FILES)
