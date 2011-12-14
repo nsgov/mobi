@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Health Care">Nova Scotia Health care</title>
+  <title abbr="Health Care">Nova Scotia Health Care</title>
   <content for="main">
     <contentlinks>
       <link page="clinics"/>
