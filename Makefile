@@ -5,7 +5,7 @@ URLPATH  := $(patsubst $(PROJROOT)%,%,$(realpath .))/
 XMLFILE  := $(notdir homepage$(URLPATH:%/=%)).xml
 
 # Generate pages for different languages
-LANGS        := en fr
+LANGS        := en
 DEFAULT_LANG := $(firstword $(LANGS))
 XHTML_FILES  := $(addsuffix .xhtml,$(LANGS:$(DEFAULT_LANG)=index))
 HTML_FILES   := $(XHTML_FILES:.xhtml=.html)
@@ -25,7 +25,6 @@ XSLDEPS := $(shell $(XSLT) $(RELROOT)/xsl/xsldeps.xsl $(XMLFILE))
 DEPS := .path.xml $(XSLDEPS) Makefile $(RELROOT)/Makefile $(DEPS)
 TIDY_CONF := $(PROJROOT)/tidy.conf
 TIDY_FLAGS := -config "$(TIDY_CONF)"
-LASTMOD := $(shell python "$(BIN)/lastmod.py" $(XMLFILE))
 LASTMOD := $(shell python "$(BIN)/lastmod.py" $(XMLFILE) $(URLPATH))
 
 # 1 Rainbow was harmed in the making of this Makefile, in order to add color to errors, warnings, etc.
