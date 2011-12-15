@@ -8,8 +8,8 @@ fr.*html
 # Don't track the automatically generated Makefiles
 Makefile
 
-# This file should be fetched from a remote location each build:
-location/accessns/locations.xml
+# Almost everything here is generated (everything else can be added manually):
+location/accessns/*
 
 # OS generated files #
 ######################
