@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Small Claims Courts">Nova Scotia Small Claims Courts</title>
+  <title abbr="Small Claims Courts">Small Claims Courts</title>
   <content for="main">
     <contentlinks>
       <link page="annapolis"/>

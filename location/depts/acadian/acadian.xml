@@ -2,11 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Acadian Affairs</title>
+  <title>Office of Acadian Affairs</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Acadian Affairs</h2>
-			<h3>Office of Acadian Affairs</h3>
+		<h2>Office of Acadian Affairs</h2>
 				<dl>
 					<dt>Address:</dt>
 					<dd>1740 Granville Street<br />P.O. Box 682<br />Halifax, Nova Scotia B3J 2T3</dd>
