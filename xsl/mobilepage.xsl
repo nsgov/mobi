@@ -11,7 +11,7 @@
 
 <xsl:template match="pg:page" mode="meta">
   <xsl:apply-imports/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </xsl:template>
 
 <xsl:template match="pg:page" mode="css">
