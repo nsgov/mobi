@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Departments &amp; Agencies">Nova Scotia Departments &amp; Agencies</title>
+  <title abbr="Departments &amp; Agencies">Departments &amp; Agencies</title>
   <content for="main">
   	<html xmlns="http://www.w3.org/1999/xhtml">
     <h2>Departments</h2>

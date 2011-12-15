@@ -2,56 +2,56 @@
 <?xml-stylesheet type="text/xsl" href="../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Visitor Information Centres">Nova Scotia Visitor Information Centres</title>
+  <title abbr="Visitor Information Centres">Visitor Information Centres</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Airport</h3>
+		<h3>Halifax Stanfield International Airport</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-873-1223">(902)873-1223</a></dd>
-				<dd><a href="tel:+1-902-873-1224">(902)873-1224</a></dd>
+				<dd><a href="tel:+1-902-873-1223">(902) 873-1223</a></dd>
+				<dd><a href="tel:+1-902-873-1224">(902) 873-1224</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)873-4540</dd>
+				<dd>(902) 873-4540</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-airport@gov.ns.ca">vic-airport@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />Halifax Stanfield International Airport<br />1 Bell Boulevard<br />Enfield, Nova Scotia</dd>
+				<dd>Halifax Stanfield International Airport<br />1 Bell Boulevard<br />Enfield, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>Year Round</dd>
 			</dl>
 		<h3>Amherst</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-667-8429">(902)667-8429</a></dd>
+				<dd><a href="tel:+1-902-667-8429">(902) 667-8429</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)667-0787</dd>
+				<dd>(902) 667-0787</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-amh@gov.ns.ca">vic-amh@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />At the Nova Scotia/New Brunswick border<br />90 Cumberland Loop<br />Amherst, Nova Scotia</dd>
+				<dd>At the Nova Scotia/New Brunswick border<br />90 Cumberland Loop<br />Amherst, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>Year Round</dd>
 			</dl>
 		<h3>Digby</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-245-2201">(902)245-2201</a></dd>
+				<dd><a href="tel:+1-902-245-2201">(902) 245-2201</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)245-2396</dd>
+				<dd>(902) 245-2396</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-digby@gov.ns.ca">vic-digby@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre <br />On route to/from ferry terminal.<br />237 Shore Road<br />Digby, Nova Scotia</dd>
+				<dd>On route to/from ferry terminal.<br />237 Shore Road<br />Digby, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>May - Oct</dd>
 			</dl>
 		<h3>Peggy's Cove</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-823-2253">(902)823-2253</a></dd>
-				<dd><a href="tel:+1-902-823-2256">(902)823-2256</a></dd>
+				<dd><a href="tel:+1-902-823-2253">(902) 823-2253</a></dd>
+				<dd><a href="tel:+1-902-823-2256">(902) 823-2256</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)823-5501</dd>
+				<dd>(902) 823-5501</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-peggy@gov.ns.ca">vic-peggy@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
@@ -62,52 +62,52 @@
 		<h3>Pictou</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-485-6213">(902)485-6213</a></dd>
+				<dd><a href="tel:+1-902-485-6213">(902) 485-6213</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)485-7044</dd>
+				<dd>(902) 485-7044</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-pict@gov.ns.ca">vic-pict@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />Junction of Highway. 106 and Route 6.<br />350 West River Road<br />Pictou, Nova Scotia</dd>
+				<dd>Junction of Highway. 106 and Route 6.<br />350 West River Road<br />Pictou, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>May - Dec</dd>
 			</dl>
 		<h3>Port Hastings</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-625-4201">(902)625-4201</a></dd>
+				<dd><a href="tel:+1-902-625-4201">(902) 625-4201</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)625-4085</dd>
+				<dd>(902) 625-4085</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-phast@gov.ns.ca">vic-phast@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />Entrance to Cape Breton Island<br />96 Highway 4<br />Port Hastings, Nova Scotia</dd>
+				<dd>Entrance to Cape Breton Island<br />96 Highway 4<br />Port Hastings, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>May - Jan</dd>
 			</dl>
 		<h3>Halifax Waterfront</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-424-4248">(902)424-4248</a></dd>
+				<dd><a href="tel:+1-902-424-4248">(902) 424-4248</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)424-0610</dd>
+				<dd>(902) 424-0610</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-water@gov.ns.ca">vic-water@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />On boardwalk, at Sackville Landing<br />1655 Lower Water Street<br />Halifax, Nova Scotia</dd>
+				<dd>On boardwalk, at Sackville Landing<br />1655 Lower Water Street<br />Halifax, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>Year Round</dd>
 			</dl>
 		<h3>Yarmouth</h3>
 			<dl>
 				<dt>Phone:</dt>
-				<dd><a href="tel:+1-902-742-5033">(902)742-5033</a></dd>
+				<dd><a href="tel:+1-902-742-5033">(902) 742-5033</a></dd>
 				<dt>Fax:</dt>
-				<dd>(902)742-0682</dd>
+				<dd>(902) 742-0682</dd>
 				<dt>Email:</dt>
 				<dd><a href="mailto:vic-yarm@gov.ns.ca">vic-yarm@gov.ns.ca</a></dd>
 				<dt>Address:</dt>
-				<dd>Nova Scotia Visitor Information Centre<br />228 Main Street<br />Halifax, Nova Scotia</dd>
+				<dd>228 Main Street<br />Halifax, Nova Scotia</dd>
 				<dt>Open:</dt>
 				<dd>June - Oct</dd>
 			</dl>
