@@ -6,11 +6,13 @@
   <css href="homepage.css"/>
   <content>
     <contentlinks>
-      <link page="emergency"/>
       <link page="location"/>
       <link page="contact"/>
       <link page="visitor"/>
+      <link page="location/walkin"/>
+      <link page="location/depts"/>
       <link page="healthcare"/>
+      <link page="emergency"/>
       <!--link page="links"/-->
     </contentlinks>
   </content>

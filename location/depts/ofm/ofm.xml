@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Fire Marshal</title>
+  <title>Office of the Fire Marshal</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Office of the Fire Marshal, Nova Scotia</h2>
+		<h2>Office of the Fire Marshal</h2>
 		<h3>Building, Fire and Technical Safety</h3>
 			<dl>
 				<dt>Address:</dt>

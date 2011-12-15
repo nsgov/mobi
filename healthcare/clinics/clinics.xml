@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Clinics">Nova Scotia Clinics</title>
+  <title abbr="Clinics">Clinics</title>
   <content for="main">
   	<html xmlns="http://www.w3.org/1999/xhtml">
+		    <p>We recommend calling any clinic before visiting to make sure it is open.</p>
     	<contentlinks xmlns="http://gov.ns.ca/xmlns/page">
-		    <h3>We recommend calling any clinic before visiting to make sure it is open.</h3>
 		      <link page="antigonish"/>
 		      <link page="bedford"/>
 		      <link page="berwick"/>
@@ -18,9 +18,9 @@
 		      <link page="newglasgow"/>
 		      <link page="truro"/>
 		      <link page="wolfville"/>
-		      <h3>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></h3>
-			<h3>See <a href="../hospitals">Hospitals / Emergency Rooms list here</a>. </h3>
     	</contentlinks>
+		      <p>You can also visit the Doctors Nova Scotia (a division of the Canadian Medical Association) <a href="http://www.doctorsns.com/en/home/healthcarefacilitiesandservices/walkinclinics.aspx">walk in clinic website here</a></p>
+			<p>See <a href="../hospitals">Hospitals / Emergency Rooms list here</a>. </p>
     </html>
   </content>
 </page>

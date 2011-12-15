@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title abbr="Courts">Nova Scotia Courts</title>
+  <title abbr="Courts">Courts</title>
   <content for="main">
     <contentlinks>
       <link page="supremecourt"/>
