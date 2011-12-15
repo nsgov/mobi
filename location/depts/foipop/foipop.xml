@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Elections</title>
+  <title>Foipop Review Office</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Elections Nova Scotia</h2>
+		<h2>Foipop Review Office</h2>
 			<dl>
 				<dt>Mailing Address:</dt>
 				<dd>P.O. Box 181<br />Halifax, Nova Scotia <br />Canada B3J 2M4</dd>
