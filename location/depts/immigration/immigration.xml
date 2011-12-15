@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Immigration</title>
+  <title>Office of Immigration</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Nova Scotia Office of Immigration</h2>
+		<h2>Office of Immigration</h2>
 			<dl>
 				<dt>Address:</dt>
 				<dd>1741 Brunswick Street, Suite 110A<br />P.O. Box 1535<br />Halifax, Nova Scotia <br />Canada B3J 2Y3</dd>

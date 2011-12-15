@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../../../xsl/mobilepage.xsl"?>
 
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
-  <title>Ombudsman</title>
+  <title>Office of The Ombudsman</title>
   <content>
   	<html xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Office of The Ombudsman, Nova Scotia</h2>
+		<h2>Office of The Ombudsman</h2>
 			<dl>
 				<dt>Address:</dt>
 				<dd>5670 Spring Garden Road<br />Suite 700<br />P.O. Box 2152<br />Halifax, Nova Scotia <br />Canada B3J 3B7</dd>
