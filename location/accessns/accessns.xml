@@ -3,42 +3,6 @@
 <page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page">
   <title abbr="Access NS">Access Nova Scotia</title>
   <content for="main">
-    <contentlinks>
-      <link page="amherst"/>
-      <link page="antigonish"/>
-      <link page="arichat"/>
-      <link page="baddeck"/>
-      <link page="barrington-passage"/>
-      <link page="bridgewater"/>
-      <link page="canso"/>
-      <link page="cheticamp"/>
-      <link page="dartmouth"/>
-      <link page="digby"/>
-      <link page="glace-bay"/>
-      <link page="guysborough"/>
-      <link page="halifax-head-office"/>
-      <link page="halifax-accessns"/>
-      <link page="ingonish"/>
-      <link page="inverness"/>
-      <link page="kentville"/>
-      <link page="lawrencetown"/>
-      <link page="liverpool"/>
-      <link page="middleton"/>
-      <link page="new-glasgow"/>
-      <link page="north-sydney"/>
-      <link page="pictou"/>
-      <link page="port-hawkesbury"/>
-      <link page="port-hood"/>
-      <link page="sackville"/>
-      <link page="saulnierville"/>
-      <link page="sheet-harbour"/>
-      <link page="shelburne"/>
-      <link page="springhill"/>
-      <link page="sydney"/>
-      <link page="truro"/>
-      <link page="weymouth"/>
-      <link page="windsor"/>
-      <link page="yarmouth"/>
-    </contentlinks>
+    <contentlinks src="contentlinks.xml"/>
   </content>
 </page>
