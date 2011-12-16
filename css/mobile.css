@@ -187,9 +187,9 @@ body {
 	margin: 0 1em;
 	padding: 0.5em 18px 0.5em 0;
 }
-li:nth-child(4n+1) .content-link, li:nth-child(4n+2) .content-link {
+/*li:nth-child(4n+1) .content-link, li:nth-child(4n+2) .content-link {
 	background: url(/img/blue-arrow.png) right center no-repeat;
-} 
+}*/
 
 h2 {
 	color: #48b;
