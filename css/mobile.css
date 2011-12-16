@@ -7,6 +7,8 @@ body {
  background-color: #94B6C;
 }
 
+img { border: 0; }
+
 #container {
 	width: 100%;
 	height:auto;
