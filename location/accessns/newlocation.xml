@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../accessns.xsl"?>
-<page breadcrumb="../" xmlns="http://gov.ns.ca/xmlns/page">
+<page breadcrumb=".." xmlns="http://gov.ns.ca/xmlns/page" xmlns:access="http://gov.ns.ca/xmlns/access-marker">
   <title>TITLE</title>
   <content>
     <html xmlns="http://www.w3.org/1999/xhtml">
+      <access:centre/>
+      <access:services/>
     </html>
   </content>
 </page>
