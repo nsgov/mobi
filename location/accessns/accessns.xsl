@@ -3,8 +3,8 @@
                xmlns="http://www.w3.org/1999/xhtml"
                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                xmlns:pg="http://gov.ns.ca/xmlns/page"
-	       xmlns:access="http://gov.ns.ca/xmlns/access-marker"
-	       xmlns:map="map"
+               xmlns:access="http://gov.ns.ca/xmlns/access-marker"
+               xmlns:map="map"
                exclude-result-prefixes="pg access map">
 <xsl:import href="../../xsl/mobilepage.xsl"/>
 
@@ -22,7 +22,14 @@
 <xsl:template match="pg:contentlinks">
   <h1 class="bucketHead"><img src="{$SITEROOT}/location/accessns/accessns-logo.png" alt="Access Nova Scotia"/></h1>
   <ul class="bucketList">
-    <xsl:apply-templates/>
+    <xsl:choose>
+      <xsl:when test="@src">
+        <xsl:apply-templates select="document(@src,.)/pg:contentlinks/pg:link"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates select="pg:link"/>
+      </xsl:otherwise>
+    </xsl:choose>
   </ul>
 </xsl:template>
 
