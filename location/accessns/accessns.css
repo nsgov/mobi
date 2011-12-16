@@ -1,7 +1,8 @@
 dd.address, dd.hours { white-space: pre-line; }
 
 .access-service {
-	margin: 0 1.5em;
+	margin: 0;
+	padding: 0;
 }
 
 .access-service h3 {
