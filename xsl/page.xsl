@@ -24,7 +24,7 @@
     <xsl:apply-templates select="." mode="css"/>
     <xsl:apply-templates select="pg:css"/>
   </head>
-  <body>
+  <body xml:space="preserve">
     <xsl:apply-templates select="." mode="layout"/>
     <xsl:apply-templates select="pg:script"/>
   </body>
