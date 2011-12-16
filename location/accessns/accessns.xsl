@@ -52,10 +52,15 @@
 </xsl:template>
 
 <xsl:template match="access:centre">
-  <xsl:call-template name="access-centre">
-    <xsl:with-param name="place"><xsl:call-template name="access-place"/></xsl:with-param>
-    <xsl:with-param name="service"><xsl:call-template name="access-service"/></xsl:with-param>
-  </xsl:call-template>
+  <xsl:variable name="place"><xsl:call-template name="access-place"/></xsl:variable>
+  <xsl:variable name="service"><xsl:call-template name="access-service"/></xsl:variable>
+  <xsl:if test="$markers/marker[@name=$place and @service=$service]">
+    <h2><xsl:value-of select="$place"/> Access Centre</h2>
+    <xsl:call-template name="access-centre">
+      <xsl:with-param name="place" select="$place"/>
+      <xsl:with-param name="service"><xsl:call-template name="access-service"/></xsl:with-param>
+    </xsl:call-template>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template name="access-centre">
@@ -111,18 +116,21 @@
 <xsl:template match="access:services">
   <xsl:variable name="place"><xsl:call-template name="access-place"/></xsl:variable>
   <xsl:variable name="accesscentre" select="$markers/marker[@name=$place and @service='Access Nova Scotia']"/>
-  <ul>
-  <xsl:for-each select="$markers/marker[@name=$place and @service!='Access Nova Scotia']">
-    <li>
-      <xsl:value-of select="@service"/>
-      <xsl:call-template name="access-centre">
-	<xsl:with-param name="place" select="$place"/>
-	<xsl:with-param name="service" select="@service"/>
-	<xsl:with-param name="centre" select="$accesscentre"/>
-      </xsl:call-template>
-    </li>
-  </xsl:for-each>
-  </ul>
+  <xsl:if test="$markers/marker[@name=$place and @service!='Access Nova Scotia']">
+    <h2><xsl:value-of select="$place"/> Services</h2>
+    <ul>
+      <xsl:for-each select="$markers/marker[@name=$place and @service!='Access Nova Scotia']">
+        <li class="access-service">
+          <h3><xsl:value-of select="@service"/></h3>
+          <xsl:call-template name="access-centre">
+            <xsl:with-param name="place" select="$place"/>
+            <xsl:with-param name="service" select="@service"/>
+            <xsl:with-param name="centre" select="$accesscentre"/>
+          </xsl:call-template>
+        </li>
+      </xsl:for-each>
+    </ul>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template name="access-centre-field">
