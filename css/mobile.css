@@ -1,5 +1,5 @@
 html, body { margin: 0; padding: 0; height: 100%;}
-#touchstone-links { margin: 0; padding: 0 0 0 ; list-style-type: none;}
+#touchstone-links { margin: 0; padding: 0; list-style-type: none;}
 a { text-decoration: none;}
 
 body {
@@ -21,9 +21,7 @@ img { border: 0; }
 	max-width: 640px;
 }
 
-#content li {
-	margin-bottom: 1em;
-}
+li { padding: 0.4em 0; }
 
 #header {
 	background: #cadde9; /* Old browsers */
@@ -104,9 +102,7 @@ img { border: 0; }
 }
 
 #breadcrumbs ol { margin: 0; padding: 0; list-style-type: none;}
-#breadcrumbs li {
-	display: inline;
-}
+#breadcrumbs li { display: inline; }
 #breadcrumbs li:first-child { display: none; }
 #breadcrumbs li:before { content: "›"; }
 #breadcrumbs li:nth-child(-n+2):before { content: ""; }
@@ -175,7 +171,7 @@ img { border: 0; }
 	        border-bottom-right-radius: 0.5em;
 }
 
-#content .boxList li, #content .bucketList li { list-style-type: none; margin-bottom: 0; }
+.boxList li, .bucketList li { list-style-type: none; padding: 0;}
 
 .box, .bucket {
 	background: white;
