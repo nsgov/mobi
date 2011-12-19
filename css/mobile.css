@@ -1,6 +1,5 @@
-		
 html, body { margin: 0; padding: 0; height: 100%;}
-ul { margin: 0; padding: 0; list-style-type: none;}
+#touchstone-links { margin: 0; padding: 0 0 0 ; list-style-type: none;}
 a { text-decoration: none;}
 
 body {
@@ -20,6 +19,10 @@ img { border: 0; }
 	margin: 0 auto;
 	font-family: Helvetica;
 	max-width: 640px;
+}
+
+#content li {
+	margin-bottom: 1em;
 }
 
 #header {
@@ -130,6 +133,8 @@ img { border: 0; }
 	text-align: right;
 }
 
+.boxList, .bucketList { margin: 0; padding: 0; }
+
 .bucketHead, .box, .boxList > *:first-child {
 	-webkit-border-top-left-radius: 0.5em;
 	   -moz-border-top-left-radius: 0.5em;
@@ -170,6 +175,8 @@ img { border: 0; }
 	        border-bottom-right-radius: 0.5em;
 }
 
+#content .boxList li, #content .bucketList li { list-style-type: none; margin-bottom: 0; }
+
 .box, .bucket {
 	background: white;
 	background: -moz-linear-gradient(top, #d6dde0 0%, #ffffff 8em); /* FF3.6+ */
@@ -192,6 +199,10 @@ img { border: 0; }
 /*li:nth-child(4n+1) .content-link, li:nth-child(4n+2) .content-link {
 	background: url(/img/blue-arrow.png) right center no-repeat;
 }*/
+
+
+.alternating > *:nth-child(odd)  { background: #fff; }
+.alternating > *:nth-child(even) { background: #dde; }
 
 h2 {
 	color: #48b;
