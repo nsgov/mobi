@@ -15,3 +15,4 @@ dd.address, dd.hours { white-space: pre-line; }
 	background: linear-gradient(left, #ddddee 0%,#ffffff 100%); /* W3C */
 	padding: 0.5em;
 }
+li {list-style: none;}
